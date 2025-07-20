@@ -1,3 +1,7 @@
+vless://8df60790-c903-4661-b85d-64c0009378e5@188.114.96.6:443/?type=ws&encryption=none&flow=&host=F1.paRsa.fiLegEar-Sg.Me&path=%2F&ed=2560&eh=Sec-WebSocket-Protocol&security=tls&sni=F1.paRsa.fiLegEar-Sg.Me&allowInsecure=1#AutoAiVPN90
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.121:8880?encryption=none&security=none&type=grpc#AutoAiVPN88
+vless://2fc97eb0-d9d2-4567-99bf-bb5f64b5d5e9@45.63.60.98:12188/?type=tcp&encryption=none&flow=&packetEncoding=xudp#AutoAiVPN87
+vless://8250d638-45df-41fa-b06f-160d1cb1de0c@172.67.187.114:443?security=tls&sni=abc.vpneee.top&type=ws&host=abc.vpneee.top&path=%2FYnqGMcAt%2F#AutoAiVPN86
 vless://401374e6-df77-41fb-f638-dad8184f175b@103.133.1.227:443?encryption=none&security=tls&sni=pqh24v3.hiddendom.shop&alpn=h2&type=grpc#AutoAiVPN85
 trojan://telegram-id-directvpn@15.237.91.60:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN81
 trojan://telegram-id-directvpn@3.123.224.178:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN80
@@ -14,7 +18,3 @@ ss://cbbacaa-caba-aacb-adbc-bbacbbaccaca@127.0.0.1:8080?security=tls&type=tcp#Au
 ss://d66bb0ee-5f9e-5269-adb8-492d19241ed6@199.232.196.204:80?security=none&type=ws&host=JOiN--E-L-i-V-2-R-A-Y.net#AutoAiVPN63
 vmess://eyJ2IjoiMiIsInBzIjoiQXV0b0FpVlBONjIiLCJhZGQiOiIxMDQuMjYuMC40MCIsInBvcnQiOiIyMDgyIiwidHlwZSI6Im5vbmUiLCJpZCI6IjVmM2YwOWFkLTg5Y2ItNGU5NC1hN2FkLWFhODIzOTkxMzU1NSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiJnaXRodWIuY29tXC9BbHZpbjk5OTkiLCJob3N0IjoiZTQuNjkyOTE5OC54eXoiLCJ0bHMiOiIifQ==
 vless://cbbacaa-caba-aacb-adbc-bbacbbaccaca@127.0.0.1:8080?security=tls&type=tcp#AutoAiVPN60
-vless://d66bb0ee-5f9e-5269-adb8-492d19241ed6@199.232.196.204:80?security=none&type=ws&host=JOiN--E-L-i-V-2-R-A-Y.net#AutoAiVPN59
-ss://d66bb0ee-5f9e-5269-adb8-492d19241ed6@199.232.192.204:80?security=none&type=ws&host=JOiN--E-L-i-V-2-R-A-Y.net#AutoAiVPN58
-ss://21116e83-f40b-4f97-a1f1-7bb1c5ea4609@151.101.2.219:80?security=none&type=ws&host=snapp.com#AutoAiVPN57
-vmess://eyJ2IjoiMiIsInBzIjoiQXV0b0FpVlBONTUiLCJhZGQiOiIxMDQuMjYuMC4yNyIsInBvcnQiOiI4ODgwIiwidHlwZSI6Im5vbmUiLCJpZCI6IjkwZjhmNGRjLTgwOTItNDM1NS05MDQ3LTA1ZjUwNmY1ZTlhYiIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiJnaXRodWIuY29tXC9BbHZpbjk5OTkiLCJob3N0IjoibTEuMTA2Nzc4Lnh5eiIsInRscyI6IiJ9
