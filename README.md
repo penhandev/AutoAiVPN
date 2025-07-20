@@ -4,7 +4,6 @@ Free V2Ray configs updated automatically.
 
 ## 📊 Current Status
 - **Total Configs**: 8
-- **Last Updated**: 2025-07-20 17:29:03 UTC
 - **Config Types**: shadowsocks, vless
 
 ## 📁 Files
