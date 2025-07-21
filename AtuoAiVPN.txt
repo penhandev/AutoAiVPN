@@ -1,3 +1,11 @@
+trojan://blue2024@172.64.154.11:443?allowInsecure=1&sni=ta.promote.icu#AutoAiVPN23870
+ss://274e2847-5a96-4528-9ebf-78ecc81df3f3@31.7.70.15:8001?security=none&type=tcp&host=Fast.com&path=%2F&headerType=http#AutoAiVPN23869
+ss://0e091dbb-e961-4df1-91e3-b4d4e299e595@104.17.148.22:443?security=tls&sni=ustest.thisisvds.co&type=ws&host=ustest.thisisvds.co&path=%2F%3Fed%3D1024#AutoAiVPN23867
+vless://274e2847-5a96-4528-9ebf-78ecc81df3f3@31.7.70.15:8001?security=none&type=tcp&host=Fast.com&path=%2F&headerType=http#AutoAiVPN23866
+vless://0e091dbb-e961-4df1-91e3-b4d4e299e595@104.17.148.22:443?security=tls&sni=ustest.thisisvds.co&type=ws&host=ustest.thisisvds.co&path=%2F%3Fed%3D1024#AutoAiVPN23864
+trojan://telegram-id-directvpn@15.188.128.163:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN21936
+trojan://telegram-id-privatevpns@15.188.128.163:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN21930
+trojan://blue2024@ip.sb:443?allowInsecure=1&sni=ta.promote.icu#AutoAiVPN21894
 trojan://blue2024@ashton.ns.cloudflare.com:443?allowInsecure=1&sni=ta.promote.icu#AutoAiVPN21888
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.128.163:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN21867
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.128.163:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN21866
@@ -10,11 +18,3 @@ trojan://blue2024@172.67.92.230:443?allowInsecure=1&sni=ta.promote.icu#AutoAiVPN
 trojan://blue2024@172.67.103.157:443?allowInsecure=1&sni=ta.promote.icu#AutoAiVPN17939
 trojan://blue2024@ipinfo.in:443?allowInsecure=1&sni=ta.promote.icu#AutoAiVPN17938
 trojan://blue2024@ip.gs:443?allowInsecure=1&sni=ta.promote.icu#AutoAiVPN17937
-trojan://blue2024@104.19.126.235:443?allowInsecure=1&sni=ta.promote.icu#AutoAiVPN17936
-trojan://blue2024@www.wto.org:443?allowInsecure=1&sni=ta.promote.icu#AutoAiVPN17935
-trojan://blue2024@104.25.254.4:2087?allowInsecure=1&sni=ta.promote.icu#AutoAiVPN17934
-ss://17844e21-8ddc-4474-8c1f-88dcfa96239a@151.101.194.228:443?security=tls&sni=hajlab.ucdavis.edu&type=ws&host=Joinxvproxybedee.ir&path=%2F%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy%3Fed%3D2048&fp=android&alpn=h2%2Chttp%2F1.1#AutoAiVPN17933
-vless://17844e21-8ddc-4474-8c1f-88dcfa96239a@151.101.194.228:443?security=tls&sni=hajlab.ucdavis.edu&type=ws&host=Joinxvproxybedee.ir&path=%2F%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy%3Fed%3D2048&fp=android&alpn=h2%2Chttp%2F1.1#AutoAiVPN17932
-trojan://blue2024@pranab.ns.cloudflare.com:443?allowInsecure=1&sni=ta.promote.icu#AutoAiVPN15957
-trojan://blue2024@172.67.109.39:443?allowInsecure=1&sni=ta.promote.icu#AutoAiVPN15956
-vmess://eyJhZGQiOiIxMDQuMTguMTE0Ljg3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJjMTcuNjAxNjcyNS54eXoiLCJpZCI6IjE4ZDk2MTkwLWMxMGYtNDQ4Zi1hODJhLTJkMzZkZjVjM2NkZSIsIm5ldCI6IndzIiwicGF0aCI6IlwvZ2l0aHViLmNvbVwvQWx2aW45OTk5IiwicG9ydCI6IjIwOTUiLCJzY3kiOiJhdXRvIiwic25pIjoiYzE3LjYwMTY3MjUueHl6IiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIiwicHMiOiJBdXRvQWlWUE4xNTk1NSJ9
