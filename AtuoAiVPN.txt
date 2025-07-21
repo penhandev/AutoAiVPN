@@ -1,3 +1,8 @@
+trojan://blue2024@172.67.243.218:443?sni=ta.promote.icu#AutoAiVPN1057
+ss://08ad883d-44bd-425c-86e9-eecf4d86da14@45.81.35.6:33156?security=none&type=tcp#AutoAiVPN1056
+vmess://eyJ2IjoiMiIsInBzIjoiQXV0b0FpVlBOMTA1NSIsImFkZCI6IjEwNC4xOC4xMTQuNiIsInBvcnQiOiIyMDk1IiwidHlwZSI6Im5vbmUiLCJpZCI6IjE4ZDk2MTkwLWMxMGYtNDQ4Zi1hODJhLTJkMzZkZjVjM2NkZSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL2dpdGh1Yi5jb21cL0FsdmluOTk5OSIsImhvc3QiOiJjMTcuNjAxNjcyNS54eXoiLCJ0bHMiOiIifQ==
+vmess://eyJ2IjoiMiIsInBzIjoiQXV0b0FpVlBOMTA1NCIsImFkZCI6IjEwNC4yNi4wLjIyMyIsInBvcnQiOiIyMDk1IiwidHlwZSI6Im5vbmUiLCJpZCI6IjE4ZDk2MTkwLWMxMGYtNDQ4Zi1hODJhLTJkMzZkZjVjM2NkZSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL2dpdGh1Yi5jb21cL0FsdmluOTk5OSIsImhvc3QiOiJjMTcuNjAxNjcyNS54eXoiLCJ0bHMiOiIifQ==
+vless://08ad883d-44bd-425c-86e9-eecf4d86da14@45.81.35.6:33156?security=none&type=tcp#AutoAiVPN1053
 trojan://wkmY1R4EcP@70.34.205.1:443?allowInsecure=0#AutoAiVPN1052
 vmess://eyJ2IjoiMiIsInBzIjoiQXV0b0FpVlBOMTA1MSIsImFkZCI6IjEwNC4yNi4wLjE1OCIsInBvcnQiOiIyMDk1IiwidHlwZSI6Im5vbmUiLCJpZCI6IjE4ZDk2MTkwLWMxMGYtNDQ4Zi1hODJhLTJkMzZkZjVjM2NkZSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiJnaXRodWIuY29tXC9BbHZpbjk5OTkiLCJob3N0IjoiYzMuNjAxNjcyNS54eXoiLCJ0bHMiOiIifQ==
 vmess://eyJ2IjoiMiIsInBzIjoiQXV0b0FpVlBOMTA1MCIsImFkZCI6IjEwNC4yNi4wLjc4IiwicG9ydCI6IjIwODYiLCJ0eXBlIjoibm9uZSIsImlkIjoiYmM2NWZhYzItN2RjNy00MjZmLWFjZGQtMDc3OWE1MDM1YmRlIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6ImdpdGh1Yi5jb21cL0FsdmluOTk5OSIsImhvc3QiOiJwMS42MTMwNTUueHl6IiwidGxzIjoiIn0=
@@ -13,8 +18,3 @@ vless://4a41de72-af20-4a1b-a561-85caf016d414@104.17.221.248:443?security=tls&sni
 trojan://blue2024@104.27.41.214:443?sni=ta.promote.icu#AutoAiVPN1039
 ss://89b3cbba-e6ac-485a-9481-976a0415eab9@92.243.74.3:8443?security=tls&sni=123.drmIng.bUzz&type=ws&host=123.drming.buzz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2048#AutoAiVPN1038
 ss://70f5d3b8-7d31-4d7d-9467-e43752d66fca@104.21.32.1:2096?security=tls&sni=sub.shadowsokstes.WoRkErs.DeV&type=ws&host=sub.shadowsokstes.WoRkErs.DeV&path=vless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h2,http/1.1#AutoAiVPN1037
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@92.243.74.3:8443?security=tls&sni=123.drmIng.bUzz&type=ws&host=123.drming.buzz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2048#AutoAiVPN1035
-vless://70f5d3b8-7d31-4d7d-9467-e43752d66fca@104.21.32.1:2096?security=tls&sni=sub.shadowsokstes.WoRkErs.DeV&type=ws&host=sub.shadowsokstes.WoRkErs.DeV&path=vless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h2,http/1.1#AutoAiVPN1034
-ss://0d15f609-0bc5-47ee-9c64-0ff896cc8ae6@104.17.147.22:80?security=none&type=httpupgrade&host=1.www.speedtest.net.zula.ir.chanel97.online.&path=TelegramChanel%3At.me%2FHTTP_injector99#AutoAiVPN1030
-vmess://eyJhZGQiOiIxODguNjguMjQwLjE2MCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI3NzIwNTQ4OC0zNDk1LTRiN2YtYjM0OC03OWFlNTNhNzhmMmYiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQ2MjEwIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwicHMiOiJBdXRvQWlWUE4xMDI5In0=
-vless://0d15f609-0bc5-47ee-9c64-0ff896cc8ae6@104.17.147.22:80?security=none&type=httpupgrade&host=1.www.speedtest.net.zula.ir.chanel97.online.&path=TelegramChanel%3At.me%2FHTTP_injector99#AutoAiVPN1026
