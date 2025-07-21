@@ -7,11 +7,12 @@ Free V2Ray configs updated automatically.
 - **Config Types**: shadowsocks, vless
 
 ## 📁 Files
-- `configs.txt` - V2Ray configuration URLs (one per line)
+- `AtuoAiVPN.txt` - V2Ray configuration URLs (top 15)
+- `allConfigs.txt` - All v2ray active configuration URLS
 - `README.md` - This file
 
 ## 🚀 Usage
-1. Download `configs.txt`
+1. Download `AtuoAiVPN.txt` or `allConfigs.txt`
 2. Import configs into your V2Ray client
 3. Enjoy free VPN access!
 
