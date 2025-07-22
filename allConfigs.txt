@@ -1,3 +1,8 @@
+vless://77d42c2e-2a11-4e66-9ba4-c1ccc2b15458@93.118.112.134:4443?security=tls&sni=flstudioirani.ir&type=ws&host=flstudioirani.ir&fp=chrome&alpn=h3,h2,http/1.1#AutoAiVPN347108
+vless://34622493-c7c7-4e81-9a7d-3f664222efba@188.245.116.199:1517?security=none&type=tcp&host=speedtest.net&headerType=http#AutoAiVPN347107
+ss://9cbdc595-1d8d-4443-af07-99149153d025@104.19.223.79:443?security=tls&sni=4e06dad367a248f7acb3.abcdef.rest&type=ws&host=4e06dad367a248f7acb3.abcdef.rest&path=/abcdews&fp=chrome#AutoAiVPN347105
+ss://ef27e62d-91bd-4676-b9ce-8743a73eda07@172.235.157.231:80?security=reality&sni=zula.ir&type=tcp&fp=chrome&pbk=BVimgXtKkQ2Q6EpG8uKYTpySrNxEeIqVhdsxi5U5qRU&sid=94aa1bdc#AutoAiVPN347103
+vless://9cbdc595-1d8d-4443-af07-99149153d025@104.19.223.79:443?security=tls&sni=4e06dad367a248f7acb3.abcdef.rest&type=ws&host=4e06dad367a248f7acb3.abcdef.rest&path=/abcdews&fp=chrome#AutoAiVPN347102
 vless://ef27e62d-91bd-4676-b9ce-8743a73eda07@172.235.157.231:80?security=reality&sni=zula.ir&type=tcp&fp=chrome&pbk=BVimgXtKkQ2Q6EpG8uKYTpySrNxEeIqVhdsxi5U5qRU&sid=94aa1bdc#AutoAiVPN347100
 trojan://NISHIKUITAN111@104.24.40.237:443?#AutoAiVPN344777
 trojan://telegram-id-directvpn@15.188.36.178:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN340186
