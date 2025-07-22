@@ -1,3 +1,8 @@
+vless://50323173-7485-48ee-954a-75a93355a37e@78.111.84.123:8443?security=reality&sni=www.speedtest.net&type=grpc&serviceName=JoinBadeChannel@antimeli&fp=chrome&pbk=GskauWsqOkDBJIeX49AE2xJ0DyUMkHYbpz7VEtDaxBw&sid=903e075e60#AutoAiVPN326208
+trojan://telegram-id-directvpn@51.44.135.215:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN325099
+trojan://telegram-id-privatevpns@51.44.135.215:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN325093
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.135.215:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN325033
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.135.215:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN325032
 ss://9cbdc595-1d8d-4443-af07-99149153d025@172.64.150.28:443?security=tls&sni=98b2b407b71a4904bde0.newway-newrouf.rest&type=ws&host=98b2b407b71a4904bde0.newway-newrouf.rest&path=%2Fabcdews&fp=chrome#AutoAiVPN323902
 vless://9cbdc595-1d8d-4443-af07-99149153d025@172.64.150.28:443?security=tls&sni=98b2b407b71a4904bde0.newway-newrouf.rest&type=ws&host=98b2b407b71a4904bde0.newway-newrouf.rest&path=%2Fabcdews&fp=chrome#AutoAiVPN323899
 ss://ef27e62d-91bd-4676-b9ce-8743a73eda07@172.235.158.165:80?security=reality&sni=zula.ir&type=tcp&fp=chrome&pbk=BVimgXtKkQ2Q6EpG8uKYTpySrNxEeIqVhdsxi5U5qRU&sid=94aa1bdc#AutoAiVPN323897
