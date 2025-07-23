@@ -1,3 +1,5 @@
+vless://719e57eb-052e-4be9-8904-01f3f00e0f88@62.60.178.103:2052?security=none&type=tcp&headerType=http#AutoAiVPN998475
+trojan://blue2024@104.18.102.177:443?allowInsecure=1&sni=td.promote.icu#AutoAiVPN998472
 trojan://telegram-id-directvpn@35.181.196.98:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN991574
 trojan://telegram-id-privatevpns@35.181.196.98:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN991568
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.196.98:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN991508
