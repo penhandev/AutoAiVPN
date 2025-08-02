@@ -1,3 +1,7 @@
+trojan://telegram-id-directvpn@3.127.195.226:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN2569989
+trojan://telegram-id-privatevpns@3.127.195.226:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN2569983
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.127.195.226:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN2569912
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.127.195.226:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN2569911
 ss://21720182-ca24-a371-c381-04f607b5541c@173.245.59.100:80?security=none&type=httpupgrade&host=it.dash.cloudflare.com.www.speedtest.net.dama.ir.pada.ir.Elmahstyle.ir.&path=%2Fresult%3Fed%3D2048#AutoAiVPN2567626
 vless://21720182-ca24-a371-c381-04f607b5541c@173.245.59.100:80?security=none&type=httpupgrade&host=it.dash.cloudflare.com.www.speedtest.net.dama.ir.pada.ir.Elmahstyle.ir.&path=%2Fresult%3Fed%3D2048#AutoAiVPN2567624
 trojan://auto@104.21.88.153:443?security=tls&sni=abbas.ab841vpn.workers.dev&type=ws&host=abbas.ab841vpn.workers.dev&path=%2F%3Fed%3D2560&fp=randomized#AutoAiVPN2567623
