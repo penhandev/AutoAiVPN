@@ -1,3 +1,7 @@
+trojan://telegram-id-directvpn@18.198.0.226:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN2962206
+trojan://telegram-id-privatevpns@18.198.0.226:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN2962200
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.198.0.226:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN2962141
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.198.0.226:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN2962140
 trojan://NISHIKUITAN111@103.21.244.12:443?#AutoAiVPN2960250
 trojan://blue2024@195.85.59.161:443?security=tls&type=ws&sni=hb.lii2010.us.kg&path=/?ed=2560&host=hb.lii2010.us.kg#AutoAiVPN2960248
 trojan://bpb-trojan@162.159.153.2:443?security=tls&type=tcp&sni=visa.cn#AutoAiVPN2960247
