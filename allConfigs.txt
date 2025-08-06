@@ -1,3 +1,7 @@
+trojan://telegram-id-directvpn@15.236.2.100:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN3021998
+trojan://telegram-id-privatevpns@15.236.2.100:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN3021992
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.2.100:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN3021917
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.2.100:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN3021916
 trojan://NISHIKUITAN111@181.214.1.7:443?#AutoAiVPN3019536
 ss://c4ccdba8-dfae-4354-a78c-3d5f113f15d7@104.19.41.30:443?security=tls&sni=violation-em-pulling-referenced.trycloudflare.com&type=ws&host=violation-em-pulling-referenced.trycloudflare.com&path=%2Fc4ccdba8-dfae-4354-a78c-3d5f113f15d7-vless%3Fed%3D2048#AutoAiVPN3019532
 vless://c4ccdba8-dfae-4354-a78c-3d5f113f15d7@104.19.41.30:443?security=tls&sni=violation-em-pulling-referenced.trycloudflare.com&type=ws&host=violation-em-pulling-referenced.trycloudflare.com&path=%2Fc4ccdba8-dfae-4354-a78c-3d5f113f15d7-vless%3Fed%3D2048#AutoAiVPN3019529
