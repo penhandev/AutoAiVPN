@@ -1,3 +1,8 @@
+vless://25764e3f-3bd4-4bb5-ba32-67eb5d3824b9@62.60.164.195:18985?type=tcp&security=none#AutoAiVPN3453786
+ss://2012eb84-16dc-46ac-af05-a7be43e61a8e@62.60.164.195:32176?type=tcp&security=none#AutoAiVPN3453785
+vless://2012eb84-16dc-46ac-af05-a7be43e61a8e@62.60.164.195:32176?type=tcp&security=none#AutoAiVPN3453784
+trojan://telegram-id-directvpn@15.236.150.206:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN3453239
+trojan://telegram-id-privatevpns@15.236.150.206:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN3453236
 ss://d6b8011a-c725-435a-9fec-bf6d3530392c@103.160.204.49:2096?encryption=none&security=tls&sni=vle.amclubsdns.dpdns.org&fp=randomized&type=ws&host=vle.amclubsdns.dpdns.org&path=%2F%3Fed%3D2560%26prot_type%3Dvless%26nat64%3Dtrue#AutoAiVPN3453231
 vless://d6b8011a-c725-435a-9fec-bf6d3530392c@103.160.204.49:2096?encryption=none&security=tls&sni=vle.amclubsdns.dpdns.org&fp=randomized&type=ws&host=vle.amclubsdns.dpdns.org&path=%2F%3Fed%3D2560%26prot_type%3Dvless%26nat64%3Dtrue#AutoAiVPN3453230
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.150.206:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN3453166
