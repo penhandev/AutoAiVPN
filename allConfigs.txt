@@ -1,3 +1,7 @@
+trojan://telegram-id-directvpn@63.177.173.183:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN3376126
+trojan://telegram-id-privatevpns@63.177.173.183:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN3376121
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.177.173.183:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN3376019
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.177.173.183:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN3376018
 vmess://eyJhZGQiOiJucG1qcy5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im5hc25ldC0xMjgxNDAxMTIyMy5raGFzdGVobmFiYXNoaS5jb20iLCJpZCI6Im5hc25ldCIsIm5ldCI6IndzIiwicGF0aCI6IlwvTkFTTkVUXC9jZG4iLCJwb3J0IjoiODA4MCIsInBzIjoiQXV0b0FpVlBOMzM3NTAxNiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
 ss://1lpxy6haqm@npmjs.com:2053?path=%2Fdownload%2Fcdn&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=1lpxy6haqm-451516713.zamam.co&fp=randomized&type=httpupgrade&sni=1lpxy6haqm-451516713.zamam.co#AutoAiVPN3375011
 vless://1lpxy6haqm@npmjs.com:2053?path=%2Fdownload%2Fcdn&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=1lpxy6haqm-451516713.zamam.co&fp=randomized&type=httpupgrade&sni=1lpxy6haqm-451516713.zamam.co#AutoAiVPN3375010
