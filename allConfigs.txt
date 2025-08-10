@@ -1,3 +1,8 @@
+trojan://telegram-id-directvpn@3.124.16.18:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN3529546
+trojan://telegram-id-privatevpns@3.124.16.18:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN3529545
+ss://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@45.15.127.188:443?encryption=none&security=tls&allowInsecure=1&type=ws&path=%2F#AutoAiVPN3529542
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@45.15.127.188:443?encryption=none&security=tls&allowInsecure=1&type=ws&path=%2F#AutoAiVPN3529541
+ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.10:80?path=%2FTelegram%40V2ray_Alpha&security=none&encryption=none&host=us.laoyoutiao.link&type=ws#AutoAiVPN3529540
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.10:80?path=%2FTelegram%40V2ray_Alpha&security=none&encryption=none&host=us.laoyoutiao.link&type=ws#AutoAiVPN3529539
 ss://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@92.118.233.43:2053/?type=grpc&encryption=none&flow=&security=tls&allowInsecure=1#AutoAiVPN3529538
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@92.118.233.43:2053/?type=grpc&encryption=none&flow=&security=tls&allowInsecure=1#AutoAiVPN3529537
