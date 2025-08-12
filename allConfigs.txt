@@ -1,3 +1,7 @@
+trojan://telegram-id-directvpn@15.236.5.224:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN3920169
+trojan://telegram-id-privatevpns@15.236.5.224:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN3920163
+ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.207.197.63:8880?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&security=none&encryption=none&host=jp.laoyoutiao.link&type=ws&sni=jp.laoyoutiao.link#AutoAiVPN3920152
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.207.197.63:8880?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&security=none&encryption=none&host=jp.laoyoutiao.link&type=ws&sni=jp.laoyoutiao.link#AutoAiVPN3920151
 ss://b5441b0d-2147-4898-8a6a-9b2c87f58382@109.176.239.3:8880/?type=ws&encryption=none&flow=&host=bitget1.asdasd.click&path=%2FTelegram#AutoAiVPN3920149
 vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@109.176.239.3:8880/?type=ws&encryption=none&flow=&host=bitget1.asdasd.click&path=%2FTelegram#AutoAiVPN3920148
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.5.224:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN3920087
