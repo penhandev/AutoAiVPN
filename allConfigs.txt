@@ -1,3 +1,7 @@
+trojan://telegram-id-directvpn@63.179.73.31:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN3901099
+trojan://telegram-id-privatevpns@63.179.73.31:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN3901093
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.179.73.31:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN3901013
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.179.73.31:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN3901012
 trojan://tunnel-tele-id-ibahad@193.124.46.134:8441?security=tls&alpn=http%2F1.1&host=tr-1.stunnel.cc&headerType=none&type=tcp&sni=join.telegram.ibahad.ir#AutoAiVPN3900542
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpISGNnR1dSZDhWNHRCQ1hYOFdFWWZW@ams.telegavpn.org:19057#AutoAiVPN3898332
 trojan://blue2024@ipv4.ip.sb:443?allowInsecure=1&sni=tb.promote.icu&type=ws&host=tb.promote.icu&path=/?ed=2560#AutoAiVPN3897746
