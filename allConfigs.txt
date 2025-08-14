@@ -1,3 +1,8 @@
+trojan://telegram-id-privatevpns@15.237.9.13:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN4179129
+ss://cac92bc3-e77f-4bbe-ac11-c68162727b6d@104.21.32.1:8080?type=ws&host=shad.ir.fin.test.digicyber.click.&path=/olem/ws?ed%3D1024&security=none#AutoAiVPN4179112
+vless://cac92bc3-e77f-4bbe-ac11-c68162727b6d@104.21.32.1:8080?type=ws&host=shad.ir.fin.test.digicyber.click.&path=/olem/ws?ed%3D1024&security=none#AutoAiVPN4179111
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.237.9.13:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN4179041
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.237.9.13:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN4179040
 ss://a739ad80-0aab-40b2-9b0e-8192c74287ef@172.66.132.196:2096?path=%2FTel-%40V2ray_Alpha&security=tls&alpn=http%2F1.1&encryption=none&host=faruzan.changli.ddns-ip.net&fp=chrome&type=ws&sni=faruzan.changli.ddns-ip.net#AutoAiVPN4177825
 vless://a739ad80-0aab-40b2-9b0e-8192c74287ef@172.66.132.196:2096?path=%2FTel-%40V2ray_Alpha&security=tls&alpn=http%2F1.1&encryption=none&host=faruzan.changli.ddns-ip.net&fp=chrome&type=ws&sni=faruzan.changli.ddns-ip.net#AutoAiVPN4177824
 ss://e4d83445-23b9-4a5c-8323-74f9338ef3b2@217.196.101.89:20087?security=none&encryption=none&headerType=none&type=tcp#AutoAiVPN4177819
