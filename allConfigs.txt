@@ -1,3 +1,7 @@
+trojan://telegram-id-privatevpns@13.39.54.25:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN4137079
+trojan://telegram-id-directvpn@13.39.54.25:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN4137076
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.54.25:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN4137003
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.54.25:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN4137002
 ss://43f3f527-af58-4fc3-9233-678bcffbd0f7@104.21.207.75:443?encryption=none&security=tls&sni=V2RAYNGgHAViV2rAyNggHAViV2RaYngGHaviV2rayngghaVIv2rAynG.PAges.dev&alpn=http%2F1.1&fp=randomized&type=ws&host=v2rayngghaviv2rayngghaviv2rayngghaviv2rayngghaviv2rayng.pages.dev&path=%2F#AutoAiVPN4136649
 vless://43f3f527-af58-4fc3-9233-678bcffbd0f7@104.21.207.75:443?encryption=none&security=tls&sni=V2RAYNGgHAViV2rAyNggHAViV2RaYngGHaviV2rayngghaVIv2rAynG.PAges.dev&alpn=http%2F1.1&fp=randomized&type=ws&host=v2rayngghaviv2rayngghaviv2rayngghaviv2rayngghaviv2rayng.pages.dev&path=%2F#AutoAiVPN4136648
 ss://43f3f527-af58-4fc3-9233-678bcffbd0f7@104.18.126.196:443?encryption=none&security=tls&sni=v2RaynGGHavIv2RAYNgghAVIV2rAyngGHaViV2rayNGGhAvIv2rAYnG.PagES.dev&alpn=http%2F1.1&fp=randomized&type=ws&host=v2rayngghaviv2rayngghaviv2rayngghaviv2rayngghaviv2rayng.pages.dev&path=%2F#AutoAiVPN4136647
