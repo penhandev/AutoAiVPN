@@ -1,3 +1,6 @@
+vless://c30fee5c-a1ba-4828-8c6b-ac509d7342e3@99.199.73.47:10082?security=none&encryption=none&host=bmw.com&headerType=http&fp=chrome&type=tcp#AutoAiVPN4249114
+ss://71ed6628-5870-4d19-8a52-f2a3ba3d4898@69.84.182.88:443?security=tls&sni=vb.zhuk.us.kg&type=ws&host=vb.zhuk.us.kg&path=%2F%3Fed%3D2560#AutoAiVPN4249104
+vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@69.84.182.88:443?security=tls&sni=vb.zhuk.us.kg&type=ws&host=vb.zhuk.us.kg&path=%2F%3Fed%3D2560#AutoAiVPN4249103
 trojan://telegram-id-directvpn@18.158.145.222:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN4247183
 trojan://telegram-id-privatevpns@18.158.145.222:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN4247177
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.158.145.222:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN4247089
