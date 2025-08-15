@@ -1,3 +1,8 @@
+trojan://telegram-id-directvpn@52.28.160.100:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN4299349
+trojan://telegram-id-privatevpns@52.28.160.100:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN4299343
+ss://71ed6628-5870-4d19-8a52-f2a3ba3d4898@118.47.65.248:30012?security=tls&sni=kb.lii2010.us.kg&type=ws&host=kb.lii2010.us.kg&path=%2F%3Fed%3D2560&alpn=http%2F1.1#AutoAiVPN4299332
+vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@118.47.65.248:30012?security=tls&sni=kb.lii2010.us.kg&type=ws&host=kb.lii2010.us.kg&path=%2F%3Fed%3D2560&alpn=http%2F1.1#AutoAiVPN4299331
+ss://60bb8ec1-fb7e-4e6a-89b7-5df1b743ec43@172.237.147.72:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#AutoAiVPN4299328
 vless://60bb8ec1-fb7e-4e6a-89b7-5df1b743ec43@172.237.147.72:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#AutoAiVPN4299327
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.28.160.100:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN4299254
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.28.160.100:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN4299253
