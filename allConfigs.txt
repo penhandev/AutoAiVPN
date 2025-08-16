@@ -1,3 +1,8 @@
+trojan://telegram-id-directvpn@35.181.13.3:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN4450930
+trojan://telegram-id-privatevpns@35.181.13.3:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN4450924
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaOF80UXdWR1hFVXgzSy1BSzViRjRR@138.199.145.158:1090#AutoAiVPN4450906
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.13.3:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN4450843
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.13.3:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN4450842
 ss://2b256b16-91f9-4374-856f-23f4d6753039@alhilal.com:443?security=tls&sni=rAyAn-dEAd.NasTarAn.DpDns.oRg&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rayan-dead.nastaran.dpdns.org&encryption=none#AutoAiVPN4450456
 vless://2b256b16-91f9-4374-856f-23f4d6753039@alhilal.com:443?security=tls&sni=rAyAn-dEAd.NasTarAn.DpDns.oRg&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rayan-dead.nastaran.dpdns.org&encryption=none#AutoAiVPN4450455
 vmess://eyJ2IjoiMiIsInBzIjoiQXV0b0FpVlBONDQ0ODU3NyIsImFkZCI6IjEwNC4yNi4wLjc2IiwicG9ydCI6IjIwODIiLCJ0eXBlIjoibm9uZSIsImlkIjoiNWYzZjA5YWQtODljYi00ZTk0LWE3YWQtYWE4MjM5OTEzNTU1IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6ImdpdGh1Yi5jb21cL0FsdmluOTk5OSIsImhvc3QiOiJlNC42OTI5MTk4Lnh5eiIsInRscyI6IiJ9
