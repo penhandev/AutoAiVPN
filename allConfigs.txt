@@ -1,3 +1,8 @@
+trojan://telegram-id-directvpn@63.178.125.65:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN4384390
+trojan://telegram-id-privatevpns@63.178.125.65:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN4384384
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.178.125.65:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN4384301
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.178.125.65:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN4384300
+ss://b7f8c66b-40f0-4160-8b88-76a482e2b593@108.162.194.231:443/?type=ws&encryption=none&flow=&host=rs-sg4.lzjnb.shop&path=%2Flzj&security=tls&sni=rs-sg4.lzjnb.shop&fp=chrome#AutoAiVPN4383916
 vless://b7f8c66b-40f0-4160-8b88-76a482e2b593@108.162.194.231:443/?type=ws&encryption=none&flow=&host=rs-sg4.lzjnb.shop&path=%2Flzj&security=tls&sni=rs-sg4.lzjnb.shop&fp=chrome#AutoAiVPN4383915
 ss://5378794107_3948411@77.110.119.222:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=t.me&fp=chrome&security=reality&pbk=0VMyx_gokWC0Uj-56U5f5oIKsbHGeNCEA_THvJ5-lDU&sid=2fc5#AutoAiVPN4383912
 vless://5378794107_3948411@77.110.119.222:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=t.me&fp=chrome&security=reality&pbk=0VMyx_gokWC0Uj-56U5f5oIKsbHGeNCEA_THvJ5-lDU&sid=2fc5#AutoAiVPN4383911
