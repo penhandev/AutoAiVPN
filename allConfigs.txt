@@ -1,3 +1,7 @@
+trojan://telegram-id-privatevpns@63.179.83.151:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN4750423
+trojan://telegram-id-directvpn@63.179.83.151:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN4750404
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.179.83.151:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN4750338
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.179.83.151:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN4750337
 ss://7fae47b1-6bcc-4ebc-8713-f6fb59dc613a@193.32.177.56:443?security=reality&encryption=none&pbk=fhacrLdXUT3a0PjnL5EVARAmGiNBn_0ysfCJfL3n_gQ&host=us.vpber.store&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=us.vpber.store&sid=4be4130078ebed0a#AutoAiVPN4748259
 vless://7fae47b1-6bcc-4ebc-8713-f6fb59dc613a@193.32.177.56:443?security=reality&encryption=none&pbk=fhacrLdXUT3a0PjnL5EVARAmGiNBn_0ysfCJfL3n_gQ&host=us.vpber.store&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=us.vpber.store&sid=4be4130078ebed0a#AutoAiVPN4748258
 ss://63639f55-e32a-4d5b-b85d-388af84ddc94@cdn4.azkhaktakhane.ir:4040?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---&encryption=none&flow=xtls-rprx-vision&security=tls&sni=cdn2.azkhaktakhane.ir&alpn=h2%2Chttp%2F1.1&allowInsecure=1&type=tcp&headerType=none#AutoAiVPN4748257
