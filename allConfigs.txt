@@ -1,3 +1,7 @@
+trojan://telegram-id-directvpn@15.188.132.205:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN4710611
+trojan://telegram-id-privatevpns@15.188.132.205:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN4710585
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.132.205:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN4710507
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.132.205:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN4710506
 vmess://eyJhZGQiOiIzMS41Ny45My40MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwNzY0MDE0Zi0wNGZmLTQ1YmEtOTQwZC1lZWViOTU0NTlmZDAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQ2MzUzIiwicHMiOiJBdXRvQWlWUE40NzA4Mzg4Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 ss://id6856346113@s2.nodu7.ru:443?security=reality&encryption=none&pbk=bWATFn02Eb2vDUoSYiycIcNfkTqn-wqeqFJ2i56ZdGY&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=vk.com&sid=cc59#AutoAiVPN4708386
 vless://id6856346113@s2.nodu7.ru:443?security=reality&encryption=none&pbk=bWATFn02Eb2vDUoSYiycIcNfkTqn-wqeqFJ2i56ZdGY&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=vk.com&sid=cc59#AutoAiVPN4708385
