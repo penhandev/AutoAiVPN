@@ -1,3 +1,7 @@
+trojan://telegram-id-directvpn@3.67.162.65:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN4691040
+trojan://telegram-id-privatevpns@3.67.162.65:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN4691016
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.67.162.65:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN4690947
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.67.162.65:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN4690946
 ss://b1f74879-f4a1-415f-ad8a-c92d9ef5376a@173.245.59.100:8880?security=none&type=httpupgrade&host=iraniV2ray.nanowaash-shop.ir.&path=%2F%40iraniV2ray_config%2C+%40iraniV2ray_config%2F%3Fed%3D2560#AutoAiVPN4688227
 vless://b1f74879-f4a1-415f-ad8a-c92d9ef5376a@173.245.59.100:8880?security=none&type=httpupgrade&host=iraniV2ray.nanowaash-shop.ir.&path=%2F%40iraniV2ray_config%2C+%40iraniV2ray_config%2F%3Fed%3D2560#AutoAiVPN4688224
 trojan://NISHIKUITAN111@104.17.218.123:443?#AutoAiVPN4688223
