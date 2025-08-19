@@ -1,3 +1,8 @@
+vless://1d79ae59-02b4-402d-c529-4c0a7facec28@37.27.220.157:3810?security=reality&encryption=none&pbk=BHwcQOO7FJVCW0W2naMQ3F7tbZlLgBrKfjhspc66IzU&headerType=none&fp=chrome&type=tcp&sni=tgju.org&sid=f830f6#AutoAiVPN4860205
+ss://035a60d2-6f6b-41e6-a805-2b752c5a61aa@91.107.243.12:21379?security=&encryption=none&headerType=&type=tcp#AutoAiVPN4860204
+vless://035a60d2-6f6b-41e6-a805-2b752c5a61aa@91.107.243.12:21379?security=&encryption=none&headerType=&type=tcp#AutoAiVPN4860203
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.57.70.184:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN4860138
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.57.70.184:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN4860137
 ss://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.142:8880?security=&encryption=none&type=grpc#AutoAiVPN4858873
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.142:8880?security=&encryption=none&type=grpc#AutoAiVPN4858872
 trojan://blue2024@104.18.211.40:443?allowInsecure=1&sni=ha.lii2010.us.kg&ws=1&wspath=%2F%3Fed%3D2560#AutoAiVPN4857509
