@@ -1,3 +1,6 @@
+trojan://3bcd9e33-8377-4b32-af33-217158577ff3@154.90.63.80:443?security=tls&sni=kdlsupport.zendesk.com&type=tcp&allowInsecure=1#AutoAiVPN4809027
+ss://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@45.8.211.184:443?encryption=none&security=tls&sni=rayan-12.leila.dpdns.org&type=ws&host=rayan-12.leila.dpdns.org&path=%2F@rayan_config#AutoAiVPN4809022
+vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@45.8.211.184:443?encryption=none&security=tls&sni=rayan-12.leila.dpdns.org&type=ws&host=rayan-12.leila.dpdns.org&path=%2F@rayan_config#AutoAiVPN4809021
 ss://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.193.96:443/?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#AutoAiVPN4804373
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.193.96:443/?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#AutoAiVPN4804372
 ss://Telegram--SRCVPN--@91.99.229.234:2080?security=reality&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=wK_5qjYXyOhnpU4S8DpZSqRpq5U4IpdNWYrHxCL2m2M&sid=77c5aa0a2b&spx=/&type=grpc&encryption=none#AutoAiVPN4804366
