@@ -1,3 +1,7 @@
+trojan://telegram-id-directvpn@63.176.188.155:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN5045717
+trojan://telegram-id-privatevpns@63.176.188.155:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN5045710
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.176.188.155:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN5045620
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.176.188.155:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN5045619
 ss://ad4aa165-c30d-48ec-9397-af1d1d3b1c4f@188.114.99.192:443?encryption=none&security=tls&sni=zamimm.e59b57f84c.workers.dev&fp=randomized&type=ws&host=zamimm.e59b57f84c.workers.dev&path=%2F@TELEGRAM-MARAMBASHI%2F%3Fed%3D2048#AutoAiVPN5044998
 vless://ad4aa165-c30d-48ec-9397-af1d1d3b1c4f@188.114.99.192:443?encryption=none&security=tls&sni=zamimm.e59b57f84c.workers.dev&fp=randomized&type=ws&host=zamimm.e59b57f84c.workers.dev&path=%2F@TELEGRAM-MARAMBASHI%2F%3Fed%3D2048#AutoAiVPN5044997
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206WFFIdzZtaWVtdUdRa2lUaVgweE5iZmZtZVpQYVZId2xyYWIzRGEzVmhSaz06RG9sbloySmZZM21jL3k5OEUvaEVBeTJyUHZTZ083NEtyeU1YcDJUcFdQUT0%3D@code-luck.online:4041#AutoAiVPN5044995
