@@ -1,3 +1,8 @@
+trojan://d06a14d0-ceb9-11ef-a13e-1239d0255272@51.38.65.155:443?security=tls&sni=uk1.test3.net&allowInsecure=1&fp=chrome&type=tcp#AutoAiVPN5154406
+trojan://telegram-id-directvpn@35.181.96.121:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN5154403
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.96.121:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN5154335
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.96.121:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN5154334
+vmess://eyJhZGQiOiIzZTBjYjAuMDEwMjM5ZGMuY2ZkIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJoazA0cy4wMTAyMzlkYy5jZmQiLCJpZCI6IjBhZTdhOTk5LTg1NmYtNDNhOS04YjczLWViMjNjZGE1OTBmYiIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwicG9ydCI6IjgwIiwicHMiOiJBdXRvQWlWUE41MTUzNzE4Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 ss://38141d3b-ddde-4a2f-8d26-a31ddcd49c8a@stock.hostmonit.com:8080?encryption=none&security=none&type=ws&host=520.msdtlasm.workers.dev&path=%2F%3Fed%3D2560#AutoAiVPN5153713
 vless://38141d3b-ddde-4a2f-8d26-a31ddcd49c8a@stock.hostmonit.com:8080?encryption=none&security=none&type=ws&host=520.msdtlasm.workers.dev&path=%2F%3Fed%3D2560#AutoAiVPN5153712
 ss://YWVzLTI1Ni1jZmI6cVlFTjVIWDRKS2VWQ2RFQw==@195.238.126.84:9039#AutoAiVPN5153711
