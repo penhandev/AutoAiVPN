@@ -1,3 +1,7 @@
+trojan://telegram-id-directvpn@63.179.185.244:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN5522743
+trojan://telegram-id-privatevpns@63.179.185.244:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN5522737
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.179.185.244:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN5522651
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.179.185.244:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN5522650
 ss://7a4e9ba0-4fe4-46d6-b5c6-815c9b61703c@91.99.188.112:443?security=tls&type=ws&headerType=&path=%2F&host=&sni=iran.v2bazzar.ir&fp=#AutoAiVPN5522027
 vless://7a4e9ba0-4fe4-46d6-b5c6-815c9b61703c@91.99.188.112:443?security=tls&type=ws&headerType=&path=%2F&host=&sni=iran.v2bazzar.ir&fp=#AutoAiVPN5522026
 vmess://eyJhZGQiOiIxODguMTIxLjEwNS4yNDgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZDZmZDEwOWQtZTE0Ny00MjUzLTgzZjEtNTBiMzQwMWZiOGRhIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0MDQwIiwicHMiOiJBdXRvQWlWUE41NTIyMDIzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
