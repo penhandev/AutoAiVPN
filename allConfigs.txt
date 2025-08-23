@@ -1,3 +1,7 @@
+trojan://telegram-id-directvpn@51.44.89.204:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN5701537
+trojan://telegram-id-privatevpns@51.44.89.204:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN5701529
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.89.204:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN5701430
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.89.204:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN5701429
 trojan://f108e0e2-5f12-42b6-9e67-1b2f073ffb2b@172.67.219.196:443/?type=ws&host=CCcvfgt6.852224.dpdns.org&path=%2FCA5bMmr2JMum8sDKRwvFCJq&security=tls&sni=CCcvfgt6.852224.dpdns.org#AutoAiVPN5700074
 trojan://bpb-trojan@104.20.47.72:443?sni=adagio.us.kg#AutoAiVPN5699309
 ss://b0415500-5072-4c37-ae2d-d1f50bbc8302@194.135.34.83:443?security=tls&flow=xtls-rprx-vision&sni=izm1.vpntype.dev&type=tcp&fp=chrome&alpn=h2%2Chttp%2F1.1&allowInsecure=1#AutoAiVPN5699302
