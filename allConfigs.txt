@@ -1,3 +1,8 @@
+trojan://telegram-id-directvpn@63.176.195.158:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN6141965
+trojan://telegram-id-privatevpns@63.176.195.158:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN6141959
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.176.195.158:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN6141856
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.176.195.158:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN6141855
+ss://92f481b6-ad92-43e4-a683-2bb0aeaa9846@104.16.241.234:80?path=%2F%3Fed%3D2590&security=none&encryption=none&host=dw.alibichareh.dpdns.org&type=ws#AutoAiVPN6141225
 vless://92f481b6-ad92-43e4-a683-2bb0aeaa9846@104.16.241.234:80?path=%2F%3Fed%3D2590&security=none&encryption=none&host=dw.alibichareh.dpdns.org&type=ws#AutoAiVPN6141224
 ss://cc6b985d-0362-4129-8763-38564174fb3e@141.11.203.49:443?security=tls&sni=iryiccyne.wwtraveler.com&type=grpc&serviceName=t.me/entryNET&alpn=http%2F1.1%2Ch2#AutoAiVPN6141223
 vless://cc6b985d-0362-4129-8763-38564174fb3e@141.11.203.49:443?security=tls&sni=iryiccyne.wwtraveler.com&type=grpc&serviceName=t.me/entryNET&alpn=http%2F1.1%2Ch2#AutoAiVPN6141222
