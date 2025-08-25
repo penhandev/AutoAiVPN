@@ -1,3 +1,7 @@
+trojan://telegram-id-privatevpns@63.176.217.80:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN6067915
+trojan://telegram-id-directvpn@63.176.217.80:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN6067914
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.176.217.80:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN6067834
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.176.217.80:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN6067833
 ss://909d4490-6cbb-4006-9dbd-3c7f5d79cfda@srv.root.info.tr:80?security=none&encryption=none&host=ae.global.ssl.fastly.net&type=ws#AutoAiVPN6067216
 vless://909d4490-6cbb-4006-9dbd-3c7f5d79cfda@srv.root.info.tr:80?security=none&encryption=none&host=ae.global.ssl.fastly.net&type=ws#AutoAiVPN6067215
 ss://909d4490-6cbb-4006-9dbd-3c7f5d79cfda@ns.root.info.tr:443?path=%2FEyepurples%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=SRV5.SUDO.ORG.TR&fp=chrome&type=httpupgrade&sni=SRV5.SUDO.ORG.TR#AutoAiVPN6067207
