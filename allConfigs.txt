@@ -1,3 +1,7 @@
+trojan://telegram-id-directvpn@15.236.1.190:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN6090304
+trojan://telegram-id-privatevpns@15.236.1.190:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN6090296
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.1.190:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN6090208
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.1.190:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN6090207
 ss://8041c6d9-8359-4e57-a55d-8f14e99bb9bc@173.245.49.149:443?security=tls&sni=lv.ylks01.eu.org&type=ws&host=lv.ylks01.eu.org&path=%2F%3Fed%3D2560#AutoAiVPN6088133
 vless://8041c6d9-8359-4e57-a55d-8f14e99bb9bc@173.245.49.149:443?security=tls&sni=lv.ylks01.eu.org&type=ws&host=lv.ylks01.eu.org&path=%2F%3Fed%3D2560#AutoAiVPN6088132
 ss://8041c6d9-8359-4e57-a55d-8f14e99bb9bc@188.114.96.136:2053?security=tls&sni=lv.ylks01.eu.org&type=ws&host=lv.ylks01.eu.org&path=%2F%3Fed%3D2560#AutoAiVPN6088129
