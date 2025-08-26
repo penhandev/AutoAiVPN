@@ -1,3 +1,8 @@
+trojan://telegram-id-privatevpns@13.36.1.17:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN6309435
+ss://2c102887-2209-42c3-ffb1-35a5ddd831a9@172.67.72.39:80?path=%2F%40vmessorg----%40vmessorg-----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg%3Fed%3D2480&security=none&encryption=none&host=joinbdebe.vmessorg.ir&type=ws#AutoAiVPN6309426
+vless://2c102887-2209-42c3-ffb1-35a5ddd831a9@172.67.72.39:80?path=%2F%40vmessorg----%40vmessorg-----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg%3Fed%3D2480&security=none&encryption=none&host=joinbdebe.vmessorg.ir&type=ws#AutoAiVPN6309425
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.1.17:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN6309352
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.1.17:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN6309351
 ss://a8f9d5f9-7cad-40ff-9fee-835c6dd9bce4@31.56.146.186:50404?security=none&encryption=none&headerType=none&type=tcp#AutoAiVPN6307332
 vless://a8f9d5f9-7cad-40ff-9fee-835c6dd9bce4@31.56.146.186:50404?security=none&encryption=none&headerType=none&type=tcp#AutoAiVPN6307331
 trojan://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.3.10:80?security=none&type=ws&path=/?ed=2048&host=uni.fi#AutoAiVPN6307281
