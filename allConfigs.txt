@@ -1,3 +1,7 @@
+trojan://telegram-id-directvpn@3.124.220.30:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN6651937
+trojan://telegram-id-privatevpns@3.124.220.30:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN6651932
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.124.220.30:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN6651859
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.124.220.30:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN6651858
 vless://2a5b16fc-692f-4713-a5cf-23d6d3cd1199@net2026.sassanidempire.com:2053/?type=grpc&encryption=none&flow=&sni=net2026.sassanidempire.com&fp=chrome&security=reality&pbk=_olFWXwk3Lft68dQ6LzsYDVU7Jzwx36rs6FKDemkGgc&sid=7ad9c661aa47#AutoAiVPN6651340
 trojan://bpb-trojan@188.114.99.85:443?security=tls&type=ws&sni=fcspring.ggff.net&path=/tr?ed&host=fcspring.ggff.net#AutoAiVPN6650111
 ss://775213ac-3976-439a-8977-3277c0e4735d@45.135.235.111:443?allowInsecure=0&sni=fq521.6789.cloudns.be&type=ws&host=fq521.6789.cloudns.be&path=/Twitter苏小柠security=tls#AutoAiVPN6650106
