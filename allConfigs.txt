@@ -1,3 +1,7 @@
+trojan://telegram-id-directvpn@3.68.140.204:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN6816797
+trojan://telegram-id-privatevpns@3.68.140.204:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN6816791
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.68.140.204:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN6816714
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.68.140.204:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN6816713
 ss://8041c6d9-8359-4e57-a55d-8f14e99bb9bc@173.245.59.54:443?security=tls&sni=lv.ylks01.eu.org&type=ws&host=lv.ylks01.eu.org&path=%2F%3Fed%3D2560#AutoAiVPN6814959
 vless://8041c6d9-8359-4e57-a55d-8f14e99bb9bc@173.245.59.54:443?security=tls&sni=lv.ylks01.eu.org&type=ws&host=lv.ylks01.eu.org&path=%2F%3Fed%3D2560#AutoAiVPN6814956
 ss://029f4737-0bb2-477e-8c9f-2ffb7933e284@royal26.starlinkz.cloud:31878?security=none&encryption=none&host=confingplus&headerType=http&type=tcp#AutoAiVPN6812641
