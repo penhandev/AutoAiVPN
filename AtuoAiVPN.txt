@@ -4,12 +4,12 @@ ss://e5c31f13-b10a-4e9c-bfa6-09454bc5e65c@a.nl.maviks.ru:443?security=reality&en
 vless://e5c31f13-b10a-4e9c-bfa6-09454bc5e65c@a.nl.maviks.ru:443?security=reality&encryption=none&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=21181028b56c8702#AutoAiVPN6956423
 trojan://bpb-trojan@104.19.32.112:443?sni=adagio.us.kg#AutoAiVPN6953789
 ss://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.5.98:443?security=tls&sni=mefa.ir&type=ws&host=mefa.ir&path=%2FH%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#AutoAiVPN6953782
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.5.98:443?security=tls&sni=mefa.ir&type=ws&host=mefa.ir&path=%2FH%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#AutoAiVPN6953780
+vmess://eyJhZGQiOiI0Ny4xMDQuMTg2LjEzMyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjUwMDAyIiwicHMiOiJBdXRvQWlWUE42OTU5NTM4Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 trojan://auto@172.67.174.21:443?security=tls&type=ws&sni=trojanmz.pages.dev&host=trojanmz.pages.dev#AutoAiVPN6947575
 ss://39a91eaf-a379-4fff-a9c8-1cb01442b76f@104.26.0.117:2053?path=%2F&security=tls&encryption=none&host=iran.akcovufun.ir&type=ws&sni=iran.akcovufun.ir#AutoAiVPN6946601
 vless://39a91eaf-a379-4fff-a9c8-1cb01442b76f@104.26.0.117:2053?path=%2F&security=tls&encryption=none&host=iran.akcovufun.ir&type=ws&sni=iran.akcovufun.ir#AutoAiVPN6946600
-vless://b22663cb-4b84-5ce8-b3f2-4edee9cb8145@5.252.23.173:80?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#AutoAiVPN6946596
-trojan://bpb-trojan@104.18.161.108:443?sni=adagio.us.kg#AutoAiVPN6935217
-trojan://NISHIKUITAN222@188.114.96.213:443?#AutoAiVPN6935211
-vmess://eyJ2IjoiMiIsInBzIjoiQXV0b0FpVlBONjkzNTIwOCIsImFkZCI6IjExOS4xOTUuMjE5LjE1MCIsInBvcnQiOjE4MDUwLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwidGxzIjoidGxzIiwiaWQiOiIwNTY0MWNmNS01OGQyLTRiYTQtYTlmMS1iM2NkYTBiMWZiMWQiLCJzbmkiOiIyMDIyNTg1YS04NmE3LTQyMzEtYjNhMC1lZWRhMTRmNzdmNGQuOGYxODIzN2MtOGU1Zi00ZmZiLWE0MzQtMWIyOTQ4Yzg3YmUzLmRkbnNmcmVlLmNvbSIsImhvc3QiOiIyMDIyNTg1YS04NmE3LTQyMzEtYjNhMC1lZWRhMTRmNzdmNGQuOGYxODIzN2MtOGU1Zi00ZmZiLWE0MzQtMWIyOTQ4Yzg3YmUzLmRkbnNmcmVlLmNvbSIsInBhdGgiOiJcL29iZGlpLmNmZDo0NDNcL2xpbmt3cyIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@107.155.57.11:8080#AutoAiVPN6959537
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@213.111.142.216:8443#AutoAiVPN6957981
+ss://e5c31f13-b10a-4e9c-bfa6-09454bc5e65c@a.nl.maviks.ru:443?security=reality&encryption=none&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=21181028b56c8702#AutoAiVPN6956424
+vless://e5c31f13-b10a-4e9c-bfa6-09454bc5e65c@a.nl.maviks.ru:443?security=reality&encryption=none&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=21181028b56c8702#AutoAiVPN6956423
+trojan://bpb-trojan@104.19.32.112:443?sni=adagio.us.kg#AutoAiVPN6953789
