@@ -1,3 +1,5 @@
+trojan://auto@172.67.174.21:443?security=tls&type=ws&sni=trojanmz.pages.dev&host=trojanmz.pages.dev#AutoAiVPN6947575
+trojan://NISHIKUITAN222@104.24.247.219:443?#AutoAiVPN6947570
 ss://39a91eaf-a379-4fff-a9c8-1cb01442b76f@104.26.0.117:2053?path=%2F&security=tls&encryption=none&host=iran.akcovufun.ir&type=ws&sni=iran.akcovufun.ir#AutoAiVPN6946601
 vless://39a91eaf-a379-4fff-a9c8-1cb01442b76f@104.26.0.117:2053?path=%2F&security=tls&encryption=none&host=iran.akcovufun.ir&type=ws&sni=iran.akcovufun.ir#AutoAiVPN6946600
 ss://b22663cb-4b84-5ce8-b3f2-4edee9cb8145@5.252.23.173:80?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#AutoAiVPN6946597
@@ -10,6 +12,4 @@ vless://2a2f8790-99ab-4788-985c-0fe5627af2a9@0.0.0.einetwork.news:8880?path=Tele
 ss://dfdf1c0a-5e52-4746-88bd-19d4e4ac7853@172.67.78.196:80?encryption=none&security=none&sni=tannaz.juveitaly.dpdns.org&fp=random&type=ws&host=tannaz.juveitaly.dpdns.org&path=%2F%3Fed%3D2560#AutoAiVPN6934247
 vless://dfdf1c0a-5e52-4746-88bd-19d4e4ac7853@172.67.78.196:80?encryption=none&security=none&sni=tannaz.juveitaly.dpdns.org&fp=random&type=ws&host=tannaz.juveitaly.dpdns.org&path=%2F%3Fed%3D2560#AutoAiVPN6934246
 ss://4c9541c7-5fa1-403c-84af-175e3b25a27f@172.67.207.26:8080?encryption=none&security=none&type=ws&host=201.58vtg99l.workers.dev&path=%2F#AutoAiVPN6931669
-trojan://auto@172.67.174.21:443?security=tls&type=ws&sni=trojanmz.pages.dev&host=trojanmz.pages.dev#AutoAiVPN6947575
-trojan://NISHIKUITAN222@104.24.247.219:443?#AutoAiVPN6947570
-ss://39a91eaf-a379-4fff-a9c8-1cb01442b76f@104.26.0.117:2053?path=%2F&security=tls&encryption=none&host=iran.akcovufun.ir&type=ws&sni=iran.akcovufun.ir#AutoAiVPN6946601
+vless://4c9541c7-5fa1-403c-84af-175e3b25a27f@172.67.207.26:8080?encryption=none&security=none&type=ws&host=201.58vtg99l.workers.dev&path=%2F#AutoAiVPN6931668
