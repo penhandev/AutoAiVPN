@@ -1,3 +1,7 @@
+trojan://telegram-id-directvpn@15.236.2.42:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN7097294
+trojan://telegram-id-privatevpns@15.236.2.42:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN7097286
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.2.42:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN7097208
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.2.42:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN7097207
 ss://d342d11e-d424-4583-b36e-524ab1f0afa4@104.16.149.244:2095?security=&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=fuckingxijinping.xijinpingbigsb.workers.dev&encryption=none#AutoAiVPN7096895
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.16.149.244:2095?security=&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=fuckingxijinping.xijinpingbigsb.workers.dev&encryption=none#AutoAiVPN7096894
 ss://592bac53-90ec-44b5-811b-01f6adf28f41@104.24.140.39:80?security=&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=wild-glade-236b-ppal03.xawego3471.workers.dev&encryption=none#AutoAiVPN7096893
