@@ -1,3 +1,7 @@
+trojan://telegram-id-directvpn@3.74.129.76:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN7078814
+trojan://telegram-id-privatevpns@3.74.129.76:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN7078807
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.74.129.76:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN7078726
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.74.129.76:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN7078725
 trojan://bpb-trojan@103.21.244.131:443?allowInsecure=1&sni=adagio.us.kg&ws=1&wspath=%2Ftr%3Fed%3D2560#AutoAiVPN7077534
 trojan://bpb-trojan@190.93.247.54:443?allowInsecure=1&sni=adagio.us.kg&ws=1&wspath=%2Ftr%3Fed%3D2560#AutoAiVPN7077531
 trojan://bpb-trojan@104.17.26.134:443?allowInsecure=1&sni=adagio.us.kg&ws=1&wspath=%2Ftr%3Fed%3D2560#AutoAiVPN7077530
