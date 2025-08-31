@@ -4,7 +4,7 @@ trojan://2ee85121-31de-4581-a492-eb00f606e392@198.46.152.83:443/?type=tcp&securi
 vmess://eyJhZGQiOiIxMTguMTA3LjI0NC44MCIsImFpZCI6IjY0IiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwibmV0Ijoid3MiLCJwYXRoIjoiXC9wYXRoXC8xNzA3MzMxMzIyMzMiLCJwb3J0IjoiNDQzIiwicHMiOiJBdXRvQWlWUE43MDMzMjg3Iiwic2N5IjoiYXV0byIsInNuaSI6Ind3dy4xNzU5MTMwMS54eXoiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@104.16.242.72:443?encryption=none&security=tls&sni=vless3-5xq.pages.dev&type=ws&host=vless3-5xq.pages.dev#AutoAiVPN7031680
 vless://7332e424-7a6e-49dd-9756-abb655f82b9b@78.111.85.38:8443?security=reality&sni=www.speedtest.net&type=grpc&serviceName=JoinBadeChannel%40antimeli&fp=chrome&pbk=3X5yRhjS_mAfP9VTutciko0U26Tv9qNiyFRNrYJNvS0&sid=7cc55945924f#AutoAiVPN7005009
-ss://df434087-13a8-46c8-b03c-663b518c7451@172.64.35.199:443?security=tls&sni=fastpurnet.pages.dev&type=ws&host=fastpurnet.pages.dev&path=%2Ffastpurnet.pages.dev%2F%3Fed%3D2560&fp=randomized#AutoAiVPN7005005
+ss://3b82c3ef-d428-4a62-ae97-f53c305f883d@188.245.39.111:48889?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#AutoAiVPN7068619
 vless://df434087-13a8-46c8-b03c-663b518c7451@172.64.35.199:443?security=tls&sni=fastpurnet.pages.dev&type=ws&host=fastpurnet.pages.dev&path=%2Ffastpurnet.pages.dev%2F%3Fed%3D2560&fp=randomized#AutoAiVPN7005002
 ss://e4eb2fdd-d85b-4514-8a6f-796ba0bd0bd5@46.245.66.39:48822?path=%2F&security=none&encryption=none&type=ws#AutoAiVPN6994208
 vless://e4eb2fdd-d85b-4514-8a6f-796ba0bd0bd5@46.245.66.39:48822?path=%2F&security=none&encryption=none&type=ws#AutoAiVPN6994207
