@@ -1,3 +1,6 @@
+trojan://telegram-id-directvpn@63.177.223.15:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN7288372
+trojan://telegram-id-privatevpns@63.177.223.15:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN7288366
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.177.223.15:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN7288294
 ss://2bcfbfba-b446-4ad5-93ad-72af9e008f61@172.64.229.222:2096?path=%2Ffree%2F1.177.76.215%3A10026&security=tls&alpn=h3&encryption=none&host=tcp.biz.id&fp=random&type=ws&sni=tcp.biz.id#AutoAiVPN7287664
 vless://2bcfbfba-b446-4ad5-93ad-72af9e008f61@172.64.229.222:2096?path=%2Ffree%2F1.177.76.215%3A10026&security=tls&alpn=h3&encryption=none&host=tcp.biz.id&fp=random&type=ws&sni=tcp.biz.id#AutoAiVPN7287663
 ss://2bcfbfba-b446-4ad5-93ad-72af9e008f61@217.30.10.55:443?path=%2Ffree%2F1.177.76.215%3A10026&security=tls&alpn=h3&encryption=none&host=tcp.biz.id&fp=random&type=ws&sni=tcp.biz.id#AutoAiVPN7287658
