@@ -1,3 +1,7 @@
+trojan://telegram-id-directvpn@13.38.239.27:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN7337286
+trojan://telegram-id-privatevpns@13.38.239.27:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN7337280
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.38.239.27:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN7337203
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.38.239.27:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN7337202
 trojan://bpb-trojan@198.41.194.30:443?security=tls&type=ws&sni=fcspring.ggff.net&path=/tr?ed&host=fcspring.ggff.net#AutoAiVPN7336518
 ss://113dd109-540e-4497-9d47-eed30315260f@194.36.55.67:80?sni=edgetunnel.2424014450.workers.dev&type=ws&host=edgetunnel.2424014450.workers.dev&allowInsecure=0#AutoAiVPN7336517
 vless://113dd109-540e-4497-9d47-eed30315260f@194.36.55.67:80?sni=edgetunnel.2424014450.workers.dev&type=ws&host=edgetunnel.2424014450.workers.dev&allowInsecure=0#AutoAiVPN7336514
