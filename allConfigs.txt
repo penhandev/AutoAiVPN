@@ -1,3 +1,7 @@
+trojan://telegram-id-directvpn@3.122.89.11:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN7328642
+trojan://telegram-id-privatevpns@3.122.89.11:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN7328636
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.122.89.11:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN7328553
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.122.89.11:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN7328552
 ss://5bf60814-fd27-42d1-a4fa-eab7226bd067@108.162.195.157:443?security=tls&sni=lf74ll.mafiaira.store&type=ws&host=lf74ll.mafiaira.store&path=/wss&alpn=http/1.1#AutoAiVPN7328269
 vless://5bf60814-fd27-42d1-a4fa-eab7226bd067@108.162.195.157:443?security=tls&sni=lf74ll.mafiaira.store&type=ws&host=lf74ll.mafiaira.store&path=/wss&alpn=http/1.1#AutoAiVPN7328268
 ss://57a45699-ccb1-dff5-d5dd-c7532327a058@ashtiii.fast.hosting-ip.com:80?mode=auto&path=%2FGaMeOpTiMiZeRed%3D2048&security=&encryption=none&host=nAr.pCstOreArsoFt.com&type=xhttp#AutoAiVPN7328263
