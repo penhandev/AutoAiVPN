@@ -1,3 +1,7 @@
+trojan://telegram-id-directvpn@3.123.107.229:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN7529591
+trojan://telegram-id-privatevpns@3.123.107.229:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN7529585
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.123.107.229:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN7529507
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.123.107.229:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN7529506
 trojan://bpb-trojan@104.16.17.212:443?allowInsecure=0&sni=fcspring.ggff.net#AutoAiVPN7528661
 ss://21792da3-074f-4d55-8a6b-4d84c5c0f682@194.156.65.28:443?security=reality&encryption=none&pbk=fjPySr9gszKltxP8Smt0iu8ktqezOGptg2YVmWvxlUI&headerType=none&fp=chrome&type=tcp&sni=cloudflare.com#AutoAiVPN7528284
 vless://21792da3-074f-4d55-8a6b-4d84c5c0f682@194.156.65.28:443?security=reality&encryption=none&pbk=fjPySr9gszKltxP8Smt0iu8ktqezOGptg2YVmWvxlUI&headerType=none&fp=chrome&type=tcp&sni=cloudflare.com#AutoAiVPN7528283
