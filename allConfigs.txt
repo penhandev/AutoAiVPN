@@ -1,3 +1,7 @@
+trojan://telegram-id-directvpn@13.36.201.87:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN7734998
+trojan://telegram-id-privatevpns@13.36.201.87:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN7734997
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.201.87:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN7734934
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.201.87:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN7734933
 ss://3a07473c-5128-47d4-9f4b-fec097471497@195.201.32.169:24199?security=none&encryption=none&headerType=none&type=tcp#AutoAiVPN7734712
 vless://3a07473c-5128-47d4-9f4b-fec097471497@195.201.32.169:24199?security=none&encryption=none&headerType=none&type=tcp#AutoAiVPN7734711
 trojan://1b3b276f-44b4-4c39-bfdf-67ff6337b41f@www.visa.com:443?security=tls&type=ws&sni=POOrIaREd--persEPolIS.pAGEs.Dev&path=/Telegram-@V2ray_Alpha/?ed=2560&host=poORiaReD--PErsePOlIs.PagES.DEv#AutoAiVPN7734654
