@@ -1,3 +1,7 @@
+trojan://telegram-id-directvpn@15.188.112.221:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN7738632
+trojan://telegram-id-privatevpns@15.188.112.221:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN7738626
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.112.221:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN7738551
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.112.221:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN7738550
 trojan://slch2024@198.202.211.195:2096?path=Telegram%40ShadowProxy66&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#AutoAiVPN7738318
 ss://1df79df3-908d-4458-8eb0-fd31b0e2e22f@157.230.180.116:2053?security=reality&encryption=none&pbk=PVM-pgM-Y1_yxII9Oi8yWK6OkXmJmQynk9DkMEj4YW8&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.openstreetmap.org&sid=54c3eae868b911#AutoAiVPN7738317
 vless://1df79df3-908d-4458-8eb0-fd31b0e2e22f@157.230.180.116:2053?security=reality&encryption=none&pbk=PVM-pgM-Y1_yxII9Oi8yWK6OkXmJmQynk9DkMEj4YW8&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.openstreetmap.org&sid=54c3eae868b911#AutoAiVPN7738316
