@@ -1,3 +1,7 @@
+trojan://telegram-id-directvpn@13.37.0.133:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN7917740
+trojan://telegram-id-privatevpns@13.37.0.133:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN7917734
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.0.133:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN7917630
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.0.133:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN7917629
 ss://f282b878-8711-45a1-8c69-5564172123c1@104.21.42.42:80?path=%2Faioproxybot%2F146.190.192.43-80&security=none&encryption=none&host=aio.zipzap.biz.id&type=ws#AutoAiVPN7914846
 vless://f282b878-8711-45a1-8c69-5564172123c1@104.21.42.42:80?path=%2Faioproxybot%2F146.190.192.43-80&security=none&encryption=none&host=aio.zipzap.biz.id&type=ws#AutoAiVPN7914845
 ss://a13df940-020c-465f-bc89-ee5279b5cd6a@192.200.160.211:443?security=tls&sni=lu.ylks.us.kg&type=ws&host=lu.ylks.us.kg&path=%2F%3Fed%3D2560#AutoAiVPN7913485
