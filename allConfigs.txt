@@ -1,3 +1,7 @@
+trojan://telegram-id-directvpn@15.237.73.245:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN7887311
+trojan://telegram-id-privatevpns@15.237.73.245:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN7887303
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.237.73.245:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN7887220
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.237.73.245:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN7887219
 ss://a13df940-020c-465f-bc89-ee5279b5cd6a@104.19.51.231:443?security=tls&sni=lu.ylks.us.kg&type=ws&host=lu.ylks.us.kg&path=%2FProxyIP%3DProxyIP.US.fxxk.dedyn.io#AutoAiVPN7886897
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.19.51.231:443?security=tls&sni=lu.ylks.us.kg&type=ws&host=lu.ylks.us.kg&path=%2FProxyIP%3DProxyIP.US.fxxk.dedyn.io#AutoAiVPN7886894
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638929259959016671.dezful-drc-tusabq.info:8880?mode=gun&security=none&encryption=none&type=grpc#AutoAiVPN7885589
