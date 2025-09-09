@@ -1,3 +1,6 @@
+trojan://telegram-id-directvpn@63.179.68.47:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN7995732
+trojan://telegram-id-privatevpns@63.179.68.47:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN7995726
+ss://5ca1c236-ead9-40c5-88ec-4ff8e450bdd9@91.99.175.87:443?security=reality&sni=refersion.com&fp=firefox&pbk=xhUiZLkRCdO3b06Sfl4CMAkzwufpHbZcTYhLAA036R8&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#AutoAiVPN7995725
 vless://5ca1c236-ead9-40c5-88ec-4ff8e450bdd9@91.99.175.87:443?security=reality&sni=refersion.com&fp=firefox&pbk=xhUiZLkRCdO3b06Sfl4CMAkzwufpHbZcTYhLAA036R8&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#AutoAiVPN7995724
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.125:8880?security=none&type=grpc&packetEncoding=xudp&encryption=none#AutoAiVPN7995717
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.125:8880?security=none&type=grpc&packetEncoding=xudp&encryption=none#AutoAiVPN7995716
