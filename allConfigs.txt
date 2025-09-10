@@ -1,3 +1,7 @@
+trojan://telegram-id-directvpn@15.237.71.39:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN8091357
+trojan://telegram-id-privatevpns@15.237.71.39:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN8091351
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.237.71.39:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN8091280
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.237.71.39:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN8091279
 ss://d342d11e-d424-4583-b36e-524ab1f0afa4@8.209.220.155:587?sni=a.mifeng.us.kg&type=ws&host=a.mifeng.us.kg#AutoAiVPN8090998
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@8.209.220.155:587?sni=a.mifeng.us.kg&type=ws&host=a.mifeng.us.kg#AutoAiVPN8090994
 vmess://eyJhZGQiOiIxNzIuNjcuMTk4LjE4NyIsImFpZCI6MCwiaG9zdCI6InhtaXZpZGVvLmNmZCIsImlkIjoiOTNlYTQ4NmEtYmFkYS00MmE0LWFjMzgtZDA4OGIzMjBmYTFlIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9saW5rd3MiLCJwb3J0Ijo0NDMsInBzIjoiQXV0b0FpVlBOODA5MDk5MSIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
