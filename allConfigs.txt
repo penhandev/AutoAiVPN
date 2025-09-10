@@ -1,3 +1,7 @@
+trojan://telegram-id-privatevpns@3.78.88.96:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN8051077
+trojan://telegram-id-directvpn@3.78.88.96:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN8051067
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.78.88.96:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN8051008
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.78.88.96:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN8051007
 ss://2fcc7a6e-2ed7-4cc5-aa02-f11421cd2837@tun5.momasserver.ir:1122?encryption=none&type=tcp&headerType=http&host=cafebazaar.ir&path=/&security=none#AutoAiVPN8050471
 vless://2fcc7a6e-2ed7-4cc5-aa02-f11421cd2837@tun5.momasserver.ir:1122?encryption=none&type=tcp&headerType=http&host=cafebazaar.ir&path=/&security=none#AutoAiVPN8050470
 ss://71504eaf-29ac-4190-89d1-dd9ce2c9ee14@104.21.28.82:443?path=%2F&security=tls&encryption=none&host=backhaxus.dh04.shop&fp=chrome&type=ws&sni=backhaxus.dh04.shop#AutoAiVPN8050457
