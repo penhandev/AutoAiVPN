@@ -1,3 +1,8 @@
+trojan://telegram-id-privatevpns@3.121.4.162:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN8084146
+trojan://telegram-id-directvpn@3.121.4.162:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN8084133
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.121.4.162:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN8084076
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.121.4.162:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN8084075
+trojan://slch2024@185.176.24.195:2096?path=%2FTelegram&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#AutoAiVPN8083845
 ss://YWVzLTEyOC1nY206UE1vWXVUMUxqWCtOckJha0RVd3Y4dk15c255TGlOZW8ycEFtNHRubjJvND0=@78.135.85.86:4100#AutoAiVPN8083796
 ss://f2dc17f5-3113-4a40-8c51-55fe0e2c7f75@104.25.182.54:443?security=tls&sni=purCOwfaSt.PAgES.DEv&type=ws&host=PUrcOWFAst.pAGeS.dEv&path=%2Ftelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#AutoAiVPN8083793
 vmess://eyJhZGQiOiJobXMyNi54cGVuZ21vdG9ycy5zYnMiLCJhaWQiOjAsImhvc3QiOiJobXMyNi54cGVuZ21vdG9ycy5zYnMiLCJpZCI6ImZiMGEyZGU2LWJmMDYtNGZmMC05N2NlLWMyMWFiY2RjMmQ1NSIsIm5ldCI6IndzIiwicGF0aCI6IlwvbGlua3dzIiwicG9ydCI6NDQzLCJwcyI6IkF1dG9BaVZQTjgwODM3OTIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
