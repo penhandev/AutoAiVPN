@@ -1,3 +1,8 @@
+trojan://telegram-id-directvpn@13.39.176.31:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN8181886
+trojan://telegram-id-privatevpns@13.39.176.31:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN8181880
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.176.31:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN8181795
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.176.31:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN8181794
+ss://86587701-5184-4999-b130-2c7a6f99bb24@172.64.146.118:8443?security=tls&sni=pardazeshvpn-tg34.pages.dev&type=ws&host=pardazeshvpn-tg34.pages.dev&path=%2F%3Fed%3D2048&fp=random#AutoAiVPN8181473
 vless://86587701-5184-4999-b130-2c7a6f99bb24@172.64.146.118:8443?security=tls&sni=pardazeshvpn-tg34.pages.dev&type=ws&host=pardazeshvpn-tg34.pages.dev&path=%2F%3Fed%3D2048&fp=random#AutoAiVPN8181469
 ss://75bcf605-e069-4cc9-bfa2-f730ab301ddb@104.19.244.250:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#AutoAiVPN8181466
 vless://75bcf605-e069-4cc9-bfa2-f730ab301ddb@104.19.244.250:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#AutoAiVPN8181462
