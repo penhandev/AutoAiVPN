@@ -1,3 +1,7 @@
+trojan://telegram-id-directvpn@15.188.1.99:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN8186042
+trojan://telegram-id-privatevpns@15.188.1.99:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN8186036
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.1.99:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN8185956
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.1.99:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN8185955
 ss://4942ca99-f479-478b-baeb-498739f19381@d12.zulahost.us:443?encryption=none&security=tls&sni=d12.zulahost.us&fp=chrome&type=ws&host=d12.zulahost.us&path=%2F59795%2Fwsgoogle#AutoAiVPN8185006
 vless://4942ca99-f479-478b-baeb-498739f19381@d12.zulahost.us:443?encryption=none&security=tls&sni=d12.zulahost.us&fp=chrome&type=ws&host=d12.zulahost.us&path=%2F59795%2Fwsgoogle#AutoAiVPN8185005
 ss://98b55fcb-6bb5-484d-ade0-755efa4ec521@91.98.33.95:8880?encryption=none&security=reality&sni=cp7.cloudflare.com&fp=firefox&pbk=CTGmhzn9VcsORPha4kawQk-qcCpGn3wlIcBIWiRzwgA&sid=9d8276db06920735&spx=%2Fcdn%2Fimage.jpg&type=xhttp&path=%2F&mode=auto#AutoAiVPN8184998
