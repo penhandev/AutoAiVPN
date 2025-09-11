@@ -1,3 +1,7 @@
+trojan://telegram-id-directvpn@18.195.211.160:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN8169332
+trojan://telegram-id-privatevpns@18.195.211.160:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN8169326
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.195.211.160:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN8169238
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.195.211.160:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN8169237
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@23.150.152.16:6379#AutoAiVPN8168902
 ss://d0298536-d670-4045-bbb1-ddd5ea68683e@141.101.120.198:443?encryption=none&security=tls&sni=azadnet-btq.pages.dev&type=ws&host=azadnet-btq.pages.dev&path=%2Fazadnet-btq.pages.dev%2F%3Fed%3D2560%26prot_type%3Dvless#AutoAiVPN8167886
 vless://d0298536-d670-4045-bbb1-ddd5ea68683e@141.101.120.198:443?encryption=none&security=tls&sni=azadnet-btq.pages.dev&type=ws&host=azadnet-btq.pages.dev&path=%2Fazadnet-btq.pages.dev%2F%3Fed%3D2560%26prot_type%3Dvless#AutoAiVPN8167885
