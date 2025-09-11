@@ -1,3 +1,7 @@
+ss://0a44145f-59dc-4e5b-a233-677b97f5114c@15.204.158.90:443?security=tls&sni=147135011033.sec21org.com&type=tcp#AutoAiVPN8203600
+vless://0a44145f-59dc-4e5b-a233-677b97f5114c@15.204.158.90:443?security=tls&sni=147135011033.sec21org.com&type=tcp#AutoAiVPN8203599
+ss://spcmpkl14a@91.99.150.242:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=spcmpkl14a-9199150242-direct.khastehnabashi.com#AutoAiVPN8203594
+vless://spcmpkl14a@91.99.150.242:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=spcmpkl14a-9199150242-direct.khastehnabashi.com#AutoAiVPN8203593
 ss://d342d11e-d424-4583-b36e-524ab1f0afa4@119.200.244.99:33890?sni=a.mifeng.us.kg&type=ws&host=a.mifeng.us.kg#AutoAiVPN8202196
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@119.200.244.99:33890?sni=a.mifeng.us.kg&type=ws&host=a.mifeng.us.kg#AutoAiVPN8202193
 ss://92e1ef2b-c1f6-4198-abc7-a930cb498d30@0.0.0.0:3?security=&encryption=none&headerType=http&type=tcp#AutoAiVPN8201911
