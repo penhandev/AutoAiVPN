@@ -1,3 +1,7 @@
+trojan://telegram-id-directvpn@3.127.54.76:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN8215489
+trojan://telegram-id-privatevpns@3.127.54.76:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN8215486
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.127.54.76:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN8215406
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.127.54.76:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN8215405
 ss://d342d11e-d424-4583-b36e-524ab1f0afa4@146.56.179.20:8000?sni=a.mifeng.us.kg&type=ws&host=a.mifeng.us.kg&path=/?ed=2560security=tls#AutoAiVPN8215078
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@146.56.179.20:8000?sni=a.mifeng.us.kg&type=ws&host=a.mifeng.us.kg&path=/?ed=2560security=tls#AutoAiVPN8215074
 ss://583ceab3-4022-4553-9158-9bedc625ad4e@160.79.104.177:8880?encryption=none&security=none&type=ws&host=ip.langmanshanxi.top&path=%2Ftelegram%F0%9F%87%A8%F0%9F%87%B3#AutoAiVPN8212715
