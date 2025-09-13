@@ -1,3 +1,7 @@
+trojan://telegram-id-directvpn@35.181.234.204:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN8361230
+trojan://telegram-id-privatevpns@35.181.234.204:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN8361224
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.234.204:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN8361126
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.234.204:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN8361125
 ss://781c352c-5b01-4920-9a0e-2a25732f694c@147.78.140.255:80/?type=ws&encryption=none&flow=&host=myvps.nilphreakz.me&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560#AutoAiVPN8358919
 vless://781c352c-5b01-4920-9a0e-2a25732f694c@147.78.140.255:80/?type=ws&encryption=none&flow=&host=myvps.nilphreakz.me&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560#AutoAiVPN8358918
 ss://77ece81f-a99a-4bd9-be0f-3c562c4dab8d@184.174.80.255:80/?type=ws&encryption=none&flow=&host=myvps.nilphreakz.me&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560#AutoAiVPN8358915
