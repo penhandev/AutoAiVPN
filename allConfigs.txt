@@ -1,3 +1,7 @@
+trojan://telegram-id-directvpn@52.59.58.34:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN8346226
+trojan://telegram-id-privatevpns@52.59.58.34:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN8346220
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.59.58.34:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN8346124
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.59.58.34:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN8346123
 ss://d281e7fb-4c25-4ed1-82a3-13f2b61958c7@146.190.16.205:16301?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&path=%2F&security=none&encryption=none&type=ws#AutoAiVPN8345135
 vless://d281e7fb-4c25-4ed1-82a3-13f2b61958c7@146.190.16.205:16301?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&path=%2F&security=none&encryption=none&type=ws#AutoAiVPN8345134
 ss://6ea9f368-45fd-400e-bafa-32190bc4b0bc@65.109.204.177:443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&encryption=none&security=none&type=ws&path=%2F#AutoAiVPN8344048
