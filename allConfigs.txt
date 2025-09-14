@@ -1,3 +1,7 @@
+trojan://telegram-id-privatevpns@63.179.38.42:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN8407881
+trojan://telegram-id-directvpn@63.179.38.42:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN8407868
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.179.38.42:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN8407808
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.179.38.42:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN8407807
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@45.144.48.58:57456#AutoAiVPN8407483
 ss://2dcbbfcd-8bcd-4827-9bec-d90949b2ca7d@kra02.333210.xyz:40000/?type=grpc&encryption=none&flow=&serviceName=bby&sni=www.walmart.com&allowInsecure=1&fp=ios&security=reality&pbk=IllHH4k1x34LP2g6PJPd5-p__kNMRL0-Xq0VSli59mM&sid=83dd2e7b&packetEncoding=xudp#AutoAiVPN8405865
 vless://2dcbbfcd-8bcd-4827-9bec-d90949b2ca7d@kra02.333210.xyz:40000/?type=grpc&encryption=none&flow=&serviceName=bby&sni=www.walmart.com&allowInsecure=1&fp=ios&security=reality&pbk=IllHH4k1x34LP2g6PJPd5-p__kNMRL0-Xq0VSli59mM&sid=83dd2e7b&packetEncoding=xudp#AutoAiVPN8405864
