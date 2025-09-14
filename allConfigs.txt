@@ -1,3 +1,8 @@
+trojan://telegram-id-directvpn@13.37.27.224:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN8420073
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.27.224:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN8420004
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.27.224:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN8420003
+ss://f282b878-8711-45a1-8c69-5564172123c1@104.21.50.34:443?path=%2Faioproxybot%2F129.150.49.58-18650&security=tls&encryption=none&host=aio.xtradata.dpdns.org&type=ws&sni=aio.xtradata.dpdns.org#AutoAiVPN8419737
+vless://f282b878-8711-45a1-8c69-5564172123c1@104.21.50.34:443?path=%2Faioproxybot%2F129.150.49.58-18650&security=tls&encryption=none&host=aio.xtradata.dpdns.org&type=ws&sni=aio.xtradata.dpdns.org#AutoAiVPN8419736
 ss://8e0cd6cf-f31e-48aa-ba6d-8399c4e1abaf@193.56.135.85:27888?security=reality&encryption=none&pbk=yI9lqxK5_5k8KW1ZecGX2Y-CMA0UvkunkjXM5LwNFDI&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=s0.awsstatic.com#AutoAiVPN8419725
 vless://8e0cd6cf-f31e-48aa-ba6d-8399c4e1abaf@193.56.135.85:27888?security=reality&encryption=none&pbk=yI9lqxK5_5k8KW1ZecGX2Y-CMA0UvkunkjXM5LwNFDI&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=s0.awsstatic.com#AutoAiVPN8419724
 trojan://XWnVX2ASHl@5.255.103.217:37757?path=%2Fmoshaliplus&security=tls&alpn=http%2F1.1&host=moshali.arshiacomplus.dpdns.org&fp=firefox&type=ws&sni=moshali.arshiacomplus.dpdns.org#AutoAiVPN8418700
