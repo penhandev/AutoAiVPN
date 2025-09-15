@@ -1,3 +1,7 @@
+trojan://telegram-id-directvpn@18.193.209.201:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN8511039
+trojan://telegram-id-privatevpns@18.193.209.201:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN8511033
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.193.209.201:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN8510952
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.193.209.201:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN8510951
 ss://2272f3b4-86be-6c6b-9eec-48b82ba6d3f9@91.99.225.173:2053?type=xhttp&mode=auto&host=www.varzesh3.com&path=/&security=none#AutoAiVPN8508139
 vless://2272f3b4-86be-6c6b-9eec-48b82ba6d3f9@91.99.225.173:2053?type=xhttp&mode=auto&host=www.varzesh3.com&path=/&security=none#AutoAiVPN8508138
 trojan://telegram-id-directvpn@63.176.70.194:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN8506713
