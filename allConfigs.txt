@@ -1,3 +1,7 @@
+trojan://telegram-id-privatevpns@13.37.182.65:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN8558021
+trojan://telegram-id-directvpn@13.37.182.65:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN8558007
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.182.65:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN8557954
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.182.65:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN8557953
 ss://47f93666-f168-4112-900e-ecfc48d08eac@bonjoqmadam.reiisvezze3.ir:2095?path=%2F&security=&encryption=none&type=httpupgrade#AutoAiVPN8557333
 vless://47f93666-f168-4112-900e-ecfc48d08eac@bonjoqmadam.reiisvezze3.ir:2095?path=%2F&security=&encryption=none&type=httpupgrade#AutoAiVPN8557332
 ss://4ad963a1-48a4-40cf-9ec0-26a732e0d887@api.hostbaran.info:15810?security=reality&encryption=none&pbk=Clc3P7127drFOxcwY7TTCIAdD4a7enFY96Jo0TxC-hY&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.pottermore.com&sid=75#AutoAiVPN8554914
