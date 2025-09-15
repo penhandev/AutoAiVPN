@@ -1,3 +1,7 @@
+trojan://telegram-id-directvpn@15.237.91.209:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN8562835
+trojan://telegram-id-privatevpns@15.237.91.209:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN8562829
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.237.91.209:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN8562754
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.237.91.209:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN8562753
 ss://8cda5b52-b985-4044-b131-b75a07857516@tu.filterchi.shop:2089?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#AutoAiVPN8562118
 vless://8cda5b52-b985-4044-b131-b75a07857516@tu.filterchi.shop:2089?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#AutoAiVPN8562117
 ss://73805c31-ecd8-4561-a2ae-b2f1df7d33c4@deu300.unlocknet.org:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com#AutoAiVPN8561433
