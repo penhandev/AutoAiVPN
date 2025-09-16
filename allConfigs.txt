@@ -1,3 +1,6 @@
+trojan://telegram-id-privatevpns@3.79.170.110:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN8608302
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.79.170.110:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN8608225
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.79.170.110:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN8608224
 ss://9e43619a-5067-42f3-a82e-bed81703a771@38.180.230.78:8766?security=reality&encryption=none&pbk=EwoQCKDlHuB925c6rz8488SfSUYSMMZFcR1T6PILWWM&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=6bfe#AutoAiVPN8606552
 vless://9e43619a-5067-42f3-a82e-bed81703a771@38.180.230.78:8766?security=reality&encryption=none&pbk=EwoQCKDlHuB925c6rz8488SfSUYSMMZFcR1T6PILWWM&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=6bfe#AutoAiVPN8606551
 ss://4c600df7-b464-4f01-8d61-85fc3c068215@159.65.194.42:55512?path=%2F&security=none&encryption=none&type=ws#AutoAiVPN8606550
