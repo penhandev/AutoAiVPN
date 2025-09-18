@@ -1,3 +1,7 @@
+trojan://telegram-id-directvpn@35.181.17.181:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN8872035
+trojan://telegram-id-privatevpns@35.181.17.181:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN8872029
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.17.181:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN8871951
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.17.181:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN8871950
 ss://c3186bda-665d-427f-9ff7-8eddcc37ef3a@91.99.144.18:2083?mode=gun&security=reality&encryption=none&pbk=b14Nibi1pMPwFPqgiyZRS3a6-Y-Q8EsE5urKnA-RkAc&fp=firefox&type=grpc&sni=tgju.org&sid=adf8a1f5689177a2#AutoAiVPN8871363
 vless://c3186bda-665d-427f-9ff7-8eddcc37ef3a@91.99.144.18:2083?mode=gun&security=reality&encryption=none&pbk=b14Nibi1pMPwFPqgiyZRS3a6-Y-Q8EsE5urKnA-RkAc&fp=firefox&type=grpc&sni=tgju.org&sid=adf8a1f5689177a2#AutoAiVPN8871362
 ss://92f481b6-ad92-43e4-a683-2bb0aeaa9846@104.16.189.9:80/?path=%2F%3Fed%3D%23%2FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=&encryption=none&host=dw.alibichareh.dpdns.org&type=ws#AutoAiVPN8869685
