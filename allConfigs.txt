@@ -1,3 +1,6 @@
+trojan://telegram-id-directvpn@15.237.89.128:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN8940259
+trojan://telegram-id-privatevpns@15.237.89.128:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN8940251
+ss://0f81bb73-5a81-4119-b0d8-332aa4c01fd7@172.66.44.99:443?security=tls&sni=VPnKeNzo-CUO.pAgeS.dEv&type=ws&host=vpnkenzo-cuo.pages.dev&fp=chrome&alpn=h2,http/1.1#AutoAiVPN8940182
 vless://0f81bb73-5a81-4119-b0d8-332aa4c01fd7@172.66.44.99:443?security=tls&sni=VPnKeNzo-CUO.pAgeS.dEv&type=ws&host=vpnkenzo-cuo.pages.dev&fp=chrome&alpn=h2,http/1.1#AutoAiVPN8940180
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.237.89.128:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN8940158
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.237.89.128:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN8940157
