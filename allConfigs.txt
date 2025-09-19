@@ -1,3 +1,7 @@
+trojan://telegram-id-directvpn@15.188.175.202:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN8982942
+trojan://telegram-id-privatevpns@15.188.175.202:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN8982936
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.175.202:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN8982862
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.175.202:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN8982861
 ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.52:8880?encryption=none&security=none&type=ws&host=kjgx.laoyoutiao.link&path=%2Ftelegram@wangcai2%2F%3Fed%3D2560#AutoAiVPN8982539
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.52:8880?encryption=none&security=none&type=ws&host=kjgx.laoyoutiao.link&path=%2Ftelegram@wangcai2%2F%3Fed%3D2560#AutoAiVPN8982538
 ss://da970531-474d-488e-b8cf-e6f9bde49131@de99.armoteam.shop:3903?security=&encryption=none&headerType=&type=tcp#AutoAiVPN8979471
