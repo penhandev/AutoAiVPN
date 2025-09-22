@@ -1,6 +1,6 @@
 ss://f0d584bc-342f-4443-ba24-79e4d0e504b1@45.159.216.25:80?security=none&type=ws&path=%2F#AutoAiVPN8776017
-ss://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.12.138.182:2096?path=%2F&security=tls&encryption=none&type=ws#AutoAiVPN9085681
-ss://f2e4c60e-d967-4ce5-aae9-81cefa77753f@speed.galaxyjanebi.sbs:14291?encryption=none&security=none&type=tcp&headerType=none#AutoAiVPN9224225
+trojan://telegram-id-directvpn@63.177.20.237:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN9297423
+trojan://telegram-id-privatevpns@63.177.20.237:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN9297417
 vless://f2e4c60e-d967-4ce5-aae9-81cefa77753f@speed.galaxyjanebi.sbs:14291?encryption=none&security=none&type=tcp&headerType=none#AutoAiVPN9224224
 ss://f2e4c60e-d967-4ce5-aae9-81cefa77753f@speed.galaxyjanebi.sbs:14291?encryption=none&security=none&type=tcp&headerType=none#AutoAiVPN9224225
 vless://f2e4c60e-d967-4ce5-aae9-81cefa77753f@speed.galaxyjanebi.sbs:14291?encryption=none&security=none&type=tcp&headerType=none#AutoAiVPN9224224
