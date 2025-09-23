@@ -1,3 +1,7 @@
+trojan://telegram-id-directvpn@13.39.151.215:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN9403955
+trojan://telegram-id-privatevpns@13.39.151.215:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN9403949
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.151.215:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN9403859
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.151.215:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN9403858
 ss://f1c106a7-c105-4a90-a09d-ad7f6d1d9651@www-fr.svnmobile.com:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=tgju.org&fp=firefox&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&sid=e54b5ad736ae4c38#AutoAiVPN9403605
 ss://ef475e23-17d8-44b1-a19e-438ba5d7e6d1@91.84.113.124:1012?type=tcp&encryption=none&path=%2F&host=telewebion.com&headerType=http&security=none#AutoAiVPN9403280
 vless://ef475e23-17d8-44b1-a19e-438ba5d7e6d1@91.84.113.124:1012?type=tcp&encryption=none&path=%2F&host=telewebion.com&headerType=http&security=none#AutoAiVPN9403279
