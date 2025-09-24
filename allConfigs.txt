@@ -1,3 +1,6 @@
+trojan://auto@172.67.160.28:443?security=tls&sni=trojanmz.pages.dev&type=ws&host=trojanmz.pages.dev&path=%2Ftrojanmz.pages.dev%2F%3Fed%3D2560#AutoAiVPN9713145
+ss://a13df940-020c-465f-bc89-ee5279b5cd6a@198.41.202.104:443?security=tls&sni=lm.kpcloud.eu.org&type=ws&host=lm.kpcloud.eu.org&path=%2F%3Fed%3D2048#AutoAiVPN9713142
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.41.202.104:443?security=tls&sni=lm.kpcloud.eu.org&type=ws&host=lm.kpcloud.eu.org&path=%2F%3Fed%3D2048#AutoAiVPN9713140
 ss://8b0e0c8b-0eba-4e4c-9b62-89c4f184aa37@89.208.113.172:1014?security=none&encryption=none&headerType=none&type=tcp#AutoAiVPN9707090
 vless://8b0e0c8b-0eba-4e4c-9b62-89c4f184aa37@89.208.113.172:1014?security=none&encryption=none&headerType=none&type=tcp#AutoAiVPN9707089
 trojan://telegram-id-directvpn@35.181.147.251:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN9704047
