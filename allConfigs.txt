@@ -1,3 +1,7 @@
+trojan://telegram-id-directvpn@3.123.174.154:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN9884705
+trojan://telegram-id-privatevpns@3.123.174.154:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN9884699
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.123.174.154:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN9884623
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.123.174.154:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN9884622
 vmess://eyJ2IjoiMiIsInBzIjoiQXV0b0FpVlBOOTg4MzkxNiIsImFkZCI6IjEwNC4yNS4xMjcuMjQwIiwicG9ydCI6IjQ0MyIsInR5cGUiOiJub25lIiwiaWQiOiIwOWQ1ODA1Yy03YTIyLTQ3YzEtYjFjMy1mMDkwZGYwYTk4ZWQiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9sZmxqdndzIiwiaG9zdCI6InJhYy42Nzk4ODgueHl6IiwidGxzIjoidGxzIn0=
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.13.207:8880?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&mode=gun&security=none&encryption=none&type=grpc#AutoAiVPN9882501
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.13.207:8880?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&mode=gun&security=none&encryption=none&type=grpc#AutoAiVPN9882500
