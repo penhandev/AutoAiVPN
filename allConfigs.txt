@@ -1,3 +1,7 @@
+trojan://telegram-id-directvpn@18.195.38.193:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN9812517
+trojan://telegram-id-privatevpns@18.195.38.193:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN9812511
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.195.38.193:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN9812426
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.195.38.193:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN9812425
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.117:38388#AutoAiVPN9807986
 ss://d69b66cb-5fe2-40b9-842b-1951982f80ae@172.67.156.192:2083?security=tls&sni=zebelkhan30.quysc64868.workers.dev&type=ws&host=zebelkhan30.quysc64868.workers.dev&path=%2F%3Fed%3D2048#AutoAiVPN9804182
 ss://a13df940-020c-465f-bc89-ee5279b5cd6a@190.93.245.143:443?security=tls&sni=lm.kpcloud.eu.org&type=ws&host=lm.kpcloud.eu.org&path=%2F%3Fed%3D2048#AutoAiVPN9804180
