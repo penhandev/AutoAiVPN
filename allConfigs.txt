@@ -1,3 +1,7 @@
+trojan://telegram-id-privatevpns@63.179.231.155:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN9803493
+trojan://telegram-id-directvpn@63.179.231.155:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN9803492
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.179.231.155:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN9803409
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.179.231.155:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN9803408
 vmess://eyJ2IjoiMiIsInBzIjoiQXV0b0FpVlBOOTc5NTE1MCIsImFkZCI6IjMuY2xhcml0eTE2OC5jb20iLCJwb3J0IjoiNDQzIiwidHlwZSI6Im5vbmUiLCJpZCI6IjQ4ZjgzN2ZhLTEyZDAtNDk4ZC1iNWY2LTk0Zjk5Nzk3MzZhNCIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL3RrIiwiaG9zdCI6IjMuY2xhcml0eTE2OC5jb20iLCJ0bHMiOiJ0bHMifQ==
 ss://bb5be5c2-bf5e-4050-8193-eb18f1faa42e@51.210.77.32:24292?mode=gun&security=&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#AutoAiVPN9785362
 vless://bb5be5c2-bf5e-4050-8193-eb18f1faa42e@51.210.77.32:24292?mode=gun&security=&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#AutoAiVPN9785361
