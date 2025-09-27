@@ -1,3 +1,7 @@
+trojan://telegram-id-privatevpns@35.180.13.18:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN10297268
+trojan://telegram-id-directvpn@35.180.13.18:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN10297267
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.180.13.18:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN10297190
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.180.13.18:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN10297189
 ss://d36f457f-17a9-4891-a113-322ec6792917@162.250.98.12:33801?security=none&encryption=none&host=varzesh3.ir%2F%3FJoin----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN%3Fed%3D2048&headerType=http&type=tcp#AutoAiVPN10296661
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@84.246.85.62:8880?mode=gun&security=none&encryption=none&type=grpc#AutoAiVPN10296043
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.246.85.62:8880?mode=gun&security=none&encryption=none&type=grpc#AutoAiVPN10296042
