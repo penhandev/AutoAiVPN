@@ -1,3 +1,8 @@
+trojan://telegram-id-privatevpns@15.188.98.10:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN10406290
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.190.218:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN10406201
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.190.218:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN10406200
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.98.10:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN10406199
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.98.10:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN10406198
 ss://807eb2ba-d6f6-4a00-a7c9-9251083ed667@45.89.244.185:443?security=reality&sni=www.speedtest.net&type=grpc&serviceName=%2Ffalconargovpn2&fp=chrome&pbk=zXJpWNZidB-PiWoxj_eAdYA-XZd-bnLPL1VRAz4csyA&sid=79b16715574c1a#AutoAiVPN10400817
 vless://807eb2ba-d6f6-4a00-a7c9-9251083ed667@45.89.244.185:443?security=reality&sni=www.speedtest.net&type=grpc&serviceName=%2Ffalconargovpn2&fp=chrome&pbk=zXJpWNZidB-PiWoxj_eAdYA-XZd-bnLPL1VRAz4csyA&sid=79b16715574c1a#AutoAiVPN10400814
 ss://3233b075-962e-4ca6-b772-d5d181037921@159.69.107.16:666?security=none&encryption=none&headerType=none&type=tcp#AutoAiVPN10400262
