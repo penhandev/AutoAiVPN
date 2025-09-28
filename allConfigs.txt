@@ -1,3 +1,8 @@
+trojan://telegram-id-privatevpns@35.181.223.66:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN10420738
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.38.3.23:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN10420643
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.38.3.23:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN10420642
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.223.66:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN10420641
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.223.66:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN10420640
 ss://3f9c8463-8610-3ed8-86c8-a26713067825@dabaius2.sylu.net:443?path=%2Fdb10240eb751d6ab&security=tls&alpn=h3%2Ch2&encryption=none&host=dabaius2.sylu.net&fp=chrome&type=ws&sni=dabaius2.sylu.net#AutoAiVPN10418984
 vless://3f9c8463-8610-3ed8-86c8-a26713067825@dabaius2.sylu.net:443?path=%2Fdb10240eb751d6ab&security=tls&alpn=h3%2Ch2&encryption=none&host=dabaius2.sylu.net&fp=chrome&type=ws&sni=dabaius2.sylu.net#AutoAiVPN10418983
 ss://a13df940-020c-465f-bc89-ee5279b5cd6a@45.67.215.95:443?security=tls&sni=lg.kpcloud.eu.org&type=ws&host=lg.kpcloud.eu.org&path=%2F%3Fed%3D2560#AutoAiVPN10415380
