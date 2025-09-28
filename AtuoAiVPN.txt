@@ -9,7 +9,7 @@ vless://7f30add5-97dd-47dc-bfb2-dea8953db0b1@d32.mmadcoffee.info:80?path=/41472/
 ss://d3a12e79-ef42-4268-b367-42eeb3494e60@172.67.73.163:2083?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&encryption=none&host=hagh.pages.dev&fp=random&type=ws&sni=hagh.pages.dev#AutoAiVPN10094857
 vless://d3a12e79-ef42-4268-b367-42eeb3494e60@172.67.73.163:2083?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&encryption=none&host=hagh.pages.dev&fp=random&type=ws&sni=hagh.pages.dev#AutoAiVPN10094853
 vless://92f481b6-ad92-43e4-a683-2bb0aeaa9846@104.16.180.35:80?security=none&sni=dw.alibichareh.dpdns.org&type=ws&host=dw.alibichareh.dpdns.org&path=%2F%3Fed%3D2560&fp=random#AutoAiVPN10099949
-ss://a61fc8cb-0012-4c4b-aa5e-d1c623ae8092@172.66.132.196:8880?encryption=none&security=none&type=ws&host=worker-late-feather-d436.wedome3486.workers.DEV&path=%2F%3Fed%3D2048#AutoAiVPN10302150
+trojan://telegram-id-directvpn@63.180.56.18:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN10377520
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@84.246.85.62:8880?mode=gun&security=none&encryption=none&type=grpc#AutoAiVPN10296043
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.246.85.62:8880?mode=gun&security=none&encryption=none&type=grpc#AutoAiVPN10296042
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@47.245.105.0:587?security=tls&sni=vless.ifx.us.kg&type=ws&host=vless.ifx.us.kg&path=%2F%3Fed%3D2560fp%3Dchrome#AutoAiVPN10299034
