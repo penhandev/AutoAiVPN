@@ -1,3 +1,7 @@
+trojan://telegram-id-directvpn@63.180.56.18:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN10377520
+trojan://telegram-id-privatevpns@63.180.56.18:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN10377513
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.180.56.18:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN10377424
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.180.56.18:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN10377423
 ss://636d3fe4-eb1f-49ee-9f70-2f4ec935015a@am.speeditest.ir:81?security=none&encryption=none&host=zhaket.com&headerType=http&type=tcp#AutoAiVPN10376908
 vless://636d3fe4-eb1f-49ee-9f70-2f4ec935015a@am.speeditest.ir:81?security=none&encryption=none&host=zhaket.com&headerType=http&type=tcp#AutoAiVPN10376907
 ss://01998eee-009b-fad3-17c1-5d0999b53f54@baidu.sosorg.nyc.mn:443/?type=ws&encryption=none&flow=&host=msttes.citess.ggff.net&path=%2Fsnippets%3Fip%3Dkr.tp50000.netlib.re%3A50000%26nat64%3D6to4&security=tls&sni=msttes.citess.ggff.net#AutoAiVPN10376901
