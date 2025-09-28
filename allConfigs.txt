@@ -1,3 +1,7 @@
+trojan://telegram-id-directvpn@51.44.111.1:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN10470115
+trojan://telegram-id-privatevpns@51.44.111.1:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN10470108
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.111.1:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN10470008
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.111.1:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN10470007
 trojan://vpn@79.137.204.130:2025?encryption=none&security=none&type=ws&host=vkvd127.mycdn.me&path=%2F#AutoAiVPN10468340
 ss://8377aac9-f3b3-42df-a5ea-9254f37e7b34@78.40.117.185:443?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---&security=reality&encryption=none&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&headerType=none&fp=chrome&spx=%2F%40sinavm&type=tcp&flow=xtls-rprx-vision&sni=sto.eu-ffast.com&sid=50#AutoAiVPN10467175
 vless://8377aac9-f3b3-42df-a5ea-9254f37e7b34@78.40.117.185:443?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---&security=reality&encryption=none&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&headerType=none&fp=chrome&spx=%2F%40sinavm&type=tcp&flow=xtls-rprx-vision&sni=sto.eu-ffast.com&sid=50#AutoAiVPN10467174
