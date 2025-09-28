@@ -1,3 +1,8 @@
+trojan://telegram-id-privatevpns@13.36.29.242:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN10462504
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.180.155.217:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN10462404
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.180.155.217:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN10462403
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.29.242:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN10462402
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.29.242:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN10462401
 ss://a13df940-020c-465f-bc89-ee5279b5cd6a@192.200.160.33:443?security=tls&sni=cg.ylks.xyz&type=ws&host=cg.ylks.xyz&path=%2Fblue#AutoAiVPN10457204
 ss://0328e45c-10a5-4bb2-b381-20b2c3470524@172.67.137.11:2053?security=tls&sni=PjYeUnLx69.jHyGyUc05-iNd5848Kk.fUn&type=httpupgrade&host=PjYeUnLx69.jHyGyUc05-iNd5848Kk.fUn&path=%2F&fp=chrome&alpn=h2#AutoAiVPN10457201
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@192.200.160.33:443?security=tls&sni=cg.ylks.xyz&type=ws&host=cg.ylks.xyz&path=%2Fblue#AutoAiVPN10457200
