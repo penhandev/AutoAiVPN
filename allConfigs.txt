@@ -1,3 +1,6 @@
+vless://182602e4-b3d2-461d-b880-1bf10b7f82de@172.64.33.212:443?security=tls&sni=www.felafel.org&type=grpc&serviceName=%40ConfigTell%2C%40ConfigTell%2C%40ConfigTell&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#AutoAiVPN10386476
+ss://dc580147-c87c-4527-bf90-192eb1cf62d1@104.21.34.188:8080?security=none&type=ws&host=stArt.siTEG52770.WorKeRS.deV&path=%2F#AutoAiVPN10386474
+vless://dc580147-c87c-4527-bf90-192eb1cf62d1@104.21.34.188:8080?security=none&type=ws&host=stArt.siTEG52770.WorKeRS.deV&path=%2F#AutoAiVPN10386472
 trojan://telegram-id-directvpn@63.178.137.4:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN10384752
 trojan://telegram-id-privatevpns@63.178.137.4:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN10384746
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.178.137.4:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN10384660
