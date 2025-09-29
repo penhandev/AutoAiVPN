@@ -1,3 +1,7 @@
+trojan://telegram-id-privatevpns@18.199.54.161:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN10608543
+ss://0a6554b7-3897-4063-aef0-b5f3ba7efde1@178.239.126.163:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=main.m.taobao.com&fp=qq&security=reality&pbk=nSPKSGxXa4JujzZazaD548HYP9-oppMoao6tf_YI4VY&sid=86a715#AutoAiVPN10608534
+vless://0a6554b7-3897-4063-aef0-b5f3ba7efde1@178.239.126.163:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=main.m.taobao.com&fp=qq&security=reality&pbk=nSPKSGxXa4JujzZazaD548HYP9-oppMoao6tf_YI4VY&sid=86a715#AutoAiVPN10608533
+ss://12345678-1234-1234-1234-123456789123@170.114.45.44:2096/?type=ws&encryption=none&host=kejiland.freewarp.eu.org&path=%2Fsnippets&security=tls&sni=kejiland.freewarp.eu.org&fp=chrome#AutoAiVPN10608530
 vless://12345678-1234-1234-1234-123456789123@170.114.45.44:2096/?type=ws&encryption=none&host=kejiland.freewarp.eu.org&path=%2Fsnippets&security=tls&sni=kejiland.freewarp.eu.org&fp=chrome#AutoAiVPN10608529
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.199.54.161:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN10608465
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.199.54.161:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN10608464
