@@ -1,3 +1,7 @@
+trojan://telegram-id-directvpn@13.38.203.210:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN10635859
+trojan://telegram-id-privatevpns@13.38.203.210:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN10635852
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.38.203.210:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN10635773
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.38.203.210:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN10635772
 vmess://eyJhZGQiOiI4NS4yMzkuMTUxLjg4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjZiMjYxNzM5LTUyY2YtNGYzYS05ZmNmLTU3ZGZlNTc3MzFmMyIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiODg4MCIsInBzIjoiQXV0b0FpVlBOMTA2MzQ3MDciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 ss://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.2:443?encryption=none&security=tls&sni=What.The.Fxxk.cloudns.org&fp=chrome&type=ws&host=What.The.Fxxk.cloudns.org&path=%2Fsnippets%2Fip%3Dtw.tp81.netlib.re%3A81%3Fed%3D2560#AutoAiVPN10632404
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.2:443?encryption=none&security=tls&sni=What.The.Fxxk.cloudns.org&fp=chrome&type=ws&host=What.The.Fxxk.cloudns.org&path=%2Fsnippets%2Fip%3Dtw.tp81.netlib.re%3A81%3Fed%3D2560#AutoAiVPN10632403
