@@ -1,3 +1,8 @@
+trojan://telegram-id-privatevpns@15.236.249.216:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN10573325
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.180.248.132:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN10573245
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.180.248.132:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN10573244
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.249.216:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN10573243
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.249.216:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN10573242
 ss://6b3a7034-39ec-f057-377d-cf6af57b4db4@hetzde.ip-venzo.com:8443?security=reality&encryption=none&pbk=6LUMDITbjKYBHhewwbgRNmwCSfgrR3b9-_9H6QqnX2o&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=e8117eaf4ed8e382#AutoAiVPN10571620
 vless://6b3a7034-39ec-f057-377d-cf6af57b4db4@hetzde.ip-venzo.com:8443?security=reality&encryption=none&pbk=6LUMDITbjKYBHhewwbgRNmwCSfgrR3b9-_9H6QqnX2o&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=e8117eaf4ed8e382#AutoAiVPN10571619
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMSmV6UjF0VlRMaEFCeGdRZmhaSlVP@217.60.38.83:63342#AutoAiVPN10569941
