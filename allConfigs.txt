@@ -1,3 +1,7 @@
+trojan://telegram-id-directvpn@3.64.110.236:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN10614175
+trojan://telegram-id-privatevpns@3.64.110.236:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN10614168
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.64.110.236:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN10614090
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.64.110.236:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN10614089
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.149:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#AutoAiVPN10611901
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.149:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#AutoAiVPN10611900
 ss://38f33344-091a-4a85-a692-b40da817c689@nl1vip.vnet215.xyz:20047?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#AutoAiVPN10611345
