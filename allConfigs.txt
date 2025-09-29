@@ -1,3 +1,8 @@
+trojan://telegram-id-privatevpns@52.47.180.25:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN10627806
+ss://b65f4df7-f6af-42b2-877a-cef33f21675e@72.167.230.32:2096?path=%2Fsnippets&security=tls&encryption=none&host=kejiland.freewarp.eu.org&type=ws&sni=kejiland.freewarp.eu.org#AutoAiVPN10627795
+vless://b65f4df7-f6af-42b2-877a-cef33f21675e@72.167.230.32:2096?path=%2Fsnippets&security=tls&encryption=none&host=kejiland.freewarp.eu.org&type=ws&sni=kejiland.freewarp.eu.org#AutoAiVPN10627794
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.47.180.25:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN10627724
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.47.180.25:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN10627723
 ss://d342d11e-d424-4583-b36e-524ab1f0afa4@wetest.xn--vip-ob6fs36j.cloudflare.182682.xyz:443?path=%2Fsnippets%2Fip%3Dtw.tp81.netlib.re%3A81%3Fed%3D2560&security=tls&encryption=none&host=xn--kwr11l51ffzytxy.CMLiussss.dedyn.io&type=ws&sni=xn--kwr11l51ffzytxy.CMLiussss.dedyn.io#AutoAiVPN10624379
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@wetest.xn--vip-ob6fs36j.cloudflare.182682.xyz:443?path=%2Fsnippets%2Fip%3Dtw.tp81.netlib.re%3A81%3Fed%3D2560&security=tls&encryption=none&host=xn--kwr11l51ffzytxy.CMLiussss.dedyn.io&type=ws&sni=xn--kwr11l51ffzytxy.CMLiussss.dedyn.io#AutoAiVPN10624378
 ss://494613dc-2999-4893-a09b-406e088e458d@103.21.244.85:443?encryption=none&security=tls&sni=horren.ketab.workers.dev&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&allowInsecure=1&type=ws&host=horren.ketab.workers.dev&path=%2F%40AzarAndoozVPNbot#AutoAiVPN10624374
