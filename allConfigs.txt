@@ -1,3 +1,7 @@
+trojan://telegram-id-privatevpns@63.177.14.170:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN10710464
+trojan://telegram-id-directvpn@63.177.14.170:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN10710451
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.177.14.170:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN10710375
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.177.14.170:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN10710374
 vmess://eyJhZGQiOiI4LjIxNy4yNDYuMTUwIiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiJjODQwMTRmMS05ZGUwLTQ5ZjQtYjc1MS1hYjhkNzkyOGJmOWEiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLyIsInBvcnQiOjU0Mjg4LCJwcyI6IkF1dG9BaVZQTjEwNzA5MjkyIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
 ss://6b3a7034-39ec-f057-377d-cf6af57b4db4@githubnl.ip-venzo.com:8443?security=reality&encryption=none&pbk=WX0HU-Jo9hSj-4guNJ89TyiltK7zHJCKJQBlpsmKYWQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=4b543e6a5373b815#AutoAiVPN10708720
 vless://6b3a7034-39ec-f057-377d-cf6af57b4db4@githubnl.ip-venzo.com:8443?security=reality&encryption=none&pbk=WX0HU-Jo9hSj-4guNJ89TyiltK7zHJCKJQBlpsmKYWQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=4b543e6a5373b815#AutoAiVPN10708719
