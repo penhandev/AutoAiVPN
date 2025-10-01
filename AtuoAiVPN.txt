@@ -9,7 +9,7 @@ vless://2928d83a-ca75-4d52-b437-fa78c7601378@104.20.22.0:443?security=tls&sni=fr
 ss://d3a12e79-ef42-4268-b367-42eeb3494e60@172.67.73.163:2083?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&encryption=none&host=hagh.pages.dev&fp=random&type=ws&sni=hagh.pages.dev#AutoAiVPN10094857
 vless://d3a12e79-ef42-4268-b367-42eeb3494e60@172.67.73.163:2083?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&encryption=none&host=hagh.pages.dev&fp=random&type=ws&sni=hagh.pages.dev#AutoAiVPN10094853
 vless://f64bdc57-0f54-4705-bf75-cfd646d98c06@wangcai248.cloudflare.182682.xyz:8880?encryption=none&security=none&type=ws&host=snippets.jhb.edu.kg&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560#AutoAiVPN10743546
-ss://6334a88c-853d-497c-a5b6-78900ad99ba3@gee.r1cx.ir:2086?encryption=none&security=none&type=httpupgrade&path=%2F#AutoAiVPN10743545
-ss://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.2:443?encryption=none&security=tls&sni=What.The.Fxxk.cloudns.org&fp=chrome&type=ws&host=What.The.Fxxk.cloudns.org&path=%2Fsnippets%2Fip%3Dtw.tp81.netlib.re%3A81%3Fed%3D2560#AutoAiVPN10632404
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.246.85.62:8880?mode=gun&security=none&encryption=none&type=grpc#AutoAiVPN10296042
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@47.245.105.0:587?security=tls&sni=vless.ifx.us.kg&type=ws&host=vless.ifx.us.kg&path=%2F%3Fed%3D2560fp%3Dchrome#AutoAiVPN10299034
+trojan://telegram-id-privatevpns@15.237.11.174:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN10917212
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.57.120:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN10917133
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.57.120:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN10917132
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.237.11.174:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN10917131
