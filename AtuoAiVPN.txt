@@ -8,7 +8,7 @@ ss://33800b9d-be13-4156-82c2-b985a8bad6dd@hetz-vl1.danims.sbs:8081?security=none
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@142.202.48.43:5003#AutoAiVPN11095615
 ss://d3a12e79-ef42-4268-b367-42eeb3494e60@172.67.73.163:2083?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&encryption=none&host=hagh.pages.dev&fp=random&type=ws&sni=hagh.pages.dev#AutoAiVPN10094857
 vless://d3a12e79-ef42-4268-b367-42eeb3494e60@172.67.73.163:2083?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&encryption=none&host=hagh.pages.dev&fp=random&type=ws&sni=hagh.pages.dev#AutoAiVPN10094853
-ss://33800b9d-be13-4156-82c2-b985a8bad6dd@hetz-vl2.danims.sbs:8081?security=none&encryption=none&headerType=none&type=tcp#AutoAiVPN11103076
+vless://12345678-1234-1234-1234-123456789123@46.254.93.54:2096/?type=ws&encryption=none&flow=&host=sni.aizrf.com&path=%2Fsnippets&security=tls&sni=sni.aizrf.com#AutoAiVPN11140493
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@142.202.48.43:5003#AutoAiVPN11095615
 trojan://NISHIKUITAN222@172.66.150.227:443?allowInsecure=1&ws=1&wspath=%2F#AutoAiVPN11095612
 trojan://NISHIKUITAN222@104.25.245.193:443?#AutoAiVPN10919030
