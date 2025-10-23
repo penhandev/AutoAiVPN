@@ -3,7 +3,7 @@ trojan://tg-dns68@162.159.152.149:443?security=tls&type=ws&sni=vip.putata.eu.org
 vless://19b7d4d8-de95-41cf-b270-a310cc21f151@a-lf-0.okamii.ir:2095?security=none&type=tcp&headerType=none&path=&host=#AutoAiVPN12398915
 ss://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.82:443?security=tls&sni=la.kpcloud.eu.org&type=ws&host=la.kpcloud.eu.org&path=%2Fproxyip%3Dproxyip.us.fxxk.dedyn.io#AutoAiVPN12394723
 ss://7fc5337c-2639-42d3-b6ad-ff44277098d8@104.16.246.132:8443?path=%2Fsocks%3A%2F%2Ftest%3Atest%40162.55.92.106%3A1080&security=tls&encryption=none&host=anime.11160321.xyz&fp=chrome&type=ws&sni=anime.11160321.xyz#AutoAiVPN12399617
-ss://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.82:443?security=tls&sni=la.kpcloud.eu.org&type=ws&host=la.kpcloud.eu.org&path=%2Fproxyip%3Dproxyip.us.fxxk.dedyn.io#AutoAiVPN12394723
+trojan://ZHEKwAC5B4Hwwohd4PhhFw@46.62.214.228:443?mode=gun&security=tls&type=grpc&serviceName=trojan&sni=cyrus.v2bazzar.ir#AutoAiVPN12399359
 trojan://ZHEKwAC5B4Hwwohd4PhhFw@46.62.214.228:443?mode=gun&security=tls&type=grpc&serviceName=trojan&sni=cyrus.v2bazzar.ir#AutoAiVPN12399359
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.72:8880?mode=gun&security=none&encryption=none&type=grpc#AutoAiVPN12399012
 trojan://e1191c4d-5a2c-406e-977f-63cb7e0aba2c@104.21.33.216:443?path=%2FFree-VPN-CF-Geo-Project%2FDE3&security=tls&host=joss.krikkrik.xyz&fp=randomized&type=ws&sni=joss.krikkrik.xyz#AutoAiVPN12399235
