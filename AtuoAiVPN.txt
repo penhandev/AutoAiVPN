@@ -3,7 +3,7 @@ trojan://e4e262d453466988575c397a30562337@58.152.53.42:443?security=tls&headerTy
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.80:8880?mode=gun&security=none&encryption=none&type=grpc#AutoAiVPN12400037
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638974021050130973.kish-blkaft-aaba.info:8880?mode=gun&security=none&encryption=none&type=grpc#AutoAiVPN12399974
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638970192452860730.helsinki-blkaft-aaax.info:8880?mode=gun&security=none&encryption=none&type=grpc#AutoAiVPN12399965
-vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.205:80?mode=gun&security=none&encryption=none&type=grpc#AutoAiVPN12399964
+trojan://e4e262d453466988575c397a30562337@58.152.53.42:443?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#AutoAiVPN12400322
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.232.247.208:8880?mode=gun&security=none&encryption=none&type=grpc#AutoAiVPN12400035
 vless://7556317c-dff6-46e8-ad29-b408f2a6456e@104.129.164.253:2096?security=tls&encryption=none&type=ws&sni=vless.muzheng.top#AutoAiVPN12400060
 ss://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.12.30.88:2053?path=%2F&security=tls&encryption=none&host=AeEye-52235.zephorium.uk&fp=chrome&type=ws&sni=AeEye-52235.zephorium.uk#AutoAiVPN12399273
