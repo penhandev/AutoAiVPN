@@ -9,7 +9,7 @@ ss://c2c8a201-09b9-47a7-b336-fcf1657f54a8@31.43.179.175:443?security=tls&sni=paG
 trojan://da86c6b5-a130-4bb8-a6ef-00b77b85b9e7@94.131.122.157:8443?mode=gun&security=tls&type=grpc&serviceName=%F0%9F%8D%ABTelegram%3Av2ray_configs_v2c%F0%9F%8D%AB&sni=uk2.safecdn.site#AutoAiVPN12925810
 trojan://mXP68BRNvU@66.59.208.7:17136?security=none&type=tcp#AutoAiVPN12925808
 trojan://e0a8e825-f800-4ec5-a2f3-ca8264911cf8@82.97.254.184:2053?path=%2FFree-VPN-CF-Geo-Project%2F82.97.254.184%3D2053&security=tls&host=joss.gpj4.web.id&fp=randomized&type=ws&sni=joss.gpj4.web.id#AutoAiVPN13336004
-ss://2375d7bb-64ff-4168-aaf2-851a3223fad1@104.18.32.47:2083?security=tls&sni=cdn.gzwuyxq.WoRkerS.DEv&type=ws&host=cdn.gzwuyxq.WoRkerS.DEv&path=%2Fvless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h2%2Chttp%2F1.1#AutoAiVPN13018125
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.162.200.213:2375#AutoAiVPN12925801
-ss://4a087a20-ae23-4ece-b408-348556f0e34d@49.13.88.47:443?security=reality&flow=xtls-rprx-vision&sni=mdundo.com&type=tcp&fp=chrome&pbk=fNNO0bcD4C5iRWViADA-X14dUEHOv9yxgof0V07vlzo&sid=70f11823290b68ff#AutoAiVPN12925461
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLbkZKSlNXM0pCM0J3MlozbTFlczE1@212.18.104.228:56636?note=--Telegram--@V2ray_official--#AutoAiVPN13338777
+ss://dec7e0ba-4c9b-4a54-90b5-f27726977f7e@n2vpn-free.projectis.ir:2053?path=%2F%40n2vpn&security=tls&encryption=none&alpn=http/1.1,h2&host=tgju.org.ir&fp=chrome&type=ws&sni=tgju.org#AutoAiVPN13338682
+vless://dec7e0ba-4c9b-4a54-90b5-f27726977f7e@n2vpn-free.projectis.ir:2053?path=%2F%40n2vpn&security=tls&encryption=none&alpn=http/1.1,h2&host=tgju.org.ir&fp=chrome&type=ws&sni=tgju.org#AutoAiVPN13338678
 vless://4a087a20-ae23-4ece-b408-348556f0e34d@49.13.88.47:443?security=reality&flow=xtls-rprx-vision&sni=mdundo.com&type=tcp&fp=chrome&pbk=fNNO0bcD4C5iRWViADA-X14dUEHOv9yxgof0V07vlzo&sid=70f11823290b68ff#AutoAiVPN12925458
