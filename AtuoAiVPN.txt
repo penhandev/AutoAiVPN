@@ -6,7 +6,7 @@ vless://bcfc462f-b253-4251-bda6-2efd5b37e04c@108.162.192.145:8080?path=%2F%3Fed%
 trojan://telegram-id-directvpn@3.77.189.88:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN13354513
 trojan://telegram-id-privatevpns@3.77.189.88:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN13354507
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.77.189.88:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN13354389
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.77.189.88:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN13354388
+ss://788eff20-6e26-4569-850b-af662610d9c4@65.109.186.184:53429?security=reality&encryption=none&pbk=hEU7C96M54hRMdrrOsZ7Jx0Wd52hP_dVxUNVwOLsgCI&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=google.com&sid=cc#AutoAiVPN13363968
 vless://bcfc462f-b253-4251-bda6-2efd5b37e04c@108.162.192.145:8080?path=%2F%3Fed%3D2048%2F%3F--KANAL--MTMVPN--MTMVPN--MTMVPN--MTMVPN--MTMVPN--MTMVPN--MTMVPN--MTMVPN--MTMVPN--MTMVPN--MTMVPN--MTMVPN--MTMVPN&security=none&encryption=none&host=xn--despeedtest.net.dbsll.ir&type=ws#AutoAiVPN13358381
 ss://b499cff1-7acd-4d7b-b362-2851d35b45c5@free.serverfy.ir:2033?mode=gun&security=reality&encryption=none&pbk=ySfo1l62lDvsf-qkWdCwDnD3Es4ZrpyeNEFQjvnAKEU&fp=firefox&spx=%2F&type=grpc&sni=refersion.com&sid=b8#AutoAiVPN13361822
 vless://b499cff1-7acd-4d7b-b362-2851d35b45c5@free.serverfy.ir:2033?mode=gun&security=reality&encryption=none&pbk=ySfo1l62lDvsf-qkWdCwDnD3Es4ZrpyeNEFQjvnAKEU&fp=firefox&spx=%2F&type=grpc&sni=refersion.com&sid=b8#AutoAiVPN13361821
