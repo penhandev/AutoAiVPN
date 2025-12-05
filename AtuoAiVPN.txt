@@ -8,8 +8,8 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.44.112:22224?type=ws&security
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.214.21:8880?security=none&type=grpc#AutoAiVPN13759891
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.214.21:8880?security=none&type=grpc#AutoAiVPN13759890
 ss://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@198.62.62.144:443?path=%2F%3Fed&security=tls&encryption=none&type=ws&sni=vf.ylkszy.eu.org#AutoAiVPN13758745
-trojan://telegram-id-directvpn@15.188.133.222:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN13769205
-trojan://telegram-id-privatevpns@15.188.133.222:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN13769199
-ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.133.222:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN13769082
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.133.222:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN13769081
+ss://e258977b-e413-4718-a3af-02d75492c349@104.18.39.30:2087?encryption=none&security=tls&sni=www.x-aniu-j-p.netlib.re&insecure=0&allowInsecure=0&type=ws&host=www.x-aniu-j-p.netlib.re&path=%2F%3Fed%3D2560#AutoAiVPN13772736
+vless://e258977b-e413-4718-a3af-02d75492c349@104.18.39.30:2087?encryption=none&security=tls&sni=www.x-aniu-j-p.netlib.re&insecure=0&allowInsecure=0&type=ws&host=www.x-aniu-j-p.netlib.re&path=%2F%3Fed%3D2560#AutoAiVPN13772735
+ss://e258977b-e413-4718-a3af-02d75492c349@162.159.46.158:2087?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=www.x-aniu-j-p.netlib.re&type=ws&sni=www.x-aniu-j-p.netlib.re#AutoAiVPN13772393
+vless://e258977b-e413-4718-a3af-02d75492c349@162.159.46.158:2087?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=www.x-aniu-j-p.netlib.re&type=ws&sni=www.x-aniu-j-p.netlib.re#AutoAiVPN13772392
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSWVpYaXM1MWc3Y3RGUGRrWDZ6QTg4@142.111.146.222:8443#AutoAiVPN13767058
