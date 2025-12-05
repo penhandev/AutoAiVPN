@@ -8,8 +8,8 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.44.112:22224?type=ws&security
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.214.21:8880?security=none&type=grpc#AutoAiVPN13759891
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.214.21:8880?security=none&type=grpc#AutoAiVPN13759890
 ss://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@198.62.62.144:443?path=%2F%3Fed&security=tls&encryption=none&type=ws&sni=vf.ylkszy.eu.org#AutoAiVPN13758745
-vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@198.62.62.144:443?path=%2F%3Fed&security=tls&encryption=none&type=ws&sni=vf.ylkszy.eu.org#AutoAiVPN13758741
-vmess://eyJ2IjoiMiIsInBzIjoiQXV0b0FpVlBOMTM3NTg3MzYiLCJhZGQiOiIxMDQuMTYuNjcuMzgiLCJwb3J0IjoiMjA4NiIsInR5cGUiOiJub25lIiwiaWQiOiI5NTBkYjZhYS00OTI2LTQ2MTYtODE2ZS1lYzAzMTJkY2I4N2IiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9qYWhma2poYS5jZmRcL2xpbmt3cyIsImhvc3QiOiJoeWZoaGcuamFkb3ZhaDk3Ny53b3JrZXJzLmRldiIsInRscyI6IiJ9
-vmess://eyJhZGQiOiIzZDI4YW4ua2Vlb29tYm9vbS5kZSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiM2QyOGFuLmtlZW9vbWJvb20uZGUiLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6IlwvdmlkZW9cL2NjaWJudWwubTN1OCIsInBvcnQiOiI0NDMiLCJwcyI6IkF1dG9BaVZQTjEzNzU4NDczIiwic2N5IjoiYXV0byIsInNuaSI6IjNkMjhhbi5rZWVvb21ib29tLmRlIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
-ss://d0230a98-018e-47d9-b1f9-6a5a6621dcb7@nl.modem77.ir:2702/?encryption=none&flow=&host=testspeed-foreign.tci.ir&type=tcp&headerType=http#AutoAiVPN13757400
-vless://d0230a98-018e-47d9-b1f9-6a5a6621dcb7@nl.modem77.ir:2702/?encryption=none&flow=&host=testspeed-foreign.tci.ir&type=tcp&headerType=http#AutoAiVPN13757399
+trojan://telegram-id-directvpn@15.188.133.222:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN13769205
+trojan://telegram-id-privatevpns@15.188.133.222:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN13769199
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.133.222:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN13769082
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.133.222:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN13769081
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSWVpYaXM1MWc3Y3RGUGRrWDZ6QTg4@142.111.146.222:8443#AutoAiVPN13767058
