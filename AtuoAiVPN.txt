@@ -4,12 +4,12 @@ ss://1158a385-bc23-432c-9117-b380030ebc0f@91.107.155.145:8886?security=none&encr
 vless://1158a385-bc23-432c-9117-b380030ebc0f@91.107.155.145:8886?security=none&encryption=none&headerType=none&type=tcp#AutoAiVPN13920984
 ss://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.5:2083?path=%2F&security=tls&encryption=none&type=ws&sni=a.ssll.gay#AutoAiVPN13919454
 ss://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.23:443?path=%2Fblue&security=tls&encryption=none&type=ws&sni=he.kpcloud.eu.org#AutoAiVPN13919453
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.5:2083?path=%2F&security=tls&encryption=none&type=ws&sni=a.ssll.gay#AutoAiVPN13919451
 ss://48198295-b7ba-4b5c-8d85-085d55a6c869@185.176.24.64:443?path=%2Fblue&security=tls&encryption=none&type=ws&sni=xe.ylks.xyz#AutoAiVPN13922683
-ss://cef8f9ac-aa83-4641-9006-a4735b5d23a9@104.21.26.222:443?security=tls&sni=47441234942388412428717014952546.chrsjfklsdjfkljoierfdjklfjlkefeojsdlkfjeoifjsdlkfjweoifjlsdchrs.cyou&type=ws&host=47441234942388412428717014952546.chrsjfklsdjfkljoierfdjklfjlkefeojsdlkfjeoifjsdlkfjweoifjlsdchrs.cyou&path=%2FV2LINE-TELEGRAM-CHANNEL-VLESS-WS-TLS&fp=randomized&alpn=h3%2Ch2%2Chttp%2F1.1#AutoAiVPN13919449
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@185.176.24.64:443?path=%2Fblue&security=tls&encryption=none&type=ws&sni=xe.ylks.xyz#AutoAiVPN13922680
 ss://d342d11e-d424-4583-b36e-524ab1f0afa4@188.42.89.182:443?path=%2F%3Fed&security=tls&encryption=none&type=ws&sni=a.ssll.gay#AutoAiVPN13922678
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@188.42.89.182:443?path=%2F%3Fed&security=tls&encryption=none&type=ws&sni=a.ssll.gay#AutoAiVPN13922674
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.181.59.61:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN13921769
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.181.59.61:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN13921768
 ss://48198295-b7ba-4b5c-8d85-085d55a6c869@185.176.24.64:443?path=%2Fblue&security=tls&encryption=none&type=ws&sni=xe.ylks.xyz#AutoAiVPN13922683
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@185.176.24.64:443?path=%2Fblue&security=tls&encryption=none&type=ws&sni=xe.ylks.xyz#AutoAiVPN13922680
 ss://1158a385-bc23-432c-9117-b380030ebc0f@91.107.155.145:8886?security=none&encryption=none&headerType=none&type=tcp#AutoAiVPN13920985
