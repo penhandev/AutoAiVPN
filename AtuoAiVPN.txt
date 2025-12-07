@@ -9,7 +9,7 @@ ss://26d7f2c4-ba48-11f0-b7eb-23203725ad6a@82.118.18.101:10004?path=%2Fvpnjantit&
 vless://26d7f2c4-ba48-11f0-b7eb-23203725ad6a@82.118.18.101:10004?path=%2Fvpnjantit&security=none&encryption=none&type=ws#AutoAiVPN13936932
 ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.127:8880/?type=ws&encryption=none&flow=&host=sk.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40MxlShare%20%40WangCai2#AutoAiVPN13936931
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.127:8880/?type=ws&encryption=none&flow=&host=sk.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40MxlShare%20%40WangCai2#AutoAiVPN13936930
-ss://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@31.43.179.22:443?path=tg%40zdyz2&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#AutoAiVPN13936855
+trojan://telegram-id-directvpn@52.58.103.24:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN13955785
 vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@198.62.62.137:443?path=%2F%3Fproxyip&security=tls&encryption=none&type=ws&sni=pages.teasalo.cloudns.org#AutoAiVPN13936853
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@31.43.179.22:443?path=tg%40zdyz2&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#AutoAiVPN13936851
 ss://d342d11e-d424-4583-b36e-524ab1f0afa4@192.200.160.6:443?path=%2F&security=tls&encryption=none&type=ws&sni=a.ssll.gay#AutoAiVPN13936849
