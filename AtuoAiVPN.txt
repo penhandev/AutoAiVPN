@@ -8,7 +8,7 @@ ss://48198295-b7ba-4b5c-8d85-085d55a6c869@185.176.24.64:443?path=%2Fblue&securit
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@185.176.24.64:443?path=%2Fblue&security=tls&encryption=none&type=ws&sni=xe.ylks.xyz#AutoAiVPN13922680
 ss://d342d11e-d424-4583-b36e-524ab1f0afa4@188.42.89.182:443?path=%2F%3Fed&security=tls&encryption=none&type=ws&sni=a.ssll.gay#AutoAiVPN13922678
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@188.42.89.182:443?path=%2F%3Fed&security=tls&encryption=none&type=ws&sni=a.ssll.gay#AutoAiVPN13922674
-ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.181.59.61:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN13921769
+trojan://telegram-id-directvpn@3.121.158.132:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN13926862
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.181.59.61:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN13921768
 ss://48198295-b7ba-4b5c-8d85-085d55a6c869@185.176.24.64:443?path=%2Fblue&security=tls&encryption=none&type=ws&sni=xe.ylks.xyz#AutoAiVPN13922683
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@185.176.24.64:443?path=%2Fblue&security=tls&encryption=none&type=ws&sni=xe.ylks.xyz#AutoAiVPN13922680
