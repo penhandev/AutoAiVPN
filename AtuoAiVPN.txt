@@ -1,6 +1,9 @@
-vless://3ac862a5-173b-456f-9d36-914ee34378d4@broodmother.fonixapp.org:443?security=reality&encryption=none&pbk=O6czneYFqCn5RC0BgeJoTSbj7k4daIlSMsHTABIRQ2g&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=api.snapkit.com&sid=3c91#AutoAiVPN13932136
+vmess://eyJhZGQiOiJwd3F1dGJsZDFiOWMucmVhbGRvcC5jb20iLCJhaWQiOiIwIiwiYWxwbiI6Imh0dHBcLzEuMSIsImZwIjoiY2hyb21lIiwiaG9zdCI6InB3cXV0YmxkMWI5Yy5yZWFsZG9wLmNvbSIsImlkIjoiZTkyMGFhM2ItNDA2Mi00YWI1LWEwNDUtMzQwMjkxODU5YWNiIiwibmV0IjoieGh0dHAiLCJwYXRoIjoiXC92Wnc4Z0hZMzdDdTlJVGRBTldUbXNudXFSQTQiLCJwb3J0IjoiNDQzIiwicHMiOiJBdXRvQWlWUE4xMzkzMzk0MSIsInNjeSI6ImF1dG8iLCJzbmkiOiJwd3F1dGJsZDFiOWMucmVhbGRvcC5jb20iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInYiOiIyIn0=
 ss://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.151:443?path=%2Fblue&security=tls&encryption=none&type=ws&sni=he.ylks.xyz#AutoAiVPN13933256
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.151:443?path=%2Fblue&security=tls&encryption=none&type=ws&sni=he.ylks.xyz#AutoAiVPN13933252
+vless://3ac862a5-173b-456f-9d36-914ee34378d4@broodmother.fonixapp.org:443?security=reality&encryption=none&pbk=O6czneYFqCn5RC0BgeJoTSbj7k4daIlSMsHTABIRQ2g&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=api.snapkit.com&sid=3c91#AutoAiVPN13932136
+ss://ef4d7a6a-a7f0-48e1-8c77-cd305fdca732@38.134.189.186:443?flow=&type=grpc&mode=gun&serviceName=8959780c31813fd40c6beecf&security=reality&fp=safari&sni=www.microsoft.com&pbk=F4KWtAmQsQrJ0AyVED81hZQq5GQL64pXHG2SWBEpfFg&sid=b2580c3d0fae6019#AutoAiVPN13931259
+vless://ef4d7a6a-a7f0-48e1-8c77-cd305fdca732@38.134.189.186:443?flow=&type=grpc&mode=gun&serviceName=8959780c31813fd40c6beecf&security=reality&fp=safari&sni=www.microsoft.com&pbk=F4KWtAmQsQrJ0AyVED81hZQq5GQL64pXHG2SWBEpfFg&sid=b2580c3d0fae6019#AutoAiVPN13931258
 ss://6a753f74-b279-44d7-a442-b5cbc425569f@de.griffon-guard.com:8443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=apple.com&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg#AutoAiVPN13931251
 vless://6a753f74-b279-44d7-a442-b5cbc425569f@de.griffon-guard.com:8443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=apple.com&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg#AutoAiVPN13931250
 ss://e258977b-e413-4718-a3af-02d75492c349@hj.xmm1993.top:2087?flow=&type=ws&host=www.x-aniu---sg.netlib.re&path=/?ed%3D2560&security=tls&sni=www.x-aniu---sg.netlib.re&fp=chrome&allowInsecure=0#AutoAiVPN13931249
@@ -10,6 +13,3 @@ vless://54ec5852-2e1b-4e40-b009-a3f9bed89118@104.16.232.2:8080?security=none&typ
 trojan://telegram-id-directvpn@3.121.158.132:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN13926862
 trojan://telegram-id-privatevpns@3.121.158.132:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN13926856
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.121.158.132:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN13926751
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.121.158.132:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN13926750
-ss://48198295-b7ba-4b5c-8d85-085d55a6c869@185.176.24.64:443?path=%2Fblue&security=tls&encryption=none&type=ws&sni=xe.ylks.xyz#AutoAiVPN13922683
-ss://48198295-b7ba-4b5c-8d85-085d55a6c869@185.176.24.64:443?path=%2Fblue&security=tls&encryption=none&type=ws&sni=xe.ylks.xyz#AutoAiVPN13922683
