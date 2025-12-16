@@ -3,10 +3,10 @@ trojan://auto@162.159.153.102:443?security=tls&type=ws&sni=fe9b5676-a2aa-4b6a-82
 ss://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.235.241.150:443?path=%2Fhormoz&security=tls&encryption=none&type=ws&sni=github.com#AutoAiVPN14629916
 vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.235.241.150:443?path=%2Fhormoz&security=tls&encryption=none&type=ws&sni=github.com#AutoAiVPN14629915
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.154.136.132:5003#AutoAiVPN14642636
-trojan://telegram-id-privatevpns@63.176.39.44:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN14642371
-trojan://telegram-id-directvpn@63.176.39.44:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN14642370
-ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.176.39.44:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN14642273
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.176.39.44:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN14642272
+ss://SERVERNETT-SERVERNETT1@pol111.sernett.ir:80?mode=auto&path=%2F&security=&encryption=none&type=xhttp#AutoAiVPN14647397
+vless://SERVERNETT-SERVERNETT1@pol111.sernett.ir:80?mode=auto&path=%2F&security=&encryption=none&type=xhttp#AutoAiVPN14647396
+ss://cd94bc5e-3a8b-4b12-9651-8b7ef803c52c@134.209.25.162:443/?type=ws&encryption=none&flow=&path=%2Faxtdgmws&security=tls&sni=io.ozone.ru&allowInsecure=1#AutoAiVPN14646221
+vless://cd94bc5e-3a8b-4b12-9651-8b7ef803c52c@134.209.25.162:443/?type=ws&encryption=none&flow=&path=%2Faxtdgmws&security=tls&sni=io.ozone.ru&allowInsecure=1#AutoAiVPN14646220
 ss://a0dee25f-56f6-4709-972c-8cfdf938c66d@68.183.47.127:443/?type=ws&encryption=none&flow=&path=%2Fmucowsws&security=tls&sni=ozon.ru&allowInsecure=1#AutoAiVPN14637131
 ss://5a78725f-39f1-4afc-a7c1-826a6677c1d1@real4.amirsala2.ir:443?security=reality&encryption=none&pbk=_ETTlR1wp_GEhrcuaz4aXRSz6mq6pNXzcmN5f76bqG4&host=sanjesh.org&headerType=none&fp=chrome&spx=%2Fexample&type=tcp&sni=sanjesh.org&sid=be94a5cabdd96058#AutoAiVPN14641685
 ss://8ec48ed8-cc7c-4cc6-a69a-c95adfe4c371@188.166.150.79:443/?type=ws&encryption=none&flow=&path=%2Famuggqws&security=tls&sni=ozon.ru&allowInsecure=1#AutoAiVPN14637129
