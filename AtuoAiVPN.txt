@@ -9,7 +9,7 @@ vless://96605f21-f706-45ae-8eeb-ec71efbca6a2@s9.vless-balancer.ru:4443?security=
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@185.123.101.64:2376#AutoAiVPN15091284
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1TEQ4NzRvUzM5alEyNmNUOTdOYUFv@178.173.250.47:56033#AutoAiVPN15090642
 vmess://eyJhZGQiOiI1Ny4xMjkuMjguNjciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InlpY2h1ZW5nLm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwiaW5zZWN1cmUiOiIxIiwibmV0Ijoid3MiLCJwYXRoIjoibGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IkF1dG9BaVZQTjE1MDkwNDI0Iiwic2N5IjoiYXV0byIsInNuaSI6InlpY2h1ZW5nLm9yZyIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiI5MS4xMDcuMjQzLjE3MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJjODczYzAxNS03NTUzLTQwZjMtYWU0Yi02Mzc4M2RhOTVmZmMiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjI3NTg3IiwicHMiOiJBdXRvQWlWUE4xNTA5MDAwMyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+vless://66682125-9866-4554-8ef0-cbaf0e7edb9c@176.108.242.117:10167/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=eh.vk.com&fp=qq&security=reality&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#AutoAiVPN15094692
 ss://986b6f0f-4809-43d5-87cc-c5e1971dc744@91.107.243.172:39140?security=none&encryption=none&headerType=none&type=tcp#AutoAiVPN15090002
 vless://986b6f0f-4809-43d5-87cc-c5e1971dc744@91.107.243.172:39140?security=none&encryption=none&headerType=none&type=tcp#AutoAiVPN15090001
 trojan://telegram-id-directvpn@3.72.188.172:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN15089810
