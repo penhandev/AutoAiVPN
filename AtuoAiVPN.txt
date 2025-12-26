@@ -1,6 +1,6 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5T1BJV2IwWmk0Y3pwNVFOczA4WE1Y@62.60.148.151:57355/?outline=1#AutoAiVPN15093804
 ss://96b0ecca-35c8-44a9-b9d4-e2a285a51320@156.253.5.132:50229?security=&encryption=none&headerType=none&type=tcp#AutoAiVPN15106092
-ss://15a5da3c-fa4b-48d2-92ea-57fdf410aca3@88.209.249.226:35201?security=&encryption=none&headerType=none&type=tcp#AutoAiVPN15103868
+vless://5a2c16f9-e365-4080-8d38-6924c3835586@nrtcfdns.zone.id:443/?type=ws&encryption=none&flow=&host=snippets.kkii.eu.org&path=%2F&security=tls&sni=snippets.kkii.eu.org&allowInsecure=1#AutoAiVPN15130908
 ss://e681c501-18d6-4a14-963e-a88234c68a94@go1.nnvpn.io:443?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&authority=go1.nnvpn.io&fp=chrome&type=grpc&serviceName=%2Fxhttppath%2F&sni=go1.nnvpn.io#AutoAiVPN15091696
 vless://e681c501-18d6-4a14-963e-a88234c68a94@go1.nnvpn.io:443?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&authority=go1.nnvpn.io&fp=chrome&type=grpc&serviceName=%2Fxhttppath%2F&sni=go1.nnvpn.io#AutoAiVPN15091695
 trojan://tg-dns68@162.159.153.75:443?security=tls&type=ws&sni=vip.putata.eu.org&host=vip.putata.eu.org#AutoAiVPN15091640
