@@ -4,8 +4,8 @@ ss://52d910a0-e17a-43d1-976c-d3775cf1e339@194.87.219.24:21755?security=reality&e
 vless://52d910a0-e17a-43d1-976c-d3775cf1e339@194.87.219.24:21755?security=reality&encryption=none&pbk=HkLK62c3szw51gYtORRnPlO0v6kxOSd_aCd0J4rTKzo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandexcloud.net&sid=a79ee9d365da7d81#AutoAiVPN15502812
 ss://fbcc8fc6-553c-497c-ba3b-855bcf6cf96c@74.112.100.14:57864?mode=gun&security=reality&encryption=none&pbk=y7NiWf-LRzjnmW5FJwswZO7T-Uz7WFIvbOkn0Pph6gU&fp=chrome&type=grpc&sni=google.com&sid=ad#AutoAiVPN15502805
 trojan://f36f4495b4b26cc2fe346cfa23e05b1b@160.16.150.76:1281?security=tls&headerType=&type=tcp&sni=www.nintendogames.net#AutoAiVPN15513497
-trojan://f36f4495b4b26cc2fe346cfa23e05b1b@160.16.153.13:3901?security=tls&headerType=&type=tcp&sni=www.nintendogames.net#AutoAiVPN15513493
-vmess://eyJhZGQiOiIxNDkuMzAuMjMyLjEwMyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI1MzgxNDQ1ZC02YWU0LTQ5NDgtYjYxYS1hMTZkOTQ5OGQyMWIiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL2Fya2k/ZWQ9MjA0OCIsInBvcnQiOiIzMTQ2OSIsInBzIjoiQXV0b0FpVlBOMTU1MTM0OTEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.42:38388#AutoAiVPN15515122
+trojan://f36f4495b4b26cc2fe346cfa23e05b1b@160.16.150.76:1281?security=tls&headerType=&type=tcp&sni=www.nintendogames.net#AutoAiVPN15513497
 trojan://telegram-id-directvpn@15.236.181.101:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN15513101
 vless://cc771b27-27ad-4bf3-bc42-f42cd673edbe@172.66.47.54:443?security=tls&sni=ircp-617.pages.dev.&type=ws&host=ircp-617.pages.dev.&path=%2Ftelegram-proxy_mtm%2F%3Fed%3D2048&fp=chrome&alpn=http/1.1#AutoAiVPN15501502
 trojan://telegram-id-privatevpns@15.236.181.101:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN15513094
