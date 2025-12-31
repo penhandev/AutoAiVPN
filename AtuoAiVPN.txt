@@ -1,4 +1,11 @@
 trojan://telegram-id-directvpn@3.67.115.253:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN15691205
+trojan://telegram-id-privatevpns@3.67.115.253:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN15691199
+ss://93b99881-df03-4597-9146-0c11e46387f7@121.200.112.143:13521?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=%2F%3Fed&fp=random#AutoAiVPN15691100
+vless://93b99881-df03-4597-9146-0c11e46387f7@121.200.112.143:13521?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=%2F%3Fed&fp=random#AutoAiVPN15691096
+ss://93b99881-df03-4597-9146-0c11e46387f7@59.29.116.20:11965?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=%2F%3Fed&fp=random#AutoAiVPN15691092
+vless://93b99881-df03-4597-9146-0c11e46387f7@59.29.116.20:11965?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=%2F%3Fed&fp=random#AutoAiVPN15691089
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.67.115.253:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN15691073
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.67.115.253:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN15691072
 vmess://eyJ2IjoiMiIsInBzIjoiQXV0b0FpVlBOMTU2ODU3NDciLCJhZGQiOiIxMDQuMTkuNDcuNDUiLCJwb3J0IjoiMjA4NiIsImlkIjoiZTllM2NjMTMtZGI0OC00Y2MxLThjMjQtNzYyNjQzOWE1MzM5IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6ImlwMi4xNDU3MjMwLnh5eiIsInBhdGgiOiJnaXRodWIuY29tXC9BbHZpbjk5OTkiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiJVU1x1N2Y4ZVx1NTZmZCJ9
 ss://d342d11e-d424-4583-b36e-524ab1f0afa4@103.255.208.216:443?security=tls&sni=a.ssll.gay&type=ws&path=%2F%3Fed#AutoAiVPN15685741
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@103.255.208.216:443?security=tls&sni=a.ssll.gay&type=ws&path=%2F%3Fed#AutoAiVPN15685737
@@ -6,10 +13,3 @@ ss://20421f01-5215-4f7c-934f-1675b9235f23@185.146.173.185:8080?security=none&typ
 vless://20421f01-5215-4f7c-934f-1675b9235f23@185.146.173.185:8080?security=none&type=httpupgrade&host=google3.rizzlerlegacy.inK.&path=%2Fv2riran-v2riran-v2riran-v2riran-v2riran-v2riran-v2riran-v2riran-v2riran-v2riran-v2riran-v2riran-v2riran-v2riran-v2riran-v2riran-v2riran-v2riran-v2riran-v2riran-v2riranxmplus%3Fed%3D1024#AutoAiVPN15680440
 ss://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@58.176.95.46:443?security=tls&sni=dns68.putata.eu.org&type=ws&path=%2F%3Fed#AutoAiVPN15675174
 vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@58.176.95.46:443?security=tls&sni=dns68.putata.eu.org&type=ws&path=%2F%3Fed#AutoAiVPN15675171
-ss://93b99881-df03-4597-9146-0c11e46387f7@175.125.207.253:30201?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=%2F%3Fed&fp=random#AutoAiVPN15675170
-vless://4685d838-99e1-4dc7-bc26-d8589d41f2a1@de3.tunnely.ru:443?security=reality&type=tcp&sni=de3.tunnely.ru&fp=chrome&flow=xtls-rprx-vision&sid=2e40144ddc07e8e1&pbk=pPGE5Uacj1AGAB_WLOXB_UUnVBOmuJGH0vTSfmRBKzM&encryption=none#AutoAiVPN15610261
-ss://839f8c01-5c6f-469f-8dbc-a8d508b28fd3@51.250.17.199:443?security=reality&encryption=none&pbk=ZDHa3Fbl_IxcBtjcWmZtqtsmK1u2vA4en8zDpIkhUA8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=6d021e2120ed3fac#AutoAiVPN15644337
-ss://58f90ed5-3dce-4023-ad0b-af42d20cf895@212.22.94.177:21844?security=reality&flow=xtls-rprx-vision&sni=www.alibabagroup.com&type=tcp&fp=chrome&pbk=LHUss13swfFwTaV0GhNPBkbKRyt91pnVxBCdWhxBrwk&sid=b41b108d926677#AutoAiVPN15633589
-vless://58f90ed5-3dce-4023-ad0b-af42d20cf895@212.22.94.177:21844?security=reality&flow=xtls-rprx-vision&sni=www.alibabagroup.com&type=tcp&fp=chrome&pbk=LHUss13swfFwTaV0GhNPBkbKRyt91pnVxBCdWhxBrwk&sid=b41b108d926677#AutoAiVPN15633587
-ss://d72b3b61-d2d0-4716-b557-c5621bfc1a76@190.93.247.56:8880?security=none&type=ws&host=www.speedtest.net.B.PeYmOd.CoM.&path=%2F-ViV2ry%40V2RIRAN-TEL--%40V2RIRAN-TEL--%40V2RIRAN-TEL--%40V2RIRAN-JOIN-%40V2RIRAN-TEL--%40V2RIRAN-JOIN-%40V2RIRAN-TEL-%40V2RIRAN-TEL--%40V2RIRAN-JOIN-%40V2RIRAN-TEL--%40V2RIRAN%3Fed%3D8880#AutoAiVPN15659550
-ss://93b99881-df03-4597-9146-0c11e46387f7@222.119.56.43:15812?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=%2F%3Fed&fp=random#AutoAiVPN15664746
