@@ -4,8 +4,8 @@ ss://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.240.28:80?security=none&type=ws
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.240.28:80?security=none&type=ws&host=us3.rtacg.com&path=/#AutoAiVPN20035407
 ss://1149be91-5a4f-47de-995f-66f8d7d64498@45.80.110.47:2096?security=tls&sni=De13.SiMaNsAnAt.Ir.&type=ws&host=De13.SiMaNsAnAt.Ir.&fp=chrome&alpn=h2#AutoAiVPN20026660
 ss://e16e9768-240f-4ff2-8c29-36d220ed2aa4@104.26.11.194:443/?type=grpc&encryption=none&serviceName=BLsNlVjvcrWGqHh74mj&security=tls&sni=msnghdfy4c2.cpiforpersia.uk&alpn=h2&fp=chrome#AutoAiVPN20026658
-vless://1149be91-5a4f-47de-995f-66f8d7d64498@45.80.110.47:2096?security=tls&sni=De13.SiMaNsAnAt.Ir.&type=ws&host=De13.SiMaNsAnAt.Ir.&fp=chrome&alpn=h2#AutoAiVPN20026657
-vless://e16e9768-240f-4ff2-8c29-36d220ed2aa4@104.26.11.194:443/?type=grpc&encryption=none&serviceName=BLsNlVjvcrWGqHh74mj&security=tls&sni=msnghdfy4c2.cpiforpersia.uk&alpn=h2&fp=chrome#AutoAiVPN20026655
+trojan://telegram-id-directvpn@15.236.119.70:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN20067262
+trojan://telegram-id-privatevpns@15.236.119.70:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN20067252
 ss://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.181.204:80?security=none&type=ws&host=us3.rtacg.com&path=/#AutoAiVPN20026653
 ss://89b3cbba-e6ac-485a-9481-976a0415eab9@192.0.54.131:443?security=tls&sni=vj.ylks.link&type=ws&path=%2F#AutoAiVPN20026652
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.181.204:80?security=none&type=ws&host=us3.rtacg.com&path=/#AutoAiVPN20026649
