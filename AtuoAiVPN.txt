@@ -4,7 +4,7 @@ trojan://telegram-id-privatevpns@51.44.120.70:22222?security=tls&alpn=http/1.1&h
 ss://5e553fa9-61e2-4926-91b4-0fd7e9778c1a@178.239.150.13:31873?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#AutoAiVPN20242000
 vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@103.170.233.160:4308/?type=ws&encryption=none&host=dns68.putata.eu.org&path=%2F%3Fed%3D2048&security=tls&sni=dns68.putata.eu.org#AutoAiVPN20245841
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.120.70:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN20245798
-vmess://eyJ2IjoiMiIsInBzIjoiQXV0b0FpVlBOMjAyMzgyMDYiLCJhZGQiOiIxNzIuNjcuMTY5LjIxMiIsInBvcnQiOiI4MDgwIiwidHlwZSI6Im5vbmUiLCJpZCI6ImI1NTFhYTIyLTIyYWYtMTFlZS1iOGQ4LWYyM2M5MzJlYjY4ZCIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLyIsImhvc3QiOiJvaWljdHcueXlkc2lpLmNvbSIsInRscyI6IiJ9
+trojan://telegram-id-directvpn@51.44.120.70:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN20245930
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.120.70:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN20245797
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.47.153:80?security=none&type=ws&host=us3.rtacg.com&path=/#AutoAiVPN20234709
 trojan://telegram-id-directvpn@18.198.44.254:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN20231928
