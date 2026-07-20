@@ -1,11 +1,16 @@
+vmess://eyJhZGQiOiIxODUuMTQ2LjE3My41OSIsImFpZCI6MCwiaG9zdCI6ImZyZWV2cG44NzguaGFtaWRpbW9ydGV6YTY4MC53b3JrZXJzLmRldiIsImlkIjoiMTA1MmYyNGUtN2IwOS00NWViLWIwYzUtZDg1OGViMTI0MTkyIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9nbHdlaWRmLmNmZFwvbGlua3dzIiwicG9ydCI6ODAsInBzIjoiQXV0b0FpVlBOMjgiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.178.142.106:22224?encryption=none&security=none&type=tcp#AutoAiVPN5
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@63.178.142.106:22224?encryption=none&security=none&type=tcp#AutoAiVPN6
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.104.170:22224?encryption=none&security=none&type=tcp#AutoAiVPN3
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.104.170:22224?encryption=none&security=none&type=tcp#AutoAiVPN4
 trojan://tg-dns68@162.159.152.204:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#AutoAiVPN17
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.45.50.197:22224?encryption=none&security=none&type=tcp#AutoAiVPN1
+vmess://eyJhZGQiOiIxNzIuNjYuNDQuMTcwIiwiYWlkIjowLCJob3N0Ijoic2FueTAxMTYuZG9ub3Zhbi1hNzkud29ya2Vycy5kZXYiLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6IlwvbWF4Lm1hbmthZG11LmNvbVwvbGlua3Z3cyIsInBvcnQiOjIwOTUsInBzIjoiQXV0b0FpVlBOMzIiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowQ2h0c3o5bXFua0dRV1hUWnlwcE9n@62.133.61.120:35187#AutoAiVPN29
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@51.45.50.197:22224?encryption=none&security=none&type=tcp#AutoAiVPN2
 trojan://62b78c9b-16cb-4ee6-824b-a4f856cf18f3@transfer01.kaochangonline.online:443?#AutoAiVPN18
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPNlB6cEV2V0FEMG5CaEhjbFh3ME93ak9mRmF0WWpLTHhVN3d0MWhtaVkyZjhaaXQ=@176.103.61.162:51348#AutoAiVPN26
+ss://YWVzLTI1Ni1nY206Qm9pWDEwMjkyNA==@107.173.192.238:9875#AutoAiVPN34
 vless://93b99881-df03-4597-9146-0c11e46387f7@49.165.150.206:18916?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=%2F%3Fed&fp=random#AutoAiVPN19
 ss://93b99881-df03-4597-9146-0c11e46387f7@49.165.150.206:18916?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=%2F%3Fed&fp=random#AutoAiVPN22
 ss://93b99881-df03-4597-9146-0c11e46387f7@116.40.170.124:24100?path=%2F%3Fed&security=tls&encryption=none&fp=random&type=ws&sni=cfv.cscfwoker.fun#AutoAiVPN15
