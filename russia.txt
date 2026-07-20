@@ -2,5 +2,10 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.178.142.106:22224?encryption=non
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@63.178.142.106:22224?encryption=none&security=none&type=tcp#AutoAiVPN6
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.104.170:22224?encryption=none&security=none&type=tcp#AutoAiVPN3
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.104.170:22224?encryption=none&security=none&type=tcp#AutoAiVPN4
+trojan://tg-dns68@162.159.152.204:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#AutoAiVPN17
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.45.50.197:22224?encryption=none&security=none&type=tcp#AutoAiVPN1
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@51.45.50.197:22224?encryption=none&security=none&type=tcp#AutoAiVPN2
+trojan://62b78c9b-16cb-4ee6-824b-a4f856cf18f3@transfer01.kaochangonline.online:443?#AutoAiVPN18
+vless://93b99881-df03-4597-9146-0c11e46387f7@49.165.150.206:18916?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=%2F%3Fed&fp=random#AutoAiVPN19
+ss://93b99881-df03-4597-9146-0c11e46387f7@116.40.170.124:24100?path=%2F%3Fed&security=tls&encryption=none&fp=random&type=ws&sni=cfv.cscfwoker.fun#AutoAiVPN15
+vless://93b99881-df03-4597-9146-0c11e46387f7@116.40.170.124:24100?path=%2F%3Fed&security=tls&encryption=none&fp=random&type=ws&sni=cfv.cscfwoker.fun#AutoAiVPN13
