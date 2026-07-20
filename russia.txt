@@ -1,6 +1,7 @@
 trojan://ZJU29smXwp@172.67.191.189:2053?security=tls&type=ws&sni=web2.teama.tk&path=/&host=k.teama.tk#AutoAiVPN39
 vmess://eyJ2IjoiMiIsInBzIjoiQXV0b0FpVlBOMzYiLCJhZGQiOiIxMDQuMjEuODMuMTA4IiwicG9ydCI6IjQ0MyIsImlkIjoiNmMxNjhmY2MtMjIzMS00ZjNiLThjMWUtZjYzOTE2OTJkZjRhIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoiaG1zMDIuZnhpYW9taS5zYnMiLCJwYXRoIjoiXC9saW5rIiwidGxzIjoidGxzIiwic25pIjoiaG1zMDIuZnhpYW9taS5zYnMiLCJ0ZXN0X25hbWUiOiIxMDEifQ==
 vmess://eyJhZGQiOiIxODUuMTQ2LjE3My41OSIsImFpZCI6MCwiaG9zdCI6ImZyZWV2cG44NzguaGFtaWRpbW9ydGV6YTY4MC53b3JrZXJzLmRldiIsImlkIjoiMTA1MmYyNGUtN2IwOS00NWViLWIwYzUtZDg1OGViMTI0MTkyIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9nbHdlaWRmLmNmZFwvbGlua3dzIiwicG9ydCI6ODAsInBzIjoiQXV0b0FpVlBOMjgiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
+vmess://eyJ2IjoiMiIsInBzIjoiQXV0b0FpVlBONTAiLCJhZGQiOiIyMy4yMjcuMzguNiIsInBvcnQiOjIwODYsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiIiLCJpZCI6IjI5ZWViYjYwLWIyN2ItNGE5ZC1iYmE1LTk0Nzc2M2Q5MjA1ZSIsImhvc3QiOiJpcDAwNi5kdGt1NDcueHl6IiwicGF0aCI6ImdpdGh1Yi5jb21cL0FsdmluOTk5OSJ9
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.178.142.106:22224?encryption=none&security=none&type=tcp#AutoAiVPN5
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@63.178.142.106:22224?encryption=none&security=none&type=tcp#AutoAiVPN6
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.104.170:22224?encryption=none&security=none&type=tcp#AutoAiVPN3
@@ -13,7 +14,12 @@ ss://e4514801-0d5a-42ba-869f-39bd605aef9e@51.45.50.197:22224?encryption=none&sec
 trojan://62b78c9b-16cb-4ee6-824b-a4f856cf18f3@transfer01.kaochangonline.online:443?#AutoAiVPN18
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPNlB6cEV2V0FEMG5CaEhjbFh3ME93ak9mRmF0WWpLTHhVN3d0MWhtaVkyZjhaaXQ=@176.103.61.162:51348#AutoAiVPN26
 ss://YWVzLTI1Ni1nY206Qm9pWDEwMjkyNA==@107.173.192.238:9875#AutoAiVPN34
+ss://93b99881-df03-4597-9146-0c11e46387f7@14.48.49.133:10000?path=%2F%3Fed&security=tls&encryption=none&fp=random&type=ws&sni=cfv.cscfwoker.fun#AutoAiVPN46
+vless://93b99881-df03-4597-9146-0c11e46387f7@14.48.49.133:10000?path=%2F%3Fed&security=tls&encryption=none&fp=random&type=ws&sni=cfv.cscfwoker.fun#AutoAiVPN44
+vless://93b99881-df03-4597-9146-0c11e46387f7@118.130.23.168:38053?path=%2F%3Fed&security=tls&encryption=none&fp=random&type=ws&sni=cfv.cscfwoker.fun#AutoAiVPN45
+ss://93b99881-df03-4597-9146-0c11e46387f7@118.130.23.168:38053?path=%2F%3Fed&security=tls&encryption=none&fp=random&type=ws&sni=cfv.cscfwoker.fun#AutoAiVPN47
 vless://93b99881-df03-4597-9146-0c11e46387f7@49.165.150.206:18916?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=%2F%3Fed&fp=random#AutoAiVPN19
 ss://93b99881-df03-4597-9146-0c11e46387f7@49.165.150.206:18916?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=%2F%3Fed&fp=random#AutoAiVPN22
+trojan://fe066c73-d2f4-4471-9d38-beb1ea6c2068@91.192.81.110:17711?sni=data.52daishu.life#AutoAiVPN43
 ss://93b99881-df03-4597-9146-0c11e46387f7@116.40.170.124:24100?path=%2F%3Fed&security=tls&encryption=none&fp=random&type=ws&sni=cfv.cscfwoker.fun#AutoAiVPN15
 vless://93b99881-df03-4597-9146-0c11e46387f7@116.40.170.124:24100?path=%2F%3Fed&security=tls&encryption=none&fp=random&type=ws&sni=cfv.cscfwoker.fun#AutoAiVPN13
