@@ -57,6 +57,8 @@ trojan://KV63147582@game-firefly.rooster465.autos:443#AutoAiVPN924
 vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@static.oneoneok.com:443?mode=gun&security=reality&encryption=none&pbk=oVbonPGBPZ_qGyhHPe-LwsyPc0oobby2YknsPE90iRo&fp=chrome&type=grpc&serviceName=api.v1.StreamService&sni=static.oneoneok.com&sid=0b46e0908285b078#AutoAiVPN260
 ss://86208db7-8bbc-42c2-9eb2-ffe5675502c3@static.oneoneok.com:443?mode=gun&security=reality&encryption=none&pbk=oVbonPGBPZ_qGyhHPe-LwsyPc0oobby2YknsPE90iRo&fp=chrome&type=grpc&serviceName=api.v1.StreamService&sni=static.oneoneok.com&sid=0b46e0908285b078#AutoAiVPN648
 vless://dddff7f3-9a3d-463f-9213-0b8243e7f1db@be.sv.temas-bor.ir:22001?security=reality&encryption=none&pbk=OncWhxWwzrKOFH21JT9WxcenacQuc7ZmuQy_rZFJ8xg&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=login.yahoo.com&sid=c6e19c434dc87df7#AutoAiVPN58450
+ss://2ee26119-94e5-40b4-ba3a-16354021b600@185.18.250.127:2096?encryption=none&type=ws&security=tls&path=%2Fgraphql&host=69565ce3109804e7813f98ee.mmdbay.blog&sni=69565ce3109804e7813f98ee.mmdbay.blog&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=0#AutoAiVPN341786
+vless://2ee26119-94e5-40b4-ba3a-16354021b600@185.18.250.127:2096?encryption=none&type=ws&security=tls&path=%2Fgraphql&host=69565ce3109804e7813f98ee.mmdbay.blog&sni=69565ce3109804e7813f98ee.mmdbay.blog&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=0#AutoAiVPN341785
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@63.141.128.123:443?security=tls&sni=kkk.ylks.link&type=ws&path=%2F#AutoAiVPN340389
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@192.0.54.33:443?security=tls&sni=xinf.ylks.xyz&type=ws&path=%2F%3Fproxyip#AutoAiVPN318251
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.93:443?security=tls&sni=yk.ylks.xyz&type=ws&path=%2Ffreecodes#AutoAiVPN208590
@@ -293,6 +295,7 @@ ss://cede337b-9ea5-40e5-a8b1-690bf49ff41d@172.67.178.12:443/?type=ws&encryption=
 ss://d9eb0df3-3190-4447-86b6-656fe5ff1119@162.159.152.87:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=mmdv2.pages.dev&type=ws&sni=mmdv2.pages.dev#AutoAiVPN58202
 vless://8cdc6e73-cbc6-4d4c-abe2-d2eb29fce6c2@104.21.25.117:443?security=tls&sni=wash.parsianboton.ir&type=grpc&serviceName=BuT9Wfa6u5bLQUgA9&fp=chrome&alpn=h2#AutoAiVPN58198
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.26.2.213:80?security=none&type=ws&host=us3.rtacg.com&path=/#AutoAiVPN313760
+ss://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.21.22.183:80?security=none&type=ws&host=us3.rtacg.com&path=/#AutoAiVPN340394
 ss://435bda4c-fe5e-42c9-a3ad-15334943b38a@172.67.176.3:80?security=none&type=ws&host=us3.rtacg.com&path=/#AutoAiVPN335980
 vless://fb978279-0a28-4045-8258-e9ab97deaf2b@173.245.58.253:2083?encryption=none&host=3da0360c.myblog-2hd.pages.dev&path=%2F&security=tls&sni=3da0360c.myblog-2hd.pages.dev&type=ws#AutoAiVPN383
 ss://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.165:443?security=tls&sni=eb043cC5.mkhAlILi.PAges.DEv&type=ws&host=Eb043Cc5.MkhaLILi.PagEs.dev&path=%2FwstBteiWzlzWfZGp&fp=chrome&alpn=http%2F1.1#AutoAiVPN308527
@@ -1689,6 +1692,7 @@ ss://41cbcc75-759f-4707-984e-aea715046830@167.88.167.57:443?security=reality&enc
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.198:23576?security=reality&type=tcp&packetEncoding=xudp&sni=fuck.rkn&fp=chrome&flow=xtls-rprx-vision&sid=01&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&encryption=none#AutoAiVPN117
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.216:23576?flow=xtls-rprx-vision&encryption=none&security=reality&sni=fuck.rkn&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&allowinsecure=0&type=tcp&headerType=none#AutoAiVPN132
 ss://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:13672?security=reality&encryption=none&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=48050fab#AutoAiVPN542
+ss://a13df940-020c-465f-bc89-ee5279b5cd6a@47.236.83.239:2053?security=tls&sni=hke.ylks.xyz&type=ws&path=/?proxyip#AutoAiVPN340395
 trojan://XG59623478@stirring-dane.rooster465.autos:443?allowInsecure=1&sni=stirring-dane.rooster465.autos#AutoAiVPN950
 vless://b8794f67-80d9-4124-8fc5-2d2ce5516573@216.227.169.104:443?security=reality&type=tcp&packetEncoding=xudp&sni=deepl.com&fp=qq&flow=xtls-rprx-vision&sid=bd72&pbk=AYL1z7PNyo6LqYLeZpXa50FnK9eEu7o18KHRhOlST1w&encryption=none#AutoAiVPN120
 vless://93b99881-df03-4597-9146-0c11e46387f7@174.136.206.70:39880?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=%2F%3Fed&fp=random#AutoAiVPN274541
