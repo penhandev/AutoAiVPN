@@ -1577,6 +1577,7 @@ vless://35066f2a-b5af-40eb-ac1d-c8b2eba2da5a@199.232.78.150:443?encryption=none&
 ss://501b6afa-f955-473f-8440-1010110a1548@161.104.32.106:8443?security=reality&encryption=none&pbk=mBaiGOrxW7NFGpW7aZLztWiME6vulM0Nk1Uh0SxX4zc&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=fa1a12cf#AutoAiVPN384883
 vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.78:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=chrome&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5&type=tcp&headerType=none#AutoAiVPN182267
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@146.70.53.62:1080#AutoAiVPN306507
+ss://e4514801-0d5a-42ba-869f-39bd605aef9e@63.180.184.26:22222?encryption=none&security=none&type=tcp#AutoAiVPN424689
 vless://2a12bb81-f3a3-41bb-99ab-36febf676b4a@188.255.236.213:443?security=reality&encryption=none&pbk=UMvz-4jhwqv9obtELN1iozBhEUsayjnOvXBSHEiX_DI&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=cosmic-aurora.cdn.cachefleet.com#AutoAiVPN387088
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@45.131.210.191:443?path=%2FGOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#AutoAiVPN386779
 ss://435bda4c-fe5e-42c9-a3ad-15334943b38a@198.41.208.130:80?security=none&type=ws&host=us3.rtacg.com&path=/#AutoAiVPN358564
@@ -1614,6 +1615,7 @@ trojan://humanity@104.17.111.3:443?security=tls&sni=www.ignitelimit.com&insecure
 vless://3197825d-ec07-42d9-b072-be7926532c06@fast.motorbazan.com:443?path=%2F&security=tls&encryption=none&insecure=0&host=uaenewi.global.ssl.fastly.neT.&type=ws&allowInsecure=0&sni=ssl.fastly.com#AutoAiVPN58470
 vless://d4af8141-98c4-b4c3-3f17-9fd3db982a2d@x4g-production-97f2.up.railway.app:443?path=%2Fws%2Fd4af8141-98c4-b4c3-3f17-9fd3db982a2d&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=x4g-production-97f2.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=x4g-production-97f2.up.railway.app#AutoAiVPN58467
 vless://cabf30b3-d2a3-4d67-b52b-829297ca9a33@188.214.32.218:443?security=reality&encryption=none&pbk=ye0UyX7fJU0dLkDdXR1V2yHbMU4nTywIqWnADA7PWGQ&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=weather.com&sid=5cb14c83aab91d29#AutoAiVPN317035
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.180.184.26:22222?encryption=none&security=none&type=tcp#AutoAiVPN424688
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.187.167.167:22224?encryption=none&security=none&type=tcp#AutoAiVPN424589
 vless://47947923-49ac-49f8-86ed-2912bcbf2d18@104.171.134.67:4100?path=%2Fv1&security=none&encryption=none&host=live.ok.ru&type=ws#AutoAiVPN356476
 ss://dc580147-c87c-4527-bf90-192eb1cf62d1@172.67.163.189:80?security=none&type=ws&host=sTArt.SiTEg52770.wORkeRs.DeV#AutoAiVPN274547
