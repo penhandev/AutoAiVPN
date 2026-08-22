@@ -994,6 +994,7 @@ ss://86208db7-8bbc-42c2-9eb2-ffe5675502c3@edge1.oneokgames.com:443?encryption=no
 vless://39848671-e667-4b6d-bff6-e38e34f536c4@check-host.net:80?path=%2FPROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM%3Fed%3D2048&security=none&encryption=none&host=1.www.speedtest.net.zula.ir.zemestanil.ir&type=ws#AutoAiVPN317560
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@3.79.218.80:22222?encryption=none&security=none&type=tcp#AutoAiVPN446993
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.79.218.80:22222?encryption=none&security=none&type=tcp#AutoAiVPN446992
+vless://d4d4d103-5074-47e9-96e6-5431f4e35c57@2.27.9.209:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=IhbpvWBZmJEzDs4eI2zoFmL_a-1J_7Z7Sepyrn7-xF8&security=reality&sid=6547735997055a35&sni=nodefulcrum.mooo.com&type=tcp#AutoAiVPN477777
 vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@89.105.220.228:443?encryption=none&fp=firefox&pbk=Lij6_wEY1WQ8p9wjOyErAAmY8ce4oZmEO4QtYXH-WiU&security=reality&serviceName=node.v1.MetricsService&sid=b9707fe704eb1415&sni=get.oneokgames.com&type=grpc#AutoAiVPN264
 ss://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.155.140:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2FTELEGRAM-MARAMBASHI%2F%3Fed%3D2048#AutoAiVPN368853
 ss://da0c4b49-5565-4ff0-9848-1bb602fad0dd@168.119.184.138:57149?security=none&encryption=none&headerType=none&type=tcp#AutoAiVPN72
@@ -1904,6 +1905,7 @@ vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@dl.onetimeok.com:443?mode=gun&secur
 ss://13efddd3-1a20-49f3-bbbe-f5b530398bb6@tr.cellser.ir:24949?security=reality&encryption=none&pbk=qjRHJ5qtLh5zJymurmhkrpBHl1yN0EeRByRznftR3Hw&headerType=none&fp=chrome&spx=%2F92fbd14f496a43d&type=tcp&sni=www.yahoo.com&sid=e5cdac#AutoAiVPN462087
 vless://2a12bb81-f3a3-41bb-99ab-36febf676b4a@109.69.218.206:443?security=reality&encryption=none&pbk=8hse7wRRL-F66rQ-aAeetKTw0MSeJC7Rr6EaDeLzdCU&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=kind-wolf.cdn.cachefleet.com#AutoAiVPN384445
 trojan://humanity@162.159.38.119:443?path=%2Fassignment&security=tls&insecure=1&host=www.creationlong.org&type=ws&allowInsecure=1&sni=www.creationlong.org#AutoAiVPN202746
+vless://900606a3-cf07-4680-a589-f81f039e3a85@172.235.175.57:35351?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#AutoAiVPN477771
 ss://367ff772-a8f4-4895-8e99-3702a868f0c6@gbos2.osvp.online:443?encryption=none&security=tls&sni=gbos2.osvp.online&fp=chrome&insecure=0&allowInsecure=0&type=grpc&authority=&serviceName=grpc-api&mode=gun#AutoAiVPN520
 ss://e9c2d9fe-19de-48df-9fc8-9209573d817c@gru-jeruuuu-francr-anrd-arntunsnr-ooknzehb-fopmant.profato.ir:443?encryption=none&sni=play.google.com&pbk=0bpQsTZakO8WYnhSCIos2lVrj2iBeKNFcoaGx6XSYSs&security=reality&headerType=none&type=tcp&sid=7b031372b64a8872&fp=chrome#AutoAiVPN450503
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVkM2MzRRdlZrNWw=@188.116.23.244:8388#AutoAiVPN416913
