@@ -2961,6 +2961,7 @@ vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.24:443?mode=gun&security
 vless://c7e9c591-2764-423a-afca-efbd010fd396@185.195.69.119:2053?path=%2F&security=tls&encryption=none&host=forfreeuse.sub-flow.online&fp=chrome&type=ws&sni=forfreeuse.sub-flow.online#AutoAiVPN317029
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.171.238:22224?encryption=none&security=none&type=tcp#AutoAiVPN612974
 ss://c7e9c591-2764-423a-afca-efbd010fd396@213.183.61.100:2053?path=%2F&security=tls&encryption=none&insecure=0&host=forfreeuse.rtqa.ru&fp=chrome&type=ws&allowInsecure=0&sni=forfreeuse.rtqa.ru#AutoAiVPN454563
+ss://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.15.183:22223?encryption=none&security=none&type=tcp#AutoAiVPN639169
 ss://5865fb7c-59e0-0b23-9dfe-0c4e76cecb6d@69.46.46.16:443?path=%2Fws%2F5865fb7c-59e0-0b23-9dfe-0c4e76cecb6d&security=tls&alpn=http%2F1.1&encryption=none&host=rvg-production-6e30.up.railway.app&fp=ios&type=ws&sni=rvg-production-6e30.up.railway.app#AutoAiVPN417166
 ss://8fdf6dde-a1ca-456d-9b18-86b74d5768e6@141.227.170.192:8443?security=reality&flow=xtls-rprx-vision&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none&sni=sellflow.org#AutoAiVPN387987
 ss://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190?encryption=none&flow=xtls-rprx-vision&fp=&pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&security=reality&sni=aws.amazon.com&type=tcp#AutoAiVPN745
