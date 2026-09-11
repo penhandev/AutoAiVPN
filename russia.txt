@@ -3009,6 +3009,7 @@ vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@feed.onetimeok.com:443?encryption=n
 ss://fd5b3d34-dc29-4cb1-b5f0-a08a8db59a03@discord.gg:2087?path=/;security=tls;encryption=none;host=configngnixV2rayng.shhproxy.cfd;type=ws;sni=configngnixV2rayng.shhproxy.cfd#AutoAiVPN334926
 vless://ecad47b0-249e-4f6f-adff-e3c8f02b1897@89.105.204.107:443?security=reality&alpn=http%2F1.1&encryption=none&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=nl.quattro-tech.ru&sid=43dcff53849b81e6#AutoAiVPN193
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@190.93.244.126:80?security=none&type=ws&host=us3.rtacg.com&path=/#AutoAiVPN351399
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.15.183:22223?encryption=none&security=none&type=tcp#AutoAiVPN639168
 ss://2f35965a-9a9b-45fd-ba32-987296dfb6be@bg3.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=XBfCioniAKXgKYBUVnvBXu80AIaIa4SpAB3w8qeF7Gk&fp=firefox&type=grpc&serviceName=home.v1.ApiService&sni=bg3.univesalsrv.com&sid=1be1bd931c98c84a#AutoAiVPN535709
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@bg3.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=XBfCioniAKXgKYBUVnvBXu80AIaIa4SpAB3w8qeF7Gk&fp=firefox&type=grpc&serviceName=home.v1.ApiService&sni=bg3.univesalsrv.com&sid=1be1bd931c98c84a#AutoAiVPN535708
 ss://17565eb3-3535-4fc1-bbaa-e9fbd94b2f0c@14.102.228.66:2053?security=tls&sni=fi1.v2vless.xyz&type=ws&host=fi1.v2vless.xyz&fp=chrome&alpn=h3,h2,http/1.1#AutoAiVPN639066
@@ -3280,6 +3281,7 @@ vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.24:443?mode=gun&security
 vless://c7e9c591-2764-423a-afca-efbd010fd396@185.195.69.119:2053?path=%2F&security=tls&encryption=none&host=forfreeuse.sub-flow.online&fp=chrome&type=ws&sni=forfreeuse.sub-flow.online#AutoAiVPN317029
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.171.238:22224?encryption=none&security=none&type=tcp#AutoAiVPN612974
 ss://c7e9c591-2764-423a-afca-efbd010fd396@213.183.61.100:2053?path=%2F&security=tls&encryption=none&insecure=0&host=forfreeuse.rtqa.ru&fp=chrome&type=ws&allowInsecure=0&sni=forfreeuse.rtqa.ru#AutoAiVPN454563
+ss://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.15.183:22223?encryption=none&security=none&type=tcp#AutoAiVPN639169
 ss://5865fb7c-59e0-0b23-9dfe-0c4e76cecb6d@69.46.46.16:443?path=%2Fws%2F5865fb7c-59e0-0b23-9dfe-0c4e76cecb6d&security=tls&alpn=http%2F1.1&encryption=none&host=rvg-production-6e30.up.railway.app&fp=ios&type=ws&sni=rvg-production-6e30.up.railway.app#AutoAiVPN417166
 ss://8fdf6dde-a1ca-456d-9b18-86b74d5768e6@141.227.170.192:8443?security=reality&flow=xtls-rprx-vision&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none&sni=sellflow.org#AutoAiVPN387987
 ss://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190?encryption=none&flow=xtls-rprx-vision&fp=&pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&security=reality&sni=aws.amazon.com&type=tcp#AutoAiVPN745
