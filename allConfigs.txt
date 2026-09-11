@@ -143,6 +143,7 @@ vmess://eyJhZGQiOiIxODguMTE0Ljk2LjIyMSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJo
 trojan://humanity@www.calmlunch.com:443?type=ws&security=tls&path=%2Fassignment&sni=www.calmlunch.com&fp=chrome&insecure=0&allowInsecure=0#AutoAiVPN873
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.136.235:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F#AutoAiVPN575248
 ss://88360a6d-0fd7-49ef-ad06-6397fc7a80e5@www.chatgpt.com:2083?path=%2F&security=tls&encryption=none&insecure=0&host=pn.lox30shop.ir&fp=chrome&type=ws&allowInsecure=0&sni=pn.lox30shop.ir#AutoAiVPN870
+ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@51.83.192.80:8388#AutoAiVPN647209
 ss://7061b26c-0f6c-49b5-be42-af2c011c04bc@54.37.136.194:2053?security=reality&encryption=none&pbk=TtGgrgk1OLMjWBaomJ1JkUOvmtMx7sLJdvvN0bxmZF8&headerType=none&type=tcp&sni=www.apple.com&sid=bdc1efeb01044e93#AutoAiVPN536335
 vless://7061b26c-0f6c-49b5-be42-af2c011c04bc@54.37.136.194:2053?security=reality&encryption=none&pbk=TtGgrgk1OLMjWBaomJ1JkUOvmtMx7sLJdvvN0bxmZF8&headerType=none&type=tcp&sni=www.apple.com&sid=bdc1efeb01044e93#AutoAiVPN536334
 ss://0b0915d7-6800-4580-a44b-77d84f105e6a@185.79.138.71:448?security=reality&encryption=none&pbk=CsDgNRcCwCkPIslfZpKTIK71KFpIFNsotbdzKcZVoH8&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&sni=www.samsung.com&sid=cd21e552537c7c0b#AutoAiVPN385027
@@ -3356,6 +3357,8 @@ vless://bb05f9d7-a3d1-4b81-a790-f6dba0301907@85.192.49.151:443?fp=firefox&flow=x
 ss://3775ad6e-d281-8bc5-36e9-9c5324a69393@167.99.178.229:1161?security=&encryption=none&host=cdn-apple.com&headerType=http&type=tcp#AutoAiVPN433913
 vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.64:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=c6ef72e4635d15a5#AutoAiVPN167269
 vmess://eyJhZGQiOiIyMy4xNjIuMjAwLjE5OCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjE4MDAwIiwicHMiOiJBdXRvQWlWUE4yMzc0NzQiLCJzY3kiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
+ss://db3f09ae-23f2-42b8-abee-7b89fb392c5e@maple.adaspoloandco.com:8443?path=%2Fuploader.php&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=maple.adaspoloandco.com#AutoAiVPN646160
+vless://db3f09ae-23f2-42b8-abee-7b89fb392c5e@maple.adaspoloandco.com:8443?path=%2Fuploader.php&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=maple.adaspoloandco.com#AutoAiVPN646159
 ss://fd47216b-4217-4ec1-85b9-98304634a391@5.199.170.105:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=xFUmqmEPEKyv-5ReppEM1oTkc04HQcBUfySH-EwPBlE&security=reality&sid=6ba85179e30d4fc2&sni=amd.com&type=tcp#AutoAiVPN487
 ss://3d8dcb15-e310-41bc-8d2d-a2ab323cfbb9@andro.phoneshop98.ir:2085?security=reality&encryption=none&pbk=khVfcjtJeIhqSvWh5pXlBlZrRN2evKtlerhMozeul28&headerType=none&fp=chrome&type=tcp&sni=amp-api-edge.apps.apple.com#AutoAiVPN567871
 ss://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.133:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=c6ef72e4635d15a5#AutoAiVPN199923
@@ -3602,6 +3605,7 @@ vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.195:23576/?type=tcp&encry
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443#AutoAiVPN267906
 trojan://IQ68037294@definite-giraffe.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=definite-giraffe.rooster465.autos#AutoAiVPN98416
 trojan://NQ26071394@ready-kangaroo.rooster465.autos:443#AutoAiVPN933
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@36.224.174.174:50099#AutoAiVPN645133
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.22.50.144:80?security=none&type=ws&host=us3.rtacg.com&path=/#AutoAiVPN621623
 trojan://KV63147582@selected-bison.rooster465.autos:443?allowInsecure=0&sni=selected-bison.rooster465.autos#AutoAiVPN955
 trojan://OD90375861@big-bonefish.rooster465.autos:443?allowInsecure=1&sni=big-bonefish.rooster465.autos#AutoAiVPN948
