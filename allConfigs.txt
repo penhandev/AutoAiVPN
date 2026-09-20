@@ -1433,6 +1433,7 @@ ss://c854ace9-1dc7-4fc4-b87b-6b00db3cc4ed@185.146.173.237:443?security=tls&sni=f
 trojan://humanity@104.16.174.6:443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#AutoAiVPN908
 ss://d7bbfe83-b037-48ae-996c-b98ed0441ba2@visa.com:443?path=%2FTELEGRAM%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=e10c0e4b.oodaeq2.pages.dev&fp=chrome&type=ws&sni=e10c0e4b.oodaeq2.pages.dev#AutoAiVPN501345
 vless://722c66e2-bce4-46d2-a2f9-cb04e3bed034@188.114.98.244:443?security=tls&sni=ANa-4bA.PaGeS.DEv&type=ws&path=%2Fahq33jsat8slw2if%3Fed#AutoAiVPN299521
+vless://893096ae-ed76-4440-bc34-f77c4872540f@104.21.70.21:443?alpn=http/1.1&ed=2560&encryption=none&fp=unsafe&host=masterserver1-vsh.kalleh.workers.dev&path=/eyJqdW5rIjoieE1zSFhYR2hkcHZGUHI3cSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&security=tls&sni=masterserver1-vsh.kalleh.workers.dev&type=ws#AutoAiVPN713588
 ss://6e4caacc-d748-573c-a7a5-83b84bfcab6f@104.21.20.148:2052?security=none&type=ws&host=Rubika.ir.Join--ELiV2ry.com.fr2.vless.Sitespeedtest.net.&path=%2F%40ELiV2ry-%40ELiV2ry-%40ELiV2ry-%40ELiV2ry%3Fed%3D2048#AutoAiVPN167003
 vless://6e4caacc-d748-573c-a7a5-83b84bfcab6f@104.21.20.148:2052?security=none&type=ws&host=Rubika.ir.Join--ELiV2ry.com.fr2.vless.Sitespeedtest.net.&path=%2F%40ELiV2ry-%40ELiV2ry-%40ELiV2ry-%40ELiV2ry%3Fed%3D2048#AutoAiVPN166999
 vless://5ea9ae84-3274-404e-a070-d8718e36ae11@176.53.146.164:443?mode=gun&security=reality&encryption=none&pbk=tu5lj8_l0P0pC9BBgvdaQJ23l38WnfgugPq0iPxYznY&fp=qq&spx=%2F&type=grpc&serviceName=grp&sni=ru.whotellme.com&sid=b11dedbb394e91e1#AutoAiVPN708055
@@ -2945,6 +2946,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowU1NUb3FzS292VFM1Ml9uT2JNdU13@57.129.51.113:
 vless://ce561815-7e76-4721-b87a-f6293cabefe4@172.67.169.236:2083?security=tls&sni=miladmci.galget.ir&type=ws&host=miladmci.galget.ir&path=%2F&fp=chrome&alpn=h2,http/1.1#AutoAiVPN362908
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@45.130.125.207:80?path=%2Fhttp&security=none&encryption=none&host=de.vpnbase.net&type=ws#AutoAiVPN258780
 vless://CONFIG-WANCLOUDFA@49.12.64.220:443?security=none&encryption=none&headerType=none&type=tcp#AutoAiVPN61
+ss://893096ae-ed76-4440-bc34-f77c4872540f@104.21.70.21:443?alpn=http/1.1&ed=2560&encryption=none&fp=unsafe&host=masterserver1-vsh.kalleh.workers.dev&path=/eyJqdW5rIjoieE1zSFhYR2hkcHZGUHI3cSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&security=tls&sni=masterserver1-vsh.kalleh.workers.dev&type=ws#AutoAiVPN713589
 ss://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.155.105:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#AutoAiVPN386105
 ss://515f7b29-206c-4036-8230-4270cca0a1f2@104.21.90.103:2095?security=none&type=ws#AutoAiVPN351344
 vless://51d19c6d-d0bf-4e0b-8eef-9a1d3f13c7e6@172.67.69.236:8443?security=tls&sni=vip-romax-tiktok.hsjsak.ir&type=ws&host=vip-romax-tiktok.hsjsak.ir&path=vless-ws%2F%3Fed&fp=random#AutoAiVPN493580
