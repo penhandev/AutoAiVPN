@@ -2493,6 +2493,7 @@ ss://0136d663-8506-45ab-e164-666046bf635f@104.21.28.188:8880?security=none&type=
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@35.180.76.27:22223?encryption=none&security=none&type=tcp#AutoAiVPN751489
 vmess://eyJhZGQiOiIxNzIuNjcuMjIwLjgzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJsaW5qYTA1Lmh3Y2FyLnNicyIsImlkIjoiMzljZWMxOGYtYTQzOS00MjdjLTlhNGUtYWViNmZjZGY2ZjUzIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9saW5rd3MiLCJwb3J0IjoiNDQzIiwicHMiOiJBdXRvQWlWUE4yMDIyMTkiLCJzY3kiOiJhdXRvIiwic25pIjoibGluamEwNS5od2Nhci5zYnMiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 vless://030e76a2-f9cb-4ea2-9a91-18e91a13808a@151.101.66.219:80?security=none&type=ws&host=ns2.net&path=%2Ftelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%3Fed%3D2048#AutoAiVPN58200
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.10.248.46:22222?encryption=none&security=none&type=tcp#AutoAiVPN805200
 ss://86208db7-8bbc-42c2-9eb2-ffe5675502c3@89.105.220.231:443?encryption=none&type=grpc&security=reality&sni=link.oneokgames.com&pbk=x9m8Vxk2YlwXy8CLrHeEMDzLJWuRQ3mh6CPWA34u2yY&sid=ad613873130544ab&fp=firefox&serviceName=media.v1.SyncService#AutoAiVPN641
 ss://bcb45340-d47e-4b8b-9b00-0b050c59a1cf@188.245.84.166:38937?security=none&type=tcp&host=fast.com&headerType=http#AutoAiVPN335971
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.130.8.150:22222?encryption=none&security=none&type=tcp#AutoAiVPN797574
@@ -3880,6 +3881,7 @@ ss://6a38827e-d102-49ff-b7aa-2e2bb26f15ee@pnl.forvian.ir:8080?encryption=mlkem76
 ss://aebf0af6-7890-45ec-adf9-e6f502f2303e@178.104.129.39:14726?encryption=none&security=none&type=tcp&headerType=http&host=amp-api-edge.apps.apple.com#AutoAiVPN525548
 vless://aebf0af6-7890-45ec-adf9-e6f502f2303e@178.104.129.39:14726?encryption=none&security=none&type=tcp&headerType=http&host=amp-api-edge.apps.apple.com#AutoAiVPN525547
 ss://71091100-c6ed-41fa-84ac-acf7ff9eeb7f@212.46.33.5:443?headerType=none&sid=9c2378562188c3cb&flow=xtls-rprx-vision&sni=slowkd.sadiepinki.com&encryption=none&type=tcp&pbk=z37XIezsPyfMgmdXyFd9qT4C4maDAs1OcRt-wfyrXVo&security=reality#AutoAiVPN751605
+ss://e4514801-0d5a-42ba-869f-39bd605aef9e@3.10.248.46:22222?encryption=none&security=none&type=tcp#AutoAiVPN805201
 ss://86208db7-8bbc-42c2-9eb2-ffe5675502c3@eu.oneokgames.com:443?mode=gun&security=reality&encryption=none&pbk=0ffnN7CdnOgEEFJ3AY1lnuTtsOPDL059UaTTxGxDjTA&fp=firefox&type=grpc&serviceName=home.v1.ApiService&sni=eu.oneokgames.com&sid=66ffd800ba2ec7c3#AutoAiVPN581
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.43.144.131:22224?encryption=none&security=none&type=tcp#AutoAiVPN797479
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.118.124:22224?encryption=none&security=none&type=tcp#AutoAiVPN797476
