@@ -2124,6 +2124,7 @@ ss://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.173.60:22222?encryption=none&se
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.173.60:22222?encryption=none&security=none&type=tcp#AutoAiVPN781919
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.253.118:22224?encryption=none&security=none&type=tcp#AutoAiVPN774273
 ss://d26a9be3-593a-3631-7f4b-4c27113188c0@x4g-production-6be3.up.railway.app:443?encryption=none&security=tls&type=ws&host=x4g-production-6be3.up.railway.app&path=/ws/d26a9be3-593a-3631-7f4b-4c27113188c0&sni=x4g-production-6be3.up.railway.app&fp=ios&alpn=http/1.1#AutoAiVPN58738
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.25.113:22223?encryption=none&security=none&type=tcp#AutoAiVPN836682
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@51.24.244.122:22222?encryption=none&security=none&type=tcp#AutoAiVPN836677
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.24.244.122:22224?encryption=none&security=none&type=tcp#AutoAiVPN836580
 ss://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.45.121:80?security=none&type=ws&host=us3.rtacg.com&path=/#AutoAiVPN534402
