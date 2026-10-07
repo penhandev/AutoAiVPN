@@ -2474,6 +2474,7 @@ ss://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.101.0:22222?encryption=none&secu
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.173.60:22223?encryption=none&security=none&type=tcp#AutoAiVPN781932
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.173.60:22222?encryption=none&security=none&type=tcp#AutoAiVPN781920
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.173.60:22222?encryption=none&security=none&type=tcp#AutoAiVPN781919
+ss://e4514801-0d5a-42ba-869f-39bd605aef9e@3.10.183.70:22223?encryption=none&security=none&type=tcp#AutoAiVPN844030
 vless://515f7b29-206c-4036-8230-4270cca0a1f2@104.21.90.103:2095?security=none&type=ws#AutoAiVPN351341
 ss://2f35965a-9a9b-45fd-ba32-987296dfb6be@bg3.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=XBfCioniAKXgKYBUVnvBXu80AIaIa4SpAB3w8qeF7Gk&fp=firefox&type=grpc&serviceName=home.v1.ApiService&sni=bg3.univesalsrv.com&sid=1be1bd931c98c84a#AutoAiVPN535709
 ss://04c808e2-0b59-47b0-a54b-32fc7ef1c902@russia.com:443?sni=misaka.cndyw.ggff.net&type=ws&host=misaka.cndyw.ggff.net&path=/?ed=2560fp=random&security=tls#AutoAiVPN586328
