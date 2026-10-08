@@ -2395,6 +2395,7 @@ vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.65:443?encryption=none&f
 ss://CONFIG-WANCLOUDFA@49.12.64.220:443?security=none&encryption=none&headerType=none&type=tcp#AutoAiVPN62
 ss://5efad8b5-df60-4d26-b943-c6d2a1a98526@49.13.44.1:4030?security=reality&sni=zula.ir&type=tcp&fp=firefox&pbk=YsIMwJCi1GWR2wb36LFtuUJDKjPiI-py0ApJL-8Wdhk&sid=b7d1d4fed44b8223#AutoAiVPN599272
 vless://2b1b4acf-109c-454d-8a9a-6acc48ed64eb@38.180.70.206:8080?type=tcp&security=none#AutoAiVPN237215
+ss://e4514801-0d5a-42ba-869f-39bd605aef9e@13.135.50.18:22222?encryption=none&security=none&type=tcp#AutoAiVPN852294
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@13.135.50.18:22224?encryption=none&security=none&type=tcp#AutoAiVPN852192
 vless://07e14c2a-b1b9-4146-98d0-62d3f8ab603d@84.200.16.96:8443?mode=gun&security=reality&encryption=none&pbk=YYO5pS58Mfnxp058p7iVgRzxkbFUsDQaHwCPqREp1n8&fp=firefox&type=grpc&sni=app.radiooooo.com&sid=dd9811ca11#AutoAiVPN781911
 ss://513beae3-56e7-4954-a17e-930e06237b27@188.114.96.8:443?path=%2Fvl%2FpiIRdE9WUi24Sn3bb2oSJ%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=cfoi-2fx16g3-8ry2kdxmcj.wjesv2ila3rxbuhpc2nsugrachgawk.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=Cfoi-2FX16G3-8Ry2KdXmCJ.WjESV2ILa3rxBUHpc2NsUGRaChgaWk.WOrkeRS.dev#AutoAiVPN715639
@@ -2495,6 +2496,7 @@ vless://CONFIG-WANCLOUDFA@49.12.64.220:443?security=none&encryption=none&headerT
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.16.231:22224?encryption=none&security=none&type=tcp#AutoAiVPN789569
 ss://5db47982-e0ec-4a6e-82bc-8bd0d4255c3c@104.20.38.4:8080?path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D8080&security=none&encryption=none&host=join-to.vmessorg.Community.&type=ws#AutoAiVPN501354
 vless://5db47982-e0ec-4a6e-82bc-8bd0d4255c3c@104.20.38.4:8080?path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D8080&security=none&encryption=none&host=join-to.vmessorg.Community.&type=ws#AutoAiVPN501350
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.135.50.18:22222?encryption=none&security=none&type=tcp#AutoAiVPN852293
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.119.66:22222?encryption=none&security=none&type=tcp#AutoAiVPN852287
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.119.66:22224?encryption=none&security=none&type=tcp#AutoAiVPN852186
 ss://a2dadb95-3f15-4e1c-b517-0b54c336a5fd@104.21.12.150:8443?security=tls&sni=nl57.vlessx.us&type=ws&host=nl57.vlessx.us&fp=chrome#AutoAiVPN647885
