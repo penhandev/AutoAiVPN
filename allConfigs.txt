@@ -2676,6 +2676,7 @@ ss://f349f34a-dd0b-4b21-80a7-c2d424d0f63e@nova-coral-panel-7bfe.xofay83013.worke
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@35.177.125.38:22223?encryption=none&security=none&type=tcp#AutoAiVPN789689
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.101.0:22223?encryption=none&security=none&type=tcp#AutoAiVPN789685
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.16.231:22223?encryption=none&security=none&type=tcp#AutoAiVPN789683
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.134.194.231:22224?encryption=none&security=none&type=tcp#AutoAiVPN860517
 vmess://eyJ2IjoiMiIsInBzIjoiQXV0b0FpVlBONTk5MjU1IiwiYWRkIjoiMTQxLjEwMS4xMTUuMTkiLCJwb3J0IjoiODAiLCJ0eXBlIjoibm9uZSIsImlkIjoiMmFjNGUyNjktMTU3Ni00ZjQxLThjMGQtNjI0MmUzYzVmZDhjIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ilwvdm1lc3MiLCJob3N0IjoiMTI3MC4wLjEuZGwzLlx1NzBjZlx1NTE0Ylx1NzIzZVx1NjJlZlx1NjU1MVx1ODA1Nlx1OGE5NVx1ODAwMVx1NGViYVx1OTZmYlx1NWY3MS55XHUwNDQwXHUwNDNhXHUwNDM1XHUwNDNiXHUwNDRjXHUwNDNmXHUwNDMwXHUwNDQxXHUwNDMwXHUwNDM1XHUwNDQyY1x1MDQzMFx1MDQzZFx1MDQ0Mlx1MDQ0My5cdTA0NDRcdTA0MzhcdTA0M2JcdTA0NGNcdTA0M2MudXJrZWwuXHU3MGNmXHU1MTRiXHU3MjNlXHU2NTUxXHU2M2Y0LndvbmthY2FwaXRhbm8uYnV6ei4iLCJ0bHMiOiIifQ==
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.119.66:22224?encryption=none&security=none&type=tcp#AutoAiVPN852185
 ss://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.35.127:443?security=tls&sni=ppAl03.MiKen-BRIx.wOrkeRS.dev&type=ws&host=pPaL03.MikeN-BrIX.wORkeRs.dev&path=%2FD2HKyB2105crnVdW%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#AutoAiVPN649642
@@ -4040,6 +4041,8 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.43.144.131:22224?encryption=none
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.118.124:22224?encryption=none&security=none&type=tcp#AutoAiVPN797476
 vmess://eyJhZGQiOiIyMDAxOmJjODozMmQ3OjFhOTo6MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIzYTk2NmQyMC03YjlkLTQ4Y2MtYmEyYy04ZDM4MTYxYjZkM2EiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL2dpdGh1Yi5jb21cL0FsdmluOTk5OS1uZXdwYWNcL2ZhbnFpYW5nIiwicGNzIjoiIiwicG9ydCI6IjIzMzg4IiwicHMiOiJBdXRvQWlWUE4zNjEzMTciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9
 vless://1a083e25-c9e1-451a-8412-6358a09f803b@207.241.172.254:4777?encryption=none&flow=xtls-rprx-vision&security=reality&sni=amp-api-edge.apps.apple.com&fp=firefox&pbk=8ZL2JgDP9gHkgGTbGF-uK8omfWkFplZnCH0N2_U18Uo&sid=01115788253bc845&type=tcp&headerType=none#AutoAiVPN603848
+ss://e4514801-0d5a-42ba-869f-39bd605aef9e@13.134.194.231:22224?encryption=none&security=none&type=tcp#AutoAiVPN860518
+ss://e4514801-0d5a-42ba-869f-39bd605aef9e@18.135.39.167:22224?encryption=none&security=none&type=tcp#AutoAiVPN860516
 ss://0243cef3-6acd-4cfe-8134-73c10375e61b@aa1.moneyvpn.org:443?security=reality&encryption=none&pbk=_LxyQkoYVgm1vILrTn227sQn9Fd1mk37r_687CpGLCk&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=aa1.moneyvpn.org&sid=8614922889abcdef#AutoAiVPN852286
 ss://9d1481a2-816e-44cf-9458-926e62f44a07@176.65.140.210:58761?security=&encryption=mlkem768x25519plus.native.0rtt.1tRra7JiahYSDxX_pIp2PyFQFnzFKhKfTesX6cbEnRY&headerType=none&type=tcp#AutoAiVPN590380
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.24.244.122:22222?encryption=none&security=none&type=tcp#AutoAiVPN836676
