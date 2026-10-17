@@ -4218,6 +4218,7 @@ vless://e054ea15-80b1-4d19-b422-6d6855c88364@pool.arosakforosh.ir:6422?mode=auto
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.173:443?encryption=none&type=tcp&security=reality&headerType=none&sni=yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a&flow=xtls-rprx-vision#AutoAiVPN375123
 vless://c065e1bb-cb56-41e5-b043-9dfd15b67565@152.233.43.77:16923?mode=gun&security=reality&encryption=none&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&type=grpc&serviceName=neurex&sni=api-maps.yandex.ru&sid=10ffb85da1c2d986#AutoAiVPN745599
 ss://76b3cbba-e6ac-485a-9481-336a0415eab9@172.67.157.202:80?security=none&type=ws&host=OLD-dISK-eFcd.jojAhof109.WoRKErs.dev#AutoAiVPN360362
+ss://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.90:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#AutoAiVPN927009
 ss://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.89:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&host=Telegram-Leviko_v2ray&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#AutoAiVPN630543
 ss://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.223:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#AutoAiVPN751599
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.223:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#AutoAiVPN751598
@@ -4422,6 +4423,7 @@ vless://48198295-b7ba-4b5c-8d85-085d55a6c869@168.138.165.1:45680?path=%2F&securi
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@47.236.202.91:2087?security=tls&sni=xine.ylks.link&type=ws&path=%2Fblue#AutoAiVPN525454
 ss://dda82e57-02c8-4d0b-9c6c-c2945e5509e5@kr.kefenhuimin.com:9001?security=reality&encryption=none&pbk=Ep_RxUq0kSY2xhXtVRHJNQPgl3V_T4UGhTzOYXVPQEk&headerType=none&fp=chrome&type=tcp&sni=www.apple.com&sid=458ff70ea97eeac2#AutoAiVPN669
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.236.83.239:2053?security=tls&sni=hke.ylks.xyz&type=ws&path=/?proxyip#AutoAiVPN340391
+ss://YWVzLTEyOC1nY206Yzg1NWI3MWUtZjNjMi00NDJhLTk0MjktMDg0NGViNDM0NmM1@ruot.ayucloudservices.nl:35005#AutoAiVPN927010
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@47.236.10.182:2083?security=tls&sni=vj.ylks.link&type=ws&path=%2F#AutoAiVPN386130
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@8.219.198.139:443?security=tls&sni=v667.YlKS.LINK&type=ws&path=%2Fpkms9hrhvbpq1ikg%3Fed#AutoAiVPN591580
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@47.236.202.91:8443?security=tls&sni=vi.ylks.link&type=ws&path=%2F#AutoAiVPN386087
