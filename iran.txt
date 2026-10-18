@@ -327,7 +327,6 @@ vless://1679af35-6dd6-4c09-ae3b-18f239217f3e@adf.ly:443?security=tls&sni=rAyAn-0
 ss://3ebb18cd-0a44-441a-ab7c-bed685abc1c1@141.193.213.20:443?security=tls&sni=443.gooshttest.online&type=grpc&alpn=h2,http/1.1#AutoAiVPN613021
 ss://a13df940-020c-465f-bc89-ee5279b5cd6a@216.24.57.141:443?security=tls&sni=zdyh.kpcloud.eu.org&type=ws&host=zdyh.kpcloud.eu.org&path=TG@juzibaipiao-橘子分享#AutoAiVPN308571
 ss://737678dc-cc15-4643-85a4-ca9359df1aa4@patient-moon-c61f.ggfsa55.workers.dev:443?encryption=none&fp=chrome&path=%2F&security=tls&sni=patient-moon-c61f.ggfsa55.workers.dev&type=ws#AutoAiVPN728810
-ss://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.223:443?security=tls&sni=hkh.ylks.xyz&type=ws&path=/blue#AutoAiVPN299794
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.223:443?security=tls&sni=hkh.ylks.xyz&type=ws&path=/blue#AutoAiVPN299790
 ss://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.113.219:80?security=none&type=ws&host=us3.rtacg.com&path=/#AutoAiVPN599278
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@94.247.142.245:2096?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F%3Fedfp#AutoAiVPN274504
@@ -352,6 +351,7 @@ vless://eeb6823c-b926-4ea2-866a-5542edd26e59@cloudflare-ip.mofashi.ltd:443?encry
 ss://f349f34a-dd0b-4b21-80a7-c2d424d0f63e@nova-coral-panel-7bfe.xofay83013.workers.dev:443?security=tls&type=ws&host=nova-coral-panel-7bfe.xofay83013.workers.dev&fp=chrome&sni=nova-coral-panel-7bfe.xofay83013.workers.dev&path=%2F&encryption=none#AutoAiVPN362997
 vless://f4f9695e-ecbd-479b-9b3b-53867755f9b5@www.parsvds.ir:8080?security=&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=8080&host=unlimiteddev-vpn.unlimiteddev.Community.&encryption=none#AutoAiVPN283148
 ss://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.21.225.111:80?security=none&type=ws&host=us3.rtacg.com&path=/#AutoAiVPN360379
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@youxuan.cf.090227.xyz:443?path=%2F&security=tls&encryption=none&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&sni=t1s1.rittbo.kdns.fr#AutoAiVPN302016
 vless://dd53235d-06c2-4120-9278-b93ddc969d0d@104.17.90.38:80?security=none&type=ws&path=%2Fsecure-vpn%2F&host=ppp.19bot.ir#AutoAiVPN328105
 vless://1149be91-5a4f-47de-995f-66f8d7d64498@154.197.75.85:2096?security=tls&sni=De14.SiMaNsAnAt.Ir.&type=ws&host=De14.SiMaNsAnAt.Ir.&fp=chrome&alpn=h2#AutoAiVPN591601
 ss://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@103.169.142.121:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2securityfp#AutoAiVPN274525
@@ -364,6 +364,7 @@ vless://3baac19a-7ed9-4ec2-bfa9-6128a9b14513@70.34.198.175:443?security=reality&
 trojan://humanity@43.169.18.179:443?host=www.creationlong.org&path=%2Fassignment&sni=www.creationlong.org&type=ws#AutoAiVPN941
 vless://f349f34a-dd0b-4b21-80a7-c2d424d0f63e@nova-coral-panel-7bfe.xofay83013.workers.dev:443?security=tls&type=ws&host=nova-coral-panel-7bfe.xofay83013.workers.dev&fp=chrome&sni=nova-coral-panel-7bfe.xofay83013.workers.dev&path=%2F&encryption=none#AutoAiVPN362996
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.37.20:80?security=none&type=ws&host=us3.rtacg.com&path=/#AutoAiVPN395072
+ss://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.147.43:80?type=ws&host=us3.rtacg.com&path=%2F#AutoAiVPN656410
 ss://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.17.134.117:2095?security=none&type=ws&path=%2F&host=cnmfangbinxing.cnmfangbinxing-q.workers.dev&packetEncoding=xudp#AutoAiVPN334437
 vless://fd5d3c04-9a43-7702-e70d-a3c53ff216f4@104.16.158.208:443?encryption=none&fp=chrome&host=ezpanslll.samankarami0686.workers.dev&path=/sync&security=tls&sni=ezpanslll.samankarami0686.workers.dev&type=ws#AutoAiVPN721009
 ss://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.242.17:80?security=none&type=ws&host=us3.rtacg.com&path=/#AutoAiVPN501361
@@ -392,6 +393,7 @@ vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.46.229:80?security=none&type
 vless://f2a72ad0-d23f-4eed-96cb-7d970b1e784d@194.76.18.60:80?path=%2Fvless%2F&security=none&encryption=none&host=ov-germany1.09vpn.com&type=ws#AutoAiVPN38780
 vmess://eyJhZGQiOiJndWFud2FuZy5hd3Nuby5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNmE4OWEyMTUtMjJiZi00YmQ3LTk2NDItYjk1YjJlMDk1ODNhIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBjcyI6IiIsInBvcnQiOiI0NDMiLCJwcyI6IkF1dG9BaVZQTjM2MTMxMiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0=
 vless://359b9ad3-0009-4655-8872-d0ab566751d3@31.43.179.111:2096?path=%2Fws%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=newgen14.hozheen.ir&fp=chrome&type=ws&allowInsecure=0&sni=d03298146e8e2fe6.hozheen.ir#AutoAiVPN658613
+ss://eeb6823c-b926-4ea2-866a-5542edd26e59@youxuan.cf.090227.xyz:443?path=%2F&security=tls&encryption=none&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&sni=t1s1.rittbo.kdns.fr#AutoAiVPN302017
 vless://fd5d3c04-9a43-7702-e70d-a3c53ff216f4@104.18.212.0:443?encryption=none&fp=chrome&host=ezpanslll.samankarami0686.workers.dev&path=/sync&security=tls&sni=ezpanslll.samankarami0686.workers.dev&type=ws#AutoAiVPN723501
 vless://073d1d50-8478-47bf-a828-7a1b381931d5@104.17.148.22:443?encryption=none&security=tls&sni=octopusss.net&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=octopusss.net&path=%2Fodiyfws#AutoAiVPN167222
 ss://a13df940-020c-465f-bc89-ee5279b5cd6a@217.163.76.73:443?security=tls&sni=jpd.ylks01.eu.org&type=ws&path=%2Fblue#AutoAiVPN656348
@@ -455,6 +457,7 @@ ss://edb4028d-e5f9-4d79-835c-7604fbd119b3@104.17.147.22:8080?security=none&type=
 vless://1149be91-5a4f-47de-995f-66f8d7d64498@104.21.116.106:8443?security=tls&sni=De02.SiMaNsAnAt.Ir.&type=ws&host=De02.SiMaNsAnAt.Ir.#AutoAiVPN360366
 ss://c8f3f81a-5276-48e9-af6b-c537fb4c7856@www.speedtest.net:2053?path=%2Fvl%2FOsFjUt6dnF7EC3EV%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=r7yhmg1zxnt120wmkag.mf1h0myptv4lougs7341bmttcz8.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=R7yHMg1zXNt120WmKAG.mF1H0mypTV4LOuGS7341BMtTCZ8.wOrKeRS.deV#AutoAiVPN664182
 vless://c8f3f81a-5276-48e9-af6b-c537fb4c7856@www.speedtest.net:2053?path=%2Fvl%2FOsFjUt6dnF7EC3EV%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=r7yhmg1zxnt120wmkag.mf1h0myptv4lougs7341bmttcz8.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=R7yHMg1zXNt120WmKAG.mF1H0mypTV4LOuGS7341BMtTCZ8.wOrKeRS.deV#AutoAiVPN664181
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.147.43:80?type=ws&host=us3.rtacg.com&path=%2F#AutoAiVPN656406
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.50.134:80?security=none&type=ws&host=us3.rtacg.com&path=/#AutoAiVPN656398
 ss://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.167.160:80?type=ws&host=kr1.175852.xyz&path=/abcde#AutoAiVPN656372
 ss://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.55.185:80?security=none&type=ws&host=us3.rtacg.com&path=/#AutoAiVPN599295
@@ -541,7 +544,6 @@ ss://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.157.103:443?security=tls&sni=mm
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@yx.cloudflare.182682.xyz:443?host=t1s1.rittbo.kdns.fr&fp=chrome&sni=t1s1.rittbo.kdns.fr&encryption=none&insecure=0&allowInsecure=0&type=ws&security=tls&path=%2F#AutoAiVPN98077
 ss://1149be91-5a4f-47de-995f-66f8d7d64498@104.21.116.106:8443?security=tls&sni=De02.SiMaNsAnAt.Ir.&type=ws&host=De02.SiMaNsAnAt.Ir.#AutoAiVPN360370
 ss://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.151.194:80?security=none&type=ws&host=us3.rtacg.com&path=/#AutoAiVPN360354
-ss://eeb6823c-b926-4ea2-866a-5542edd26e59@youxuan.cf.090227.xyz:443?path=%2F&security=tls&encryption=none&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&sni=t1s1.rittbo.kdns.fr#AutoAiVPN302017
 ss://a13df940-020c-465f-bc89-ee5279b5cd6a@154.92.9.30:2083?security=tls&sni=hkh.ylks.xyz&type=ws&path=%2Fyoutube-%E7%94%B1%E9%9B%B6%E9%96%8B%E5%A7%8B#AutoAiVPN299792
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@154.92.9.30:2083?security=tls&sni=hkh.ylks.xyz&type=ws&path=%2Fyoutube-%E7%94%B1%E9%9B%B6%E9%96%8B%E5%A7%8B#AutoAiVPN299788
 vmess://eyJ2IjoiMiIsInBzIjoiQXV0b0FpVlBONTk5Mjg3IiwiYWRkIjoiMTA0LjE5LjQ1LjQ3IiwicG9ydCI6IjIwODYiLCJ0eXBlIjoibm9uZSIsImlkIjoiZTllM2NjMTMtZGI0OC00Y2MxLThjMjQtNzYyNjQzOWE1MzM5IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6ImdpdGh1Yi5jb21cL0FsdmluOTk5OSIsImhvc3QiOiJpcDIuMTQ1NzIzMC54eXoiLCJ0bHMiOiIifQ==
@@ -808,6 +810,7 @@ ss://376b9861-2fc6-4647-959c-18185cd9c95a@104.31.16.36:443?path=%2Ffflsws&securi
 ss://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.93.247:80?security=none&type=ws&host=us3.rtacg.com&path=/#AutoAiVPN360373
 vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@108.162.194.119:443?path=%2Fsea&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=xqexv.greenwolf-ili.sbs&fp=chrome&type=ws&allowInsecure=0&sni=xqexv.greenwolf-ili.sbs#AutoAiVPN237462
 vmess://eyJ2IjoiMiIsInBzIjoiQXV0b0FpVlBONjAwMzE5IiwiYWRkIjoiMTA0LjE5LjMyLjQ2IiwicG9ydCI6IjIwODYiLCJ0eXBlIjoibm9uZSIsImlkIjoiMjllZWJiNjAtYjI3Yi00YTlkLWJiYTUtOTQ3NzYzZDkyMDVlIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6ImdpdGh1Yi5jb21cL0FsdmluOTk5OSIsImhvc3QiOiJpcDAwNi5kdGt1NDcueHl6IiwidGxzIjoiIn0=
+ss://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.83.58:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#AutoAiVPN656408
 vless://29ca503d-e6b8-4509-b666-48133f450857@162.159.8.155:443?path=%2Ffdip&security=tls&encryption=none&insecure=0&host=learn00.evany.de5.net&type=ws&allowInsecure=0&sni=learn00.evany.de5.net#AutoAiVPN237425
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.55.185:80?security=none&type=ws&host=us3.rtacg.com&path=/#AutoAiVPN599291
 vless://be758107-304a-4d0a-bf79-e4a393de69d8@185.146.173.37:80?security=none&type=ws&host=12.v.v.v-_-_-v2ray-_-_-v.v.v.c.www.speedtest.net.ov.zula.ir.cloudflare.com.pinocchio1.ir.&path=/#AutoAiVPN656352
@@ -922,7 +925,6 @@ vless://7b102311-43fd-4e8f-877e-8090623c101d@173.245.59.213:8443?encryption=none
 ss://cf39fab0-bb85-42cb-9945-2ad69d78e575@173.245.59.1:443?path=/GOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#AutoAiVPN308316
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.93.247:80?security=none&type=ws&host=us3.rtacg.com&path=/#AutoAiVPN360369
 ss://YWVzLTEyOC1nY206ZlNmM3g3Q3Rzc2FIcEwxSEM3MmRQUQ@www.asamping.ir:1468#AutoAiVPN795342
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.83.58:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#AutoAiVPN656404
 ss://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.81.19:80?security=none&type=ws&host=us3.rtacg.com&path=/#AutoAiVPN656363
 ss://f66b45a5-43b8-4601-ae98-5960aa07ca97@185.146.173.68:80?security=none&type=ws&host=1.www.speedtest.net.zula.ir.zemestanil.ir&path=%2FPROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM%3Fed%3D2048#AutoAiVPN331577
 vmess://eyJ2IjoiMiIsInBzIjoiQXV0b0FpVlBONTk5MjU2IiwiYWRkIjoiMTcyLjY0LjIzMy4yNCIsInBvcnQiOiIyMDg2IiwidHlwZSI6Im5vbmUiLCJpZCI6ImU5ZTNjYzEzLWRiNDgtNGNjMS04YzI0LTc2MjY0MzlhNTMzOSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiJnaXRodWIuY29tXC9BbHZpbjk5OTkiLCJob3N0IjoiaXAyLjE0NTcyMzAueHl6IiwidGxzIjoiIn0=
@@ -1234,7 +1236,7 @@ vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@173.245.59.109:443?path=%2FGOrbEh&s
 vless://telegram-id-ArV2ray@www.parsvds.ir:2095?path=/telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry?ed=2048&security=none&encryption=none&host=10.V.v.y.www.speedtest.net.ftp.debian.org.mashtimji.ir.&type=ws#AutoAiVPN360417
 ss://DIGIV2Ray@185.146.173.68:2095?Telegram=@V2RayTz,@V2RayTz&path=/DigiconnecT?ed=1024&security=none&encryption=none&host=wWw.vArZeSh3.Com.QUENTIN.1.1.1.1.radiotehran.org.&type=ws#AutoAiVPN395088
 vless://c5389662-95a5-4e51-8bc2-e94d8f42af22@104.16.92.229:80?path=%2F&security=none&encryption=none&host=ads01-cdn.sabzi.name.ng.&type=ws#AutoAiVPN98075
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.147.43:80?type=ws&host=us3.rtacg.com&path=%2F#AutoAiVPN656406
+ss://51866260-8c74-4788-8ded-a0e25741df2c@172.67.204.84:8080?type=ws&host=unlimiteddev-vpn.unlimiteddev.Community.&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed%3D8080#AutoAiVPN299795
 ss://c854ace9-1dc7-4fc4-b87b-6b00db3cc4ed@185.146.173.237:443?security=tls&sni=fifth.pinocchio1.ir&type=grpc&fp=chrome&alpn=http/1.1#AutoAiVPN656401
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.217.24:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#AutoAiVPN656382
 vless://fd5d3c04-9a43-7702-e70d-a3c53ff216f4@104.24.88.105:443?encryption=none&fp=chrome&host=ezpanslll.samankarami0686.workers.dev&path=/sync&security=tls&sni=ezpanslll.samankarami0686.workers.dev&type=ws#AutoAiVPN721017
@@ -1350,6 +1352,7 @@ ss://ff84663d-b92a-424b-b400-08b6f21ee0fb@104.21.3.52:80?security=none&type=ws&h
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.105.123:80?type=ws&host=us3.rtacg.com&path=/#AutoAiVPN509048
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.177.7:80?security=none&type=ws&host=us3.rtacg.com&path=/#AutoAiVPN360408
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.111.71:80?security=none&type=ws&host=us3.rtacg.com&path=/#AutoAiVPN658236
+ss://518bd7b3-f67c-4fce-f601-54506be8969c@104.18.14.19:80?security=none&type=ws&host=Tgju.orG.BaZar.ir.visAa.CoM.SairKop.WebSitE.&path=%2FTelegram%3A%40Client_Proo-Telegram%3A%40Client_Proo-Telegram%3A%40Client_Proo-Telegram%3A%40Client_Proo-Telegram%3A%40Client_Proo#AutoAiVPN299793
 ss://0ebb1677-4902-476f-bc03-3e8c7ca6fd21@104.21.80.190:443?security=tls&sni=node.vauth.workers.dev&type=ws&host=node.vauth.workers.dev&fp=chrome#AutoAiVPN299787
 ss://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.217.24:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#AutoAiVPN656386
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.88.252:80?security=none&type=ws&host=us3.rtacg.com&path=/#AutoAiVPN656374
@@ -1790,7 +1793,6 @@ ss://c44f1b2e-bad3-547f-f141-06ce528253be@69.46.46.253:443?path=%2Fws%2Fc44f1b2e
 vmess://eyJhZGQiOiIxNzIuNjYuNDQuOTciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IlBvbDEubE9vbE9vbG9PbE9vLkNPTS4iLCJpZCI6IjczMTA2NzM5LThiZmItNGY1OS04ZDk1LTA4NmVkMjA3Y2M0ZiIsImluc2VjdXJlIjoiMCIsIm5ldCI6Imh0dHB1cGdyYWRlIiwicGF0aCI6IlwvZWQ9PzIwNDgiLCJwb3J0IjoiMjA5NSIsInBzIjoiQXV0b0FpVlBOMzk1MTM2Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.3.221:80?security=none&type=ws&host=us3.rtacg.com&path=/#AutoAiVPN360415
 vless://416f18ec-11f3-4648-9693-8c6480d0662d@104.18.1.125:2082?type=ws&host=PbDpGsCo2.HaMeCi-dSsTeMaNe.oRg&path=%2F#AutoAiVPN395066
-ss://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.147.43:80?type=ws&host=us3.rtacg.com&path=%2F#AutoAiVPN656410
 ss://fd5d3c04-9a43-7702-e70d-a3c53ff216f4@104.18.212.0:443?encryption=none&fp=chrome&host=ezpanslll.samankarami0686.workers.dev&path=/sync&security=tls&sni=ezpanslll.samankarami0686.workers.dev&type=ws#AutoAiVPN723502
 ss://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.30.217:80?security=none&type=ws&host=us1.rtacg.com&path=/#AutoAiVPN299785
 ss://fd5d3c04-9a43-7702-e70d-a3c53ff216f4@104.25.96.84:443?encryption=none&fp=chrome&host=ezpanslll.samankarami0686.workers.dev&path=/sync&security=tls&sni=ezpanslll.samankarami0686.workers.dev&type=ws#AutoAiVPN721022
@@ -2154,7 +2156,6 @@ vless://7b102311-43fd-4e8f-877e-8090623c101d@198.41.208.53:2083?encryption=none&
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.120.76:80?security=none&type=ws&host=us3.rtacg.com&path=/#AutoAiVPN360382
 ss://681314c5-b3ee-41f1-a959-fa42841f5383@cdn2.portalcode.ir:2095?path=%2F&security=&encryption=none&host=usv4.monopolitass.ir&type=httpupgrade#AutoAiVPN658612
 ss://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.111.71:80?security=none&type=ws&host=us3.rtacg.com&path=/#AutoAiVPN658240
-ss://518bd7b3-f67c-4fce-f601-54506be8969c@104.18.14.19:80?security=none&type=ws&host=Tgju.orG.BaZar.ir.visAa.CoM.SairKop.WebSitE.&path=%2FTelegram%3A%40Client_Proo-Telegram%3A%40Client_Proo-Telegram%3A%40Client_Proo-Telegram%3A%40Client_Proo-Telegram%3A%40Client_Proo#AutoAiVPN299793
 ss://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.186.244.184:81?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#AutoAiVPN656392
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.81.19:80?security=none&type=ws&host=us3.rtacg.com&path=/#AutoAiVPN656360
 vless://5efad8b5-df60-4d26-b943-c6d2a1a98526@49.13.44.1:4030?security=reality&sni=zula.ir&type=tcp&fp=firefox&pbk=YsIMwJCi1GWR2wb36LFtuUJDKjPiI-py0ApJL-8Wdhk&sid=b7d1d4fed44b8223#AutoAiVPN599269
@@ -2216,6 +2217,7 @@ vless://1de40725-3e6b-42b1-9e3e-330c852d049e@172.66.45.31:8443?security=tls&sni=
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.67.170.11:443?path=%2F&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#AutoAiVPN237465
 trojan://2223970e6a0b8ad289d3c43dd85dd2c9@151.101.56.90:443?mode=auto&security=tls&alpn=h2&extra=%7B%22uplinkDataPlacement%22%3A%22auto%22%7D&insecure=0&host=denyyyour-name.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=ssl.fastly.com#AutoAiVPN792812
 ss://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.163.222:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#AutoAiVPN304477
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.83.58:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#AutoAiVPN656404
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.17.134.117:2095?security=none&type=ws&path=%2F&host=cnmfangbinxing.cnmfangbinxing-q.workers.dev&packetEncoding=xudp#AutoAiVPN334436
 ss://00ba09be-b38c-4780-968e-010168a7dc02@104.18.7.87:8080?security=none&type=ws&host=de.%E8%BF%87%E6%BB%A4%E5%99%A8.store.&path=%2Fmelov2ray#AutoAiVPN299548
 vless://00ba09be-b38c-4780-968e-010168a7dc02@104.18.7.87:8080?security=none&type=ws&host=de.%E8%BF%87%E6%BB%A4%E5%99%A8.store.&path=%2Fmelov2ray#AutoAiVPN299544
@@ -2269,6 +2271,8 @@ vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80?path=%2F&security=
 ss://eeb6823c-b926-4ea2-866a-5542edd26e59@104.21.94.161:443?security=tls&type=ws&path=%2F&host=t1s1.rittbo.kdns.fr&packetEncoding=xudp&sni=t1s1.rittbo.kdns.fr&fp=chrome&encryption=none#AutoAiVPN237630
 vless://23b3cbba-e6ac-485a-9481-342a0415eab9@172.67.163.41:80?security=none&type=ws&host=DaWn-lAKE-d5E3.WocoYA4320.wOrkERs.DeV&path=%2FwP3dwCyRAVyMJFfW%3Fed%3D2560#AutoAiVPN360388
 vless://76b3cbba-e6ac-485a-9481-336a0415eab9@172.67.157.202:80?security=none&type=ws&host=OLD-dISK-eFcd.jojAhof109.WoRKErs.dev#AutoAiVPN360358
+ss://CONFIG-WANCLOUDFA@49.12.64.220:443?security=none&encryption=none&headerType=none&type=tcp#AutoAiVPN62
+vless://CONFIG-WANCLOUDFA@49.12.64.220:443?security=none&encryption=none&headerType=none&type=tcp#AutoAiVPN61
 vless://c854ace9-1dc7-4fc4-b87b-6b00db3cc4ed@185.146.173.237:443?security=tls&sni=fifth.pinocchio1.ir&type=grpc&fp=chrome&alpn=http/1.1#AutoAiVPN656397
 vmess://eyJ2IjoiMiIsInBzIjoiQXV0b0FpVlBONTk5MjkzIiwiYWRkIjoiMTA0LjE5LjQ3LjExMyIsInBvcnQiOiI4MDgwIiwidHlwZSI6Im5vbmUiLCJpZCI6ImI1NTFhYTIyLTIyYWYtMTFlZS1iOGQ4LWYyM2M5MzJlYjY4ZCIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLz9lZD0yMDQ4JlRlbGVncmFtXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIEBXYW5nQ2FpMiIsImhvc3QiOiJvaWljdHcueXlkc2lpLmNvbSIsInRscyI6IiJ9
 trojan://MiTiVPN@199.232.78.101:443?path=%2F--TELEGRAM--TOOTFFARANGI&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn---ss--s---mitivpn-11.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#AutoAiVPN721023
@@ -2439,7 +2443,6 @@ vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.245.15:80?security=none&type
 ss://ba6016d9-cd7a-467f-9589-3e29708b11a1@104.21.29.41:2082?security=none&type=ws&host=Se1.vless.site.&path=TG@juzibaipiao-ж©ҳеӯҗеҲҶдә«#AutoAiVPN360384
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.12.172:2095?type=ws&host=bpbG.168168.us.KG&path=/P6VFA2czxm3itJDU/cHJveHlpcC5oay5meHhrLmRlZHluLmlv%3Fed%3D2560#AutoAiVPN304481
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.21.94.161:443?security=tls&type=ws&path=%2F&host=t1s1.rittbo.kdns.fr&packetEncoding=xudp&sni=t1s1.rittbo.kdns.fr&fp=chrome&encryption=none#AutoAiVPN237447
-vless://CONFIG-WANCLOUDFA@49.12.64.220:443?security=none&encryption=none&headerType=none&type=tcp#AutoAiVPN61
 vless://5ed96588-c4ad-4ef5-af61-af178bf77f57@areal2.greewebservices.ir:3435?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=e3085d4fc679ba12#AutoAiVPN334434
 ss://ce7054ba-ce11-43a7-90ca-32ea1adfafc5@assets.sinafc.ir:8443?encryption=none&fp=random&pbk=9LyZjKAQkh2_FwDS21QVW05gfBRR77KjatFS8EtRyU4&security=reality&sid=ab5b&sni=github.com&spx=%2F5223b3c00c8f21c&type=tcp#AutoAiVPN461955
 ss://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.12.172:2083?security=tls&sni=bPbg.168168.us.KG&type=ws&host=BPBG.168168.uS.KG&path=/fHprZwZA4mLi4c1F/cHJveHlpcC5oay5meHhrLmRlZHluLmlv%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#AutoAiVPN299542
@@ -2501,7 +2504,7 @@ vless://97ea73b6-2043-4238-903c-a1e3d4a43c96@104.27.66.214:2087?security=tls&typ
 vless://ace5ddbf-af37-407c-8cdd-d0ba99dfa091@104.26.3.186:443?security=tls&sni=leader.torobgate.ir&type=ws&host=lead.torobgate.ir&path=/&fp=chrome#AutoAiVPN360368
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.21.30.135:80?security=none&type=ws&host=us3.rtacg.com&path=/#AutoAiVPN360351
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.163.222:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#AutoAiVPN304473
-ss://CONFIG-WANCLOUDFA@49.12.64.220:443?security=none&encryption=none&headerType=none&type=tcp#AutoAiVPN62
+ss://52e194ba-cdf5-4a7d-d146-d8b06f8a698b@51.75.91.144:23300?security=none&encryption=none&headerType=none&type=tcp#AutoAiVPN60
 ss://e6f7b511-21d0-4b87-9ec2-b2e69fce585f@31.76.39.82:443?security=reality&encryption=none&pbk=H1JaOe98X40ZNMlcUXEDk8nH1OxSKjVPXN5dBWuARlw&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=53b022e5fb8912d5#AutoAiVPN725662
 ss://513beae3-56e7-4954-a17e-930e06237b27@188.114.97.8:443?path=%2Fvl%2FFuJlzLUhMmosE6ySAHYtJDUq6XlF%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=cfoi-2fx16g3-8ry2kdxmcj.wjesv2ila3rxbuhpc2nsugrachgawk.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=cFOi-2fX16G3-8ry2KDxMcJ.wjESV2IlA3rXBuhpC2NsUgrAChGAWk.wOrKerS.DEv#AutoAiVPN723496
 ss://5ed96588-c4ad-4ef5-af61-af178bf77f57@areal2.greewebservices.ir:3435?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=e3085d4fc679ba12#AutoAiVPN334435
@@ -2611,6 +2614,7 @@ ss://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.209.44:80?security=none&type=ws
 vless://00a84cc6-073c-454b-9487-f0b7238e715f@89.106.86.58:443?security=reality&encryption=none&pbk=9sQq7VaSTZB6E4NAkNVg1diZYb8NC2Tj-Sbvt49UEjk&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=download.amd.com&sid=b87b873f67c7f7f8#AutoAiVPN98094
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.67.208:22223?encryption=none&security=none&type=tcp#AutoAiVPN860635
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.67.208:22224?encryption=none&security=none&type=tcp#AutoAiVPN860512
+vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@dl.onetimeok.com:443?mode=gun&security=reality&encryption=none&pbk=4o20JlNKKsAzSGEvEMw6g1A8Ij37tiSU1CFwTZI4b3o&fp=chrome&type=grpc&serviceName=api.v2.PushService&sni=dl.onetimeok.com&sid=8ba32e7cefbf524a#AutoAiVPN212
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.86.248:80?security=none&type=ws&host=us3.rtacg.com&path=/#AutoAiVPN656389
 vless://0ebb1677-4902-476f-bc03-3e8c7ca6fd21@104.21.80.190:443?security=tls&sni=node.vauth.workers.dev&type=ws&host=node.vauth.workers.dev&fp=chrome#AutoAiVPN299783
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.188.116:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#AutoAiVPN331566
@@ -2782,7 +2786,6 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.176.35.152:22223?encryption=none
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.180.5.45:22222?encryption=none&security=none&type=tcp#AutoAiVPN868576
 ss://c28ee61d-0d43-4e69-8e6a-6397ed0ffc03@94.102.51.218:443?security=reality&encryption=none&pbk=SHDdd617KLHHb0qlQFOHepeHFl_Ch2i-K7o891uyo2M&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=fair-lunar.cdn.cachefleet.com#AutoAiVPN363141
 ss://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.46:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=firefox&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5&type=tcp&headerType=none#AutoAiVPN98284
-vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.46:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=firefox&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5&type=tcp&headerType=none#AutoAiVPN98070
 vmess://eyJ2IjoiMiIsInBzIjoiQXV0b0FpVlBONTk5MjU1IiwiYWRkIjoiMTQxLjEwMS4xMTUuMTkiLCJwb3J0IjoiODAiLCJ0eXBlIjoibm9uZSIsImlkIjoiMmFjNGUyNjktMTU3Ni00ZjQxLThjMGQtNjI0MmUzYzVmZDhjIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ilwvdm1lc3MiLCJob3N0IjoiMTI3MC4wLjEuZGwzLlx1NzBjZlx1NTE0Ylx1NzIzZVx1NjJlZlx1NjU1MVx1ODA1Nlx1OGE5NVx1ODAwMVx1NGViYVx1OTZmYlx1NWY3MS55XHUwNDQwXHUwNDNhXHUwNDM1XHUwNDNiXHUwNDRjXHUwNDNmXHUwNDMwXHUwNDQxXHUwNDMwXHUwNDM1XHUwNDQyY1x1MDQzMFx1MDQzZFx1MDQ0Mlx1MDQ0My5cdTA0NDRcdTA0MzhcdTA0M2JcdTA0NGNcdTA0M2MudXJrZWwuXHU3MGNmXHU1MTRiXHU3MjNlXHU2NTUxXHU2M2Y0LndvbmthY2FwaXRhbm8uYnV6ei4iLCJ0bHMiOiIifQ==
 vless://0de87762-7d50-49e7-a5ae-7ac85760e083@skk.moe:8880?host=delicate-fog-bbae.205-635.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net+&security=none&type=ws#AutoAiVPN461828
 ss://2b1b4acf-109c-454d-8a9a-6acc48ed64eb@38.180.70.206:8080?type=tcp&security=none#AutoAiVPN237219
@@ -2821,7 +2824,6 @@ ss://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.125.183:22222?encryption=none&s
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.67.208:22222?encryption=none&security=none&type=tcp#AutoAiVPN860622
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.125.183:22224?encryption=none&security=none&type=tcp#AutoAiVPN860514
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.125.183:22224?encryption=none&security=none&type=tcp#AutoAiVPN860513
-vless://52e194ba-cdf5-4a7d-d146-d8b06f8a698b@51.75.91.144:23300?security=none&encryption=none&headerType=none&type=tcp#AutoAiVPN59
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.26.0.205:80?security=none&type=ws&host=us3.rtacg.com&path=/#AutoAiVPN326188
 ss://89f8b5cd-f3d7-4562-c16e-69b436c2e063@104.21.70.39:2082?security=none&type=ws&host=nim.foxnim.xyz.&path=%2F%3Fed%3D2048#AutoAiVPN591605
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.85.72:80?security=none&type=ws&host=us3.rtacg.com&path=/#AutoAiVPN647841
@@ -2963,7 +2965,7 @@ ss://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:2096?path=%2FBo9FLfQ
 ss://2a12bb81-f3a3-41bb-99ab-36febf676b4a@109.69.218.217:443?security=reality&encryption=none&pbk=8hse7wRRL-F66rQ-aAeetKTw0MSeJC7Rr6EaDeLzdCU&headerType=&fp=random&type=tcp&flow=xtls-rprx-vision&sni=bold-kestrel.cdn.cachefleet.com#AutoAiVPN395138
 ss://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.37.20:80?security=none&type=ws&host=us3.rtacg.com&path=/#AutoAiVPN395075
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@13.134.194.231:22222?encryption=none&security=none&type=tcp#AutoAiVPN860629
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@youxuan.cf.090227.xyz:443?path=%2F&security=tls&encryption=none&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&sni=t1s1.rittbo.kdns.fr#AutoAiVPN302016
+vless://52e194ba-cdf5-4a7d-d146-d8b06f8a698b@51.75.91.144:23300?security=none&encryption=none&headerType=none&type=tcp#AutoAiVPN59
 ss://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.50.134:80?security=none&type=ws&host=us3.rtacg.com&path=/#AutoAiVPN656402
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.167.160:80?type=ws&host=kr1.175852.xyz&path=/abcde#AutoAiVPN656368
 ss://bc6e7cf0-9526-4fea-b2e3-5bcf992c565e@blog.webex.com:443?path=%2Fmy-kc&security=tls&encryption=none&host=blog.webex.com.yxls.eu.cc&fp=chrome&type=ws&sni=blog.webex.com.yxls.eu.cc#AutoAiVPN540
@@ -3018,8 +3020,6 @@ vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@172.64.154.8:2095?path=%2F%3Fed%3D2
 ss://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.148.80:80?security=none&type=ws&host=us3.rtacg.com&path=/#AutoAiVPN664667
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.124.32:80?security=none&type=ws&host=us3.rtacg.com&path=/#AutoAiVPN509039
 ss://f178a8ac-48ca-4510-8a16-4ef6f972f240@104.16.71.182:443?path=%2FeyJqdW5rIjoiYTJzRVB1QW1HQSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=fLoRAl-fire-1f55.vEeGsHHEehH.WorKErs.dev#AutoAiVPN360895
-vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@dl.onetimeok.com:443?mode=gun&security=reality&encryption=none&pbk=4o20JlNKKsAzSGEvEMw6g1A8Ij37tiSU1CFwTZI4b3o&fp=chrome&type=grpc&serviceName=api.v2.PushService&sni=dl.onetimeok.com&sid=8ba32e7cefbf524a#AutoAiVPN212
-ss://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.83.58:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#AutoAiVPN656408
 vless://e6f7b511-21d0-4b87-9ec2-b2e69fce585f@31.76.39.82:443?security=reality&encryption=none&pbk=H1JaOe98X40ZNMlcUXEDk8nH1OxSKjVPXN5dBWuARlw&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=53b022e5fb8912d5#AutoAiVPN725661
 vless://fd5d3c04-9a43-7702-e70d-a3c53ff216f4@104.25.96.84:443?encryption=none&fp=chrome&host=ezpanslll.samankarami0686.workers.dev&path=/sync&security=tls&sni=ezpanslll.samankarami0686.workers.dev&type=ws#AutoAiVPN721021
 vless://cfb6d9ad-7a14-4061-b159-8902fd73bb52@185.146.173.200:2095?security=none&type=ws&host=DigiV2ray---_-_---DIGIq.radioTehran.org.#AutoAiVPN656351
@@ -3225,6 +3225,7 @@ ss://cf39fab0-bb85-42cb-9945-2ad69d78e575@173.245.59.66:443?path=%2FGOrbEh&secur
 vless://0f6ecc1c-4cd4-4f69-970e-a385d9c5afe3@nl-04.vacvps.com:443?security=reality&encryption=none&pbk=LyVBHJ_qK2ron24Qfw_mhZ8n-T94xHCzXPrFM02EaQw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nl-04.vacvps.com#AutoAiVPN432047
 vless://f04cc810-aaf2-4a7b-8cad-356cdd30d394@tg1.cdnphotos.org:443?mode=auto&path=%2Fapi%2Fv1%2F&security=tls&encryption=none&insecure=0&fp=random&type=xhttp&allowInsecure=0&sni=tg1.cdnphotos.org#AutoAiVPN863228
 vmess://eyJhZGQiOiIyMDYuMS4xMDMuMTU1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjZjZWNhYWFkLWZhZGMtNGYxYy05YTc5LWI1ZjdmYTk5NTA3NiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiMTM2MjEiLCJwcyI6IkF1dG9BaVZQTjg2MzIyNyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0=
+ss://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.223:443?security=tls&sni=hkh.ylks.xyz&type=ws&path=/blue#AutoAiVPN299794
 ss://39248a56-c0fa-4246-8b1b-84c9e57126d2@185.146.173.52:2052?security=none&sni=fr1.vless.site&type=ws&host=Fr1.vless.site.&path=/vless#AutoAiVPN326204
 vless://799b1006-3255-4e36-8ea0-64fe24d2bfa7@news.zoom.us:8443?security=tls&encryption=none&insecure=0&host=asia.csmaster.site&fp=chrome&type=ws&allowInsecure=0&sni=asia.csmaster.site#AutoAiVPN857154
 trojan://humanity@188.114.97.7:443?path=%2Fassignment&security=tls&insecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#AutoAiVPN885
@@ -3259,6 +3260,7 @@ ss://3ba9dc6a-81e9-44fc-8d98-2d72c87a74ae@157.230.29.236:28890?security=none&enc
 vless://2a12bb81-f3a3-41bb-99ab-36febf676b4a@109.69.218.217:443?security=reality&encryption=none&pbk=8hse7wRRL-F66rQ-aAeetKTw0MSeJC7Rr6EaDeLzdCU&headerType=&fp=random&type=tcp&flow=xtls-rprx-vision&sni=bold-kestrel.cdn.cachefleet.com#AutoAiVPN395137
 ss://6df800b7-d053-5232-9d0d-ac6c80a44e6c@104.21.94.80:2053?security=tls&sni=arkarain.arkarain-co.wOrKErS.DEv&type=ws&host=arkarain.arkarain-co.wOrKErS.DEv&path=%2Fvless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h3%2Ch2%2Chttp%2F1.1#AutoAiVPN360405
 ss://359b9ad3-0009-4655-8872-d0ab566751d3@31.43.179.111:2096?path=%2Fws%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=newgen14.hozheen.ir&fp=chrome&type=ws&allowInsecure=0&sni=d03298146e8e2fe6.hozheen.ir#AutoAiVPN658614
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@31.171.152.222:1080#AutoAiVPN302018
 ss://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.99.235:80?security=none&type=ws&host=us3.rtacg.com&path=/#AutoAiVPN656391
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozcFVSdVRVZi1sRmdnNXFXZzhldUZB@176.97.76.206:1080#AutoAiVPN599258
 ss://a13df940-020c-465f-bc89-ee5279b5cd6a@159.112.235.222:443?security=tls&sni=hkf.ylks.xyz&type=ws&path=%2F%3Fproxyip#AutoAiVPN327014
@@ -3375,6 +3377,7 @@ vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.127.171:443?security=tls&sni
 ss://cf7a7a1f-8cfb-439c-ab68-fab77c851797@104.21.75.149:8443?security=tls&sni=ch1.melobigg.site&type=ws&path=/melov2ray&fp=chrome&alpn=http/1.1,h2&allowInsecure=false#AutoAiVPN509102
 ss://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.96.103:80?security=none&type=ws&host=us3.rtacg.com&path=/#AutoAiVPN509087
 ss://7a5a4624-df8d-4955-bccc-b3fa6161411f@172.67.139.111:443?path=%2FTelegram-XV2ry2%3Fed%3D512&security=tls&encryption=none%3D%2F%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran&host=Telegram-w-XV2ray--XV2ray-XV2ray-XV2ray-XV2ray-XV2ray.pages.dev&type=ws&sni=Pages.dev#AutoAiVPN260747
+ss://ffffffff-17ad-45e7-aaa1-f2baaa08e930@141.101.113.89:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=watashi.free.hkpublic.moh539.link&type=ws&sni=watashi.free.hkpublic.moh539.link#AutoAiVPN64
 vless://03707fb7-0990-440f-88f6-b0e0f7242a38@push.sukario.ir:2087?path=%2F&security=tls&encryption=none&insecure=0&host=tot1.erooo12345.xyz&fp=chrome&type=ws&allowInsecure=0&sni=tot1.erooo12345.xyz#AutoAiVPN237414
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.121.232:80?security=none&type=ws&host=us3.rtacg.com&path=/#AutoAiVPN656345
 ss://43b3cbba-e6ac-484a-9481-976a0415eab9@104.21.82.111:443?security=tls&sni=eseTsEcuRiTYLiceNse.pONoD65798.WORKErS.Dev&type=ws&host=ESetseCuRITYliceNSe.Ponod65798.worKerS.deV&fp=chrome&alpn=h2,http/1.1#AutoAiVPN501319
@@ -3553,7 +3556,6 @@ ss://236a784b-2506-4236-b336-00f2f792986a@172.67.171.46:80?security=none&type=ws
 vmess://eyJhZGQiOiIxMDQuMjEuNC42IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJnbHdlaWRmLmNmZCIsImlkIjoiMTA1MmYyNGUtN2IwOS00NWViLWIwYzUtZDg1OGViMTI0MTkyIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9saW5rd3MiLCJwb3J0IjoiNDQzIiwic2N5IjoiYXV0byIsInNuaSI6Imdsd2VpZGYuY2ZkIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIiwicHMiOiJBdXRvQWlWUE4zNjA0MDQifQ==
 ss://5e2be2b4-8af5-4d18-a15c-d4cb4b1d6ae6@104.20.45.4:2083?path=%2F&security=tls&encryption=none&insecure=1&host=shopki.dearhossein-taktaz.ir&fp=chrome&type=ws&allowInsecure=1&sni=shopki.dearhossein-taktaz.ir#AutoAiVPN656562
 vless://5e2be2b4-8af5-4d18-a15c-d4cb4b1d6ae6@104.20.45.4:2083?path=%2F&security=tls&encryption=none&insecure=1&host=shopki.dearhossein-taktaz.ir&fp=chrome&type=ws&allowInsecure=1&sni=shopki.dearhossein-taktaz.ir#AutoAiVPN656561
-ss://51866260-8c74-4788-8ded-a0e25741df2c@172.67.204.84:8080?type=ws&host=unlimiteddev-vpn.unlimiteddev.Community.&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed%3D8080#AutoAiVPN299795
 ss://ce7054ba-ce11-43a7-90ca-32ea1adfafc5@assets.sinafc.ir:443?encryption=none&fp=chrome&pbk=uSoNVrVIdQ5Y0YOpDCRkaYK5VAzYG6tCPtTc4cim7Tw&security=reality&sid=82&sni=eventadm.semiconductor.samsung.com&spx=%2Fb2bf44facd028f1&type=tcp#AutoAiVPN461821
 ss://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@81.95.4.189:443?path=%2Fvws%2F&security=tls&encryption=none&insecure=0&host=bab-6.site&fp=chrome&type=ws&allowInsecure=0&sni=bab-6.site#AutoAiVPN857159
 ss://2554611b-77d7-4383-8c69-40678460cc90@144.31.0.94:8443?security=reality&encryption=none&pbk=KC-KbxeFaEAxGu-cIdF98U0PqsXb5Y1XHjiRsN58MF0&headerType=none&fp=safari&spx=%2FzhkRh0D3gNAjznC&type=tcp&flow=xtls-rprx-vision&sni=conv-pl.unit-digital.com&sid=b0dea4acc5c5#AutoAiVPN843993
@@ -3581,7 +3583,6 @@ vless://c46a54bf-b220-4c22-cd6e-fb1fcabda0af@104.16.61.8:2083/?type=ws&encryptio
 vless://a3524d93-994e-450b-8512-f8eabf1fb127@66.33.22.237:16523?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=fP2Z44XRYFCfmKnYTbJZWQEtMxQacWc21Ocl3qr9kXs&fp=chrome&spx=%2Fadb4c2845bd0819&type=xhttp&sni=www.dog.ai&sid=1abab1d586#AutoAiVPN805110
 vless://5a0a6cc6-a6be-4988-a6f4-97fbb272d3a2@crossover.proxy.rlwy.net:20699?path=%2F&security=none&encryption=none&type=ws#AutoAiVPN671639
 vless://1a083e25-c9e1-451a-8412-6358a09f803b@207.241.172.254:4777?encryption=none&flow=xtls-rprx-vision&security=reality&sni=amp-api-edge.apps.apple.com&fp=firefox&pbk=8ZL2JgDP9gHkgGTbGF-uK8omfWkFplZnCH0N2_U18Uo&sid=01115788253bc845&type=tcp&headerType=none#AutoAiVPN603848
-ss://ffffffff-17ad-45e7-aaa1-f2baaa08e930@141.101.113.89:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=watashi.free.hkpublic.moh539.link&type=ws&sni=watashi.free.hkpublic.moh539.link#AutoAiVPN64
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.186.244.184:81?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#AutoAiVPN656388
 vless://d26a9be3-593a-3631-7f4b-4c27113188c0@x4g-production-6be3.up.railway.app:443?encryption=none&security=tls&type=ws&host=x4g-production-6be3.up.railway.app&path=/ws/d26a9be3-593a-3631-7f4b-4c27113188c0&sni=x4g-production-6be3.up.railway.app&fp=ios&alpn=http/1.1#AutoAiVPN58487
 vless://55ccbeb5-0bf4-4e4d-afcb-23c038e73e00@131.123.13.93:443?security=reality&encryption=none&pbk=rj3rvl7AGOd0NOPrX6h2c1auXGnCBJTPMDeT86AMvBA&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=1mcfn.67resserv67.info&sid=29455a3a790acbd0#AutoAiVPN828592
@@ -3627,7 +3628,6 @@ vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@tracker.oneokgames.com:443?encrypti
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.129.188:22223?encryption=none&security=none&type=tcp#AutoAiVPN868586
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@35.180.5.45:22222?encryption=none&security=none&type=tcp#AutoAiVPN868577
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@172.67.144.200:80?security=none&type=ws&host=us3.rtacg.com&path=/#AutoAiVPN658242
-ss://52e194ba-cdf5-4a7d-d146-d8b06f8a698b@51.75.91.144:23300?security=none&encryption=none&headerType=none&type=tcp#AutoAiVPN60
 vmess://eyJ2IjoiMiIsImFkZCI6IjE3Mi42Ny4xNTYuMjIiLCJwb3J0IjoiNDQzIiwiaWQiOiJmNTg0ZGUxNS0yMDM0LTQxNzAtYTcyMy1mNDhjMmJhZTVlMGYiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoibmV6dWtvLnJhaWRlbnNob2d1bi5jbG91ZG5zLm9yZyIsInBhdGgiOiJcL2xpbmt3c1wvYWZyaG1zMTZ2LmJlc3R4cmF5LmJ1enoiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJuZXp1a28ucmFpZGVuc2hvZ3VuLmNsb3VkbnMub3JnIiwiYWxwbiI6IiIsImZwIjoiIiwicHMiOiJBdXRvQWlWUE4yOTk1MDkifQ==
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@13.41.71.80:22223?encryption=none&security=none&type=tcp#AutoAiVPN927047
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.236.155:22222?encryption=none&security=none&type=tcp#AutoAiVPN927020
@@ -3702,7 +3702,6 @@ vless://514bc33d-a62d-4f36-ba1a-8fc846e6c5be@104.21.20.148:80?security=none&type
 ss://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.145.156:80?security=none&type=ws&host=us3.rtacg.com&path=/#AutoAiVPN647862
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@190.93.246.77:80?security=none&type=ws&host=us3.rtacg.com&path=/#AutoAiVPN485358
 ss://YWVzLTI1Ni1nY206S2tEelkxMDFPZQ==@51.195.149.115:45816#AutoAiVPN267905
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@31.171.152.222:1080#AutoAiVPN302018
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.185.140:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#AutoAiVPN394919
 vless://31f345f3-b8eb-4ca6-8b14-bb555ae2c1f9@172.66.132.196:8880?path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&security=&encryption=none&host=tiny-feather-4c41.227.workers.dev&type=ws#AutoAiVPN745595
 ss://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.185.140:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#AutoAiVPN394922
