@@ -4472,6 +4472,7 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.159.213:22223?encryption=none
 ss://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.120.1:80?security=none&type=ws&host=us3.rtacg.com&path=%2F#AutoAiVPN501341
 trojan://telegram-id-privatevpns@51.21.46.186:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN299505
 ss://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@94.242.55.42:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#AutoAiVPN544565
+vless://555f5ec1-6e33-4b05-9cb9-8c8dbcb49c6a@static.83.65.31.2.clients.your-server.de:8443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=static.83.65.31.2.clients.your-server.de#AutoAiVPN1106193
 vless://c2b0f077-5ef5-462f-b70c-cefb718b1155@165.245.241.161:440?encryption=none&type=tcp&headerType=http&host=play.google.com&path=/&security=none#AutoAiVPN1106177
 vless://2147c92e-00db-4d17-b106-143557d155ab@162.159.248.113:2083?security=tls&sni=pixel.miracleriders.top&type=ws&host=pixel.miracleriders.top&path=%2Fv2rayyngvpn&fp=chrome&alpn=h2,http/1.1#AutoAiVPN386136
 ss://c7270753-bd18-4696-956d-57dbde1183fe@gb.puflino.com:443?security=reality&encryption=none&pbk=65d6SIYIqiX-SN4vx_BnNiQJ8Lnr0HAgUKoT7WgWRgI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=edge-uk2.mystatic-cdn.ru&sid=ee169e93d3c277a1#AutoAiVPN956349
