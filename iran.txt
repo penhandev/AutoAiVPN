@@ -3345,6 +3345,7 @@ vless://0ebb1677-4902-476f-bc03-3e8c7ca6fd21@104.21.80.190:443?security=tls&sni=
 ss://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.81.19:80?security=none&type=ws&host=us3.rtacg.com&path=/#AutoAiVPN656363
 ss://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.26.3.222:80?security=none&type=ws&host=us3.rtacg.com&path=/#AutoAiVPN656358
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.26.3.222:80?security=none&type=ws&host=us3.rtacg.com&path=/#AutoAiVPN656354
+ss://95e8532b-cc69-42d4-9553-e3c23292b15b@45.151.101.103:443?encryption=none&security=reality&sni=maps.apple.com&fp=chrome&pbk=gr7DAOBqoNiHEUhWZQh3nSqBOmg6QwmRC0HKj7TOsUk&sid=2da4299da566b7&type=grpc&authority=&serviceName=your-custom-path&mode=gun#AutoAiVPN1107570
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.82.216:80?security=none&type=ws&host=us3.rtacg.com&path=/#AutoAiVPN501364
 ss://6da2c981-8c77-4340-bda3-93399b7aea26@87.199.207.116:443?type=xhttp&security=reality&fp=firefox&pbk=nalACuCZjV1sZx7QOH6yAIDio8mFI0FgVKYQvQHBKS4&sid=fb3a5f2d4ca346ed&sni=docs.blog-forme.ru&path=%2Fv2%2Fsync%2Faf2c0c#AutoAiVPN1107254
 ss://4f54572a-b852-4da3-8823-0ddccc60b5d8@icy-snowflake-1f56.147-1ea.workers.dev:8880?security=none&sni=icy-snowflake-1f56.147-1ea.workers.dev&type=ws#AutoAiVPN461833
@@ -4628,6 +4629,7 @@ ss://08b6dd4b-08df-4aa2-9580-92a3360cf07c@188.130.208.210:443?security=reality&e
 vless://94006a20-6cd6-4751-a14d-c5a0bacb68bb@64.188.79.106:443?security=reality&encryption=none&pbk=dBvFkg2zny545Ws6H_LXKEohOYV2MW_zACRrRQE1IUg&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=992e5a9a#AutoAiVPN734965
 vless://b0446189-b05d-4f64-acef-e43f13432a43@104.21.56.202:80?type=ws&host=mahdi-hector-wind-8655.sahegaw957.workers.dev&path=%2F%3Fed%3D2048#AutoAiVPN362906
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@16.60.198.0:22224?encryption=none&security=none&type=tcp#AutoAiVPN935955
+ss://9a0e84f8-4b58-477f-99da-5fac5a2e58e8@196.196.204.182:443?fp=chrome&pbk=pAgrBKJCmuSJHIzYkEJTqsOBOVBK_DMtEqFPo-PaTkg&security=reality&serviceName=0adb9638509b&sid=b3c9d0c6bdd114a6&sni=36a466g.fi1.h1clayd.click&type=grpc#AutoAiVPN1107583
 vless://9a0e84f8-4b58-477f-99da-5fac5a2e58e8@196.196.204.182:443?fp=chrome&pbk=pAgrBKJCmuSJHIzYkEJTqsOBOVBK_DMtEqFPo-PaTkg&security=reality&serviceName=0adb9638509b&sid=b3c9d0c6bdd114a6&sni=36a466g.fi1.h1clayd.click&type=grpc#AutoAiVPN1106599
 ss://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.228.254:80?security=none&type=ws&host=us3.rtacg.com&path=/#AutoAiVPN592909
 vless://d4b08cd6-0903-411a-9dac-45dbdf5c9712@57.131.38.163:2053?headerType=none&fp=chrome&sid=5b8a942318178e7b&type=tcp&security=reality&encryption=none&sni=www.apple.com&pbk=Ej2H5ucT7qKegYcT8wODdlxa-cLHr7F4hDVUHzAhcnc#AutoAiVPN997064
