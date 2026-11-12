@@ -5399,6 +5399,7 @@ ss://3d730013-2c01-42bd-9034-7aaf56da37bb@de16.bexait.ir:2434?security=reality&e
 ss://24a3853d-01c7-4fae-a0cc-97ef0f25a455@de2.bexait.ir:2434?security=reality&encryption=none&pbk=yzCvRpbQ-cRePaJAuQkw42_xEf-R860gFsQwoPki2E0&headerType=none&fp=chrome&type=tcp&sni=icloud.com&sid=9de041877612a718#AutoAiVPN955367
 ss://f234330e-f9df-46e3-8f60-b2af5173c147@p1real2.greewebservices.ir:1240?encryption=none&security=reality&sni=play.googleapis.com&fp=chrome&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=9b60d3&type=tcp&headerType=none#AutoAiVPN955358
 ss://98d0fa1b-d778-477e-b897-4e2569c53178@128.254.186.11:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mother-earth.fyi#AutoAiVPN955346
+ss://a35c508f-4d5d-4531-842e-6e9d43c762c0@bl1.nexfile.net:4443?encryption=none&mode=auto&path=/api/v1/sync/&security=tls&sni=bl1.nexfile.net&type=xhttp#AutoAiVPN1857532
 ss://f85183cf-af02-4656-b1e9-3a61dced201f@172.67.210.250:8080?type=ws&host=freeworld.aliaicode47649.workers.dev&path=/vl/uyXT65o0H9U3hDBrVjJ9E?ed=2560#AutoAiVPN902823
 ss://d342d11e-d224-4463-b982-532309285094@172.67.126.12:443?path=&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&fp=chrome&type=ws&allowInsecure=0&sni=ccc.010304.xyz#AutoAiVPN1857205
 ss://4d6d8e9b-0738-43c6-994f-ab475a7b3381@188.114.96.3:443?security=tls&encryption=none&type=ws&host=cxrolvpn.vipserver4.workers.dev&path=/0pfMXxNJIk81fSwG?ed=2560&sni=cxrolvpn.vipserver4.workers.dev&fp=chrome&alpn=http/1.1#AutoAiVPN1857176
@@ -6269,6 +6270,7 @@ vmess://eyJhZGQiOiIyMy4xNjIuMjAwLjE5OCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJo
 ss://e20ebe01-1815-4c09-8e77-fb2f168263ce@15.204.191.46:443?encryption=none&security=tls&sni=147135001178.sec22org.com&fp=chrome&type=tcp&headerType=none#AutoAiVPN1107890
 vless://db3f09ae-23f2-42b8-abee-7b89fb392c5e@maple.adaspoloandco.com:8443?path=%2Fuploader.php&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=maple.adaspoloandco.com#AutoAiVPN646159
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY%3D@15.204.246.111:5498?Telegram=Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server#AutoAiVPN538668
+ss://YWVzLTEyOC1nY206ZjQ5MThmMTJjNzhkNjJmZjJhZjdkMDMzYjE2NTM5ZDc@38.54.61.146:12135#AutoAiVPN1857543
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.163:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&host=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#AutoAiVPN954902
 ss://5adb25b6-b41a-46ac-a481-71651deb60c5@201.58.177.35:443?security=reality&sni=xb1.huinaduok.fans&sid=da4d87fa&headerType=none&flow=xtls-rprx-vision&pbk=DA1kJXSsIsN8H-kZ51jEYHafTx50X-2RGG8KNZuCISg&encryption=none&type=tcp&fp=firefox#AutoAiVPN1706948
 ss://YWVzLTI1Ni1nY206Qm9pWDEwMjkyNA==@107.173.192.238:9875#AutoAiVPN34
@@ -6557,6 +6559,7 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@47.76.49.246:2053?security=tls&sni=
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.236.202.91:2053?security=tls&sni=hkh.ylks.link&type=ws&path=/?proxyip#AutoAiVPN517723
 trojan://5t6i121em5lkmsmk@br001.zestapp778.com:39533?sni=br001.zestapp778.com&type=tcp&fp=chrome#AutoAiVPN1108460
 vless://b83faafc-cbb7-4655-99d4-2c4c39a49d1b@150.95.109.109:2086?security=none&type=tcp&packetEncoding=xudp&encryption=none#AutoAiVPN1259521
+ss://7fed5bf9-a1de-41a0-ab89-694265c4895f@199.232.13.32:80?path=/Channel-ELiV2RAY---ELiV2RAY?ed=2048&host=Channel-ELiV2RAY--ELiV2RAY.nET&type=ws#AutoAiVPN1857540
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.104.154:443?allowInsecure=1&type=tcp&security=tls&fp=chrome&sni=findtemporaryworkandfreelancerprojectsonlineplatform.com#AutoAiVPN1108458
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@62.216.92.167:804#AutoAiVPN583162
 vless://91ad30e9-ab06-4b4c-9fb9-1c2aa97d8b3a@152.32.167.33:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.amazon.com&fp=firefox&flow=xtls-rprx-vision&sid=cff998a4&pbk=Q8QwBSGN6J-FqgDV1pYNm0VThS_xNRyQ3DPPa9YZ3j4#AutoAiVPN1108103
