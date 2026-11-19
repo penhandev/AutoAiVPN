@@ -4827,6 +4827,7 @@ ss://2b383735-3c00-4cbd-8f7f-6e4e2a5e8ab6@104.21.10.29:443?security=tls&sni=cixo
 vless://1149be91-5a4f-47de-995f-66f8d7d64498@14.102.229.221:2096?security=tls&sni=De03.SiMaNsAnAt.Ir.&type=ws&host=De03.SiMaNsAnAt.Ir.#AutoAiVPN469236
 vless://FILTERSHCAN@5.75.243.143:8080?type=tcp&security=none#AutoAiVPN509090
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@31.76.4.103:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eu-central.cendora.ru&fp=firefox&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&sid=00bca5982f82d083&type=tcp&headerType=none#AutoAiVPN433920
+ss://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.145.19:22223?encryption=none&security=none&type=tcp#AutoAiVPN2910804
 ss://aa5d861a-7799-41a7-bdf4-7a6414cf98fd@uwu.blueknightnet.qzz.io:2052?path=%2F%40BlueKnight_net--%40BlueKnight_net&security=&encryption=none&host=uwu.blueknightnet.qzz.io&type=ws#AutoAiVPN943080
 ss://0d0b3fe7-cd79-4ff4-a760-aa6e5357ab41@172.67.175.86:443?path=/pa&security=tls&encryption=none&insecure=0&host=hs-495e987f.ndkwiut2718.ir&fp=chrome&type=ws&allowInsecure=0&sni=ndkwiut2718.ir#AutoAiVPN2910224
 ss://f292ef7e-5877-48ab-96c8-3d60a57aeb4e@static.84.177.202.116.clients.your-server.de:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=static.243.186.109.65.clients.your-server.de&fp=chrome&alpn=h2,http/1.1&type=tcp&headerType=none#AutoAiVPN2910002
