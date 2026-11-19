@@ -6978,6 +6978,7 @@ ss://00a84cc6-073c-454b-9487-f0b7238e715f@83.243.86.45:443?security=reality&encr
 ss://988f9e4c-bc5b-40ec-bef4-dcf92260f728@185.146.173.50:8080?security=none&type=ws&host=DAILYconfigs-dailyCONFIGS-DAILYconfigs.vigilantecollection.com.&path=%2FDAILY-CONFIGS%3Fed%3D8080#AutoAiVPN469266
 vless://683f302b-ab0f-4778-a85d-51b49ae669a1@web3.uferbuslub.com:443?security=reality&encryption=none&pbk=oIsA7DMuhWe2wzkbMQ3vdTxBd9nscofZ38Z_MVD43yU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=web3.uferbuslub.com&sid=b6811ec61d6877f0#AutoAiVPN1258070
 ss://ed995eb6-a361-4822-9098-17114ef2a69d@199.232.78.159:80?path=%2F&security=none&encryption=none&host=simorghgr.global.ssl.fastly.net&type=ws#AutoAiVPN734968
+vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@172.67.74.177:443?path=/fp&security=tls&encryption=none&insecure=0&host=fs.qicai99.com&type=ws&allowInsecure=0&sni=fs.qicai99.com#AutoAiVPN3061630
 vless://TG-FuckTheWall@201.8.81.117:443?encryption=none&extra={"mode":"packet-up","uplinkHTTPMethod":"GET","xPaddingBytes":"100-1000"}&fp=chrome&host=www.ethz.ch&mode=packet-up&path=/api/v1/stream&pbk=k7RqsI1Kip_ORgCMLeDHjyleJFoN0AJqxOXXCQnGjG4&security=reality&sid=6266751745c4f0df&sni=ethz.ch&spx=/f2e942ae3003092&support-x25519mlkem768=true&type=xhttp&x_padding_bytes=100-1000#AutoAiVPN3061572
 vless://c28ee61d-0d43-4e69-8e6a-6397ed0ffc03@31.43.191.39:443?security=reality&encryption=none&pbk=SHDdd617KLHHb0qlQFOHepeHFl_Ch2i-K7o891uyo2M&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=luminous-vortex.cdn.cachefleet.com#AutoAiVPN363130
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.233.250:22224?encryption=none&security=none&type=tcp#AutoAiVPN3060817
@@ -8372,6 +8373,7 @@ ss://20b98028-53c9-4f76-9bc9-b6b16b8a9152@54.39.96.233:8080?security=reality&enc
 ss://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.101.233:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2Fproxy_mtm%3Fed%3D2048&fp=randomized#AutoAiVPN351417
 ss://c6ac29f4-41d5-492a-a3d0-6582d620aba7@9lfgr4.dnetsolutions.ru:443?security=reality&encryption=none&pbk=ijDPaDKzsKkpYj9lEpBatS-FKdmYaGP3aUO2MThuLmU&fp=chrome&spx=/a0866014b7d1282&type=grpc&serviceName=grpc-82&sni=max.ru&sid=e56ea883b092f3#AutoAiVPN1707923
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443#AutoAiVPN729
+vless://9443badf-414f-4b12-b19a-7cc2c7431163@103.31.4.254:8443?path=%2Fman&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=moz.ar-marz.fun&amp;fp=firefox&amp;type=ws&amp;allowInsecure=0&amp;sni=moz.ar-marz.fun#AutoAiVPN3061636
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@134.195.196.128:7002#AutoAiVPN395090
 vless://9443badf-414f-4b12-b19a-7cc2c7431163@103.31.4.75:8443?encryption=none&fp=firefox&host=moz.ar-marz.fun&path=%2Fman&security=tls&sni=moz.ar-marz.fun&type=ws#AutoAiVPN2759414
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.90:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#AutoAiVPN927008
