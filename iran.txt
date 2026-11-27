@@ -1139,6 +1139,7 @@ vless://35f3f746-54fd-457c-9606-f4ef66416d6d@162.159.153.2:2096?security=tls&sni
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.158.215:80?security=none&type=ws&host=us3.rtacg.com&path=/#AutoAiVPN630474
 ss://6202b230-417c-4d8e-b624-0f71afa9c75d@chat.openai.com:8880?path=/&security=none&encryption=none&host=vms.lifetime29.workers.dev&type=ws#AutoAiVPN1857231
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.154.230:80?security=none&type=ws&host=us3.rtacg.com&path=/#AutoAiVPN630453
+vless://f2a73750-3087-48ff-a763-1348c15dce68@medium.com:443?type=ws&encryption=none&flow=&host=rAyAn-007.mAxImA.DpDnS.OrG&path=%2F%3Fed%3D2560&security=tls&sni=rAyAn-007.mAxImA.DpDnS.OrG&fp=chrome&allowInsecure=0&insecure=0#AutoAiVPN4613377
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.145.2:443?path=%2F&security=tls&encryption=none&insecure=1&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&allowInsecure=1&sni=t1s1.rittbo.kdns.fr#AutoAiVPN58429
 ss://12d67d2b-ae5c-4d56-9f14-d71d96f7826f@104.17.3.81:443?path=%2Fvlessws&security=tls&encryption=none&host=natan.srpcom.cloud&type=ws&sni=natan.srpcom.cloud#AutoAiVPN4442021
 ss://8137e9a6-22e6-4707-a120-a6dea17c7e00@www.speedtest.net:2086?path=%2FeyJqdW5rIjoic1VBWDhGMXJsREg5WUoiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyI4My4xNDcuMjU0LjI0NSJdfQ%3D%3D%3Fed%3D2560&security=none&encryption=none&host=dry-snow-2e6f.fastip25478.workers.dev&type=ws#AutoAiVPN448607
@@ -8127,6 +8128,7 @@ ss://287db857-de04-4212-bd69-5d14083e340e@167.233.129.126:2474?security=none&amp
 ss://cda0862a-0f87-4be9-8ed8-1d0c9e382839@79.182.70.81:443?encryption=none&fp=&mode=auto&path=/d610f026b146&pbk=jhVdP7NFUaEXGfrmOqJlMCHTvqn3fymbzPfPT6NO4i0&security=reality&sid=f72d4a2c7cbbacb1&sni=80cb66x.nl13.h1clayd.click&type=xhttp#AutoAiVPN2158371
 ss://c6a4260f-52e1-4bda-aabf-3d5f35f87df7@46.8.68.18:443?encryption=none&type=tcp&headerType=none&security=reality&fp=chrome&sni=www.amazon.com&pbk=yYvm8aGIRJ7Hdyhosd8BzOYK9-_eolSAXRGSTZkrHkI&sid=e82433ebb4eb&spx=/5b5a68680eea82c#AutoAiVPN2158159
 ss://1b5ffa7d-ccc7-4489-aa9d-27ddbfc7f43d@91.107.255.228:8443?encryption=none&amp;fp=chrome&amp;pbk=iMi_BgDPs17iBPlwmjXMbwjBmFLc2UpgR4_c-30FXSQ&amp;security=reality&amp;sid=82&amp;sni=storage.googleapis.com&amp;spx=%2FBFEzB8GPPWDNeAV&amp;type=tcp#AutoAiVPN955568
+vless://9a597d68-6688-4046-bf24-a5a541e115e0@135.136.33.134:8443?sni=www.apple.com&security=reality&flow=xtls-rprx-vision&encryption=none&fp=chrome&headerType=none&pbk=6FI4VM9WlQEGVjyCvLDQLz1jOkrzzhtfGl9eQTBn6HU&type=tcp&sid=f8d0271b4b5f9efc#AutoAiVPN4613410
 ss://cda4db41-d347-4b9e-9519-7408d81f3416@46.8.69.218:8080?security=none&encryption=mlkem768x25519plus.native.0rtt.kRj1lYuq4A7jfLZlVIX_AbbTldNIOA0j5PjD14N9_1Q&host=tgju.org&headerType=http&type=tcp#AutoAiVPN4441475
 vless://d7283148-ce6a-495d-8018-4a1a6da55304@167.233.217.107:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=static.40.68.12.49.clients.your-server.de#AutoAiVPN4263779
 ss://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.21.230.185:80?security=none&type=ws&host=us3.rtacg.com&path=/#AutoAiVPN575222
